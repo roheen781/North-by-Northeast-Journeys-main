@@ -1,0 +1,393 @@
+######################### default configuration ###############################
+baseURL = "http://northbynortheast.in"
+title = "North by Northeast Journeys | Travels in Northeast India"
+theme = "biztrox"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/magnific-popup.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick-theme.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/animate/animate.css"
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/magnific-popup.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/filterizr/jquery.filterizr.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/google-map/gmap.js"
+
+
+#################################### navigation ##################################
+[menu]
+    
+  # main menu
+ [[menu.main]]
+  weight = 1
+  name = "Activities"
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Cycling"
+    URL = "cycling"
+    weight = 1
+
+   [[menu.main]]
+    parent = "Activities"
+    name = "Treks & Walks"
+    URL = "treks"
+    weight = 2
+
+     [[menu.main]]
+    parent = "Activities"
+    name = "Multi-Activity"
+    URL = "multiactivity"
+    weight = 3
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Motorcycle & Overland"
+    URL = "motorcycle"
+    weight = 4
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Family Adventures"
+    URL = "family"
+    weight = 5
+
+     [[menu.main]]
+    parent = "Activities"
+    name = "River Journeys"
+    URL = "rivertrips"
+    weight = 6
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Wildlife"
+    URL = "wildlife"
+    weight = 7
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Ethno-Cultural"
+    URL = "culture"
+    weight = 8
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Wild Flower Trails"
+    URL = "wildflowertrails"
+    weight = 9
+
+    [[menu.main]]
+    parent = "Activities"
+    name = "Youth Travels"
+    URL = "youth"
+    weight = 10
+
+  [[menu.main]]
+  weight = 2
+  name = "Destinations"
+  hasChildren = true
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Assam"
+    URL = "assam"
+    weight = 1
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Meghalaya"
+    URL = "meghalaya"
+    weight = 2
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Arunachal Pradesh"
+    URL = "arunachalpradesh"
+    weight = 3
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Nagaland"
+    URL = "nagaland"
+    weight = 4
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Sikkim & Darjeeling"
+    URL = "sikkim"
+    weight = 5
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Bhutan"
+    URL = "bhutan"
+    weight = 6
+
+     [[menu.main]]
+    parent = "Destinations"
+    name = "Myanmar"
+    URL = "myanmar"
+    weight = 7
+
+   
+
+
+ [[menu.main]]
+  weight = 3
+  name = "Fixed Departures"
+  hasChildren = true
+   
+   [[menu.main]]
+    parent = "Fixed Departures"
+    name = "Departures 2020/21"
+    URL = ""
+    weight = 1
+
+   [[menu.main]]
+    parent = "Fixed Departures"
+    name = " Covid-19 Getaways"
+    URL = ""
+    weight = 2
+ 
+   [[menu.main]]
+    parent = "Fixed Departures"
+    name = "Expedition Series"
+    URL = ""
+    weight = 3
+
+   [[menu.main]]
+  weight = 4
+  name = "About Us"
+  hasChildren = true
+   
+   [[menu.main]]
+    parent = "About Us"
+    name = "About"
+    URL = "about"
+    weight = 1
+
+    [[menu.main]]
+    parent = "About Us"
+    name = "Team"
+    URL = "team"
+    weight = 2
+
+    [[menu.main]]
+    parent = "About Us"
+    name = "Insights"
+    URL = "insights"
+    weight = 4
+  
+  [[menu.main]]
+  name = ""
+  URL = "about"
+  weight = 4
+   
+  [[menu.main]]
+  name = ""
+  URL = "team"
+  weight = 5
+  
+  [[menu.main]]
+  name = ""
+  URL = "pricing"
+  weight = 56
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+  
+
+  # footer menu
+  [[menu.footer]]
+  name = "Legal"
+  URL = "#"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Sitemap"
+  URL = "#"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "Privacy Policy"
+  URL = "#"
+  weight = 3
+  
+  [[menu.footer]]
+  name = "Terms & Conditions"
+  URL = "#"
+  weight = 4
+
+
+########################### default parameters #################################
+[params]
+logo = "images/logo.png"
+logo_white = "images/logo-footer.png"
+mail = "info.northbynortheast@gmail.com"
+mobile = "+91 99404 16065/ 80406 07723"
+# Meta data
+description = "Adventure and Culture tours in Northeast India"
+author = "North by Northeast Journeys"
+# contact form
+contact_form_action = "#"
+# Google Analitycs
+google_analitycs_id = "Your ID"
+
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# nav Button
+[params.nav_button]
+enable = true
+link = "contact"
+
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif"
+
+############################ Contact information ############################
+[[params.contacts]]
+icon = "ti-mobile"
+
+  [[params.contacts.contact]]
+  contact_item = "+91 99404 16065"
+
+  [[params.contacts.contact]]
+  contact_item = "+88 987 654 3210"
+
+[[params.contacts]]
+icon = "ti-email"
+
+  [[params.contacts.contact]]
+  contact_item = "info.northbynortheast@gmail.com"
+
+ 
+  
+[[params.contacts]]
+icon = "ti-map-alt"
+
+  [[params.contacts.contact]]
+  contact_item = "Mansiri House, Deorigaon. <br> Tezpur, Assam, 784001"
+
+############################ google map #####################################
+[params.gmap]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "26°38'53.0"
+map_longitude = "92°46'13.2"
+map_marker = "images/marker.png"
+
+############################ client logo slider #############################
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-1.png"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-2.png"
+link = "https://examplesite.com"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-3.png"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-4.png"
+link = "https://examplesite.com"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-5.png"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/client-logo/client-logo-3.png"
+link = "https://examplesite.com"
+
+########################### social icon #####################################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.facebook.com/northbynortheastjourneys"
+
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/north_by_northeast/"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
+
+
+
+[Languages]
+  
+  ################################### English language #####################################
+  [Languages.en]
+  languageName = "En"
+  languageCode = "en-us"
+  contentDir = "content/english"
+  weight = 1
+  home = "Home"
+
+  # footer
+  [Languages.en.params.footer]
+  content = "North by Northeast Journeys, as the name suggests, specializes in the little-known Northeastern region of India. Our Tour Packages cover Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim as of now. Although most of our tours are activity based, our true focus lies on the people, the culture and environment of this region."
+
+  
+  # copyright
+  copyright = "Copyright&copy; 2019 ,  North by Northeast Journeys" 
+
+
+
+################################ Franch language ################################
+  [Languages.fr]
+  languageName = "Fr"
+  languageCode = "fr-fr"
+  contentDir = "content/french"
+  weight = 2
+  home = "Accueil"
+
+  # footer
+  [Languages.fr.params.footer]
+  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+
+  # subscribe
+  subscribe = "Subscribe Us"
+  subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+
+  # copyright
+  copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"

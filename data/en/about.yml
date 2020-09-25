@@ -1,0 +1,46 @@
+###################################### philosophy ####################################
+philosophy:
+  enable : true
+  subtitle : 
+  title : Exploring the Northeast since 2010
+  content : After having worked in the field of outdoors pan India for over 7 years, we moved back to the east and started North by Northeast Journeys in 2010. It took us some time to get a clear vision of our intentions here and how to go about it. The argument was between authenticity vs catering to popular demands that usual tours offer. Our intention is to provide active, interactive and authentic tours to the truest form. We have no intention of changing the local way of life in any degree to cater tourist demands, rather we work to facilitate authentic observation and interactions. The sensitive nature of this region’s people and environment requires that our actions are not detrimental in multiple levels. Over the past decade we have worked hard to ensure our itineraries are unique. We have no intention of aping any trends, rather be driven by local practicalities and more importantly by our conscience. Though almost all our tours are active, we do revolve it around the people, the environment and the history of this region.
+  image : images/about/philosophy.jpg
+
+###################################### ceo ########################################
+ceo:
+  enable : true
+  bg_image : images/about/ceo.jpg
+  title : Our Vision for our Region
+  content : To give authentic local prospective to our guests. Facilitate safe, enjoyable and responsible travel. All local personnel and logistic support. Small locally owned and managed establishments be it Homestays, Lodges, Community guest houses etc. Facilitate authentic interactions and experiences. Train and empower local youth to be able to take up Adventure Tourism related activities to showcase this abundant region.
+
+########################################### Mission ###################################
+mission:
+  enable : true
+  # mission content comes from "data/*/homepage.yml" file
+
+###################################### funfacts ####################################
+funfacts: 
+  enable : false
+  bg_image : images/background/CTA new.jpg
+  counter:
+    - title : Unique Itineraies
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      count : 30
+      
+    - title : Years of Operational Experience
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      count : 16 
+      
+    - title : States Covered
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      count : 6
+      
+    - title : Awards Win
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      count : 130
+
+########################################### skill ###################################
+skill:
+  enable : true
+
+  # skill content comes from "data/*/homepage.yml" file

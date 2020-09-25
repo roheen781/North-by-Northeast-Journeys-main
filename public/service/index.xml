@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Active, Interactive and Authentic journeys across Northeastern India on North by Northeast Journeys | Travels in Northeast India</title>
+    <link>http://northbynortheast.in/service/</link>
+    <description>Recent content in Active, Interactive and Authentic journeys across Northeastern India on North by Northeast Journeys | Travels in Northeast India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="http://northbynortheast.in/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Adventures</title>
+      <link>http://northbynortheast.in/service/active-adventures/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/service/active-adventures/</guid>
+      <description>We offer Active Adventure tours for the avid as well as novice, be it relaxed or a real test of determination and endurance.</description>
+    </item>
+    
+    <item>
+      <title>Nature &amp; Culture</title>
+      <link>http://northbynortheast.in/service/wildlife-culture-copy/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/service/wildlife-culture-copy/</guid>
+      <description>These 8 states lying in the Indo-Burmese and the Himalayan Bio-diversity hotspots are also home to over 150 unique and distinct ethinic groups.</description>
+    </item>
+    
+    <item>
+      <title>Laidback Leisure</title>
+      <link>http://northbynortheast.in/service/leisure/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/service/leisure/</guid>
+      <description>Holidays that take you away from the maddening crowds, kick off your shoes, destress and enjoy the serenity while we take care of the rest.</description>
+    </item>
+    
+  </channel>
+</rss>

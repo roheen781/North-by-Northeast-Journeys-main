@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on North by Northeast Journeys | Travels in Northeast India</title>
+    <link>http://northbynortheast.in/categories/</link>
+    <description>Recent content in Categories on North by Northeast Journeys | Travels in Northeast India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 11:10:46 +0600</lastBuildDate>
+    
+	<atom:link href="http://northbynortheast.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Activity</title>
+      <link>http://northbynortheast.in/categories/multi-activity/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/categories/multi-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycling</title>
+      <link>http://northbynortheast.in/categories/cycling/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/categories/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motorcycle</title>
+      <link>http://northbynortheast.in/categories/motorcycle/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://northbynortheast.in/categories/motorcycle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

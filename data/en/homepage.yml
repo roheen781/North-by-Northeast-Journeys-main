@@ -1,0 +1,179 @@
+###################### hero slider ###########################
+slider:
+  enable : true
+  slider_Item:
+    # slider item loop
+    - bg_image : images/banner/banner-1.jpg
+      animation_from : left
+      title : NORTHEAST INDIA
+      subtitle : Active adventures in
+      content : CYCLING, WALKIMG, MULTI-ACTIVITY, MOTORCYCLE, OVERLAND, FAMILY ADVENTURES, RIVER TRIPS
+      pagination_name : Adventure
+      button:
+        enable : true
+        label: More details
+        link : "service"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-2.jpg
+      animation_from : up
+      subtitle : Cultural immersion in
+      title : NORTHEAST INDIA
+      content : TRIBES, FESTIVALS, CRAFT, CUISINE, HISTORY
+      pagination_name : Culture
+      button:
+        enable : true
+        label: More details
+        link : "about"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-3.jpg
+      animation_from : down
+      subtitle : Nature Escapades in
+      title : NORTHEAST INDIA
+      content : WILDLIFE SAFARIS, WILDFLOWER TRAILS
+      pagination_name : Nature
+      button:
+        enable : true
+        label: More details
+        link : "about"
+        
+    # slider item loop
+    - bg_image : images/banner/banner-4.jpg
+      animation_from : right
+      subtitle : Leisurely Getaways in
+      title : NORTHEAST INDIA
+      content : FAMILY GETAWAYS, QUIET OFF THE MAP GETAWAYS  `
+      pagination_name : Leisure
+      button:
+        enable : true
+        label: More details
+        link : "about"
+
+
+########################################## Service ####################################
+service:
+  enable : true
+  # service item comes from "content/service" folder
+
+
+
+
+        ########################################## project ####################################
+project:
+  enable : true
+  # project item comes from "content/project" folder
+
+
+
+######################################## About #########################################
+about:
+  enable : true
+  bg_image : "images/background/NE.jpg"
+  title : "Welcome to India's far East"
+  content : "We at North by Northeast Journeys have over the years actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India including Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventure, Wildlife, Culture and Youth travel , all have local history, culture, interactions and environment as their centerpiece."
+  # bullet point
+  bullet_point:
+    
+  button:
+    enable : true
+    label : "Know More"
+    link : "about"
+
+##################################### Skill ##############################################
+skill:
+  enable : true
+  subtitle : Our Responsibility Quotient
+  title : Why Choose Us
+  content: Right from the onset our intent was to make a difference, to be meaningful and most of all sustainable in the long run. We had a lot of experience in the operational side of running tours, however our mind was far outweighed by questions of how to go about things beyond the operations. The main questions were to do with how we could be more impactful locally, how our activities did not change the overall local way of life and how could our tours be more authentic and bring out the local prospective. Over the years we have evolved, mostly through trial and error. We started with forming a all local team of willing individuals who were not tainted by the usual understanding of 'Tourism' and yet very handy in their surroundings. We have tried our best to generate income for locals in a way that though fairly substantial is not their primary source of imcome, a way that encourages them to continue their usual way of life. We dont encourage locals to dress up, dance etc for tourist, for these things are best observed in its true authenticity during festivals. We never bargain with the bottom of the chain, the people who make all this a reality, we firmly belive in dignity and equality of labour. Finally, we follow all the age old ways of 'Leave no trace' travel.
+  # progressbar
+
+  progressbar : 
+    - title : Local Team
+      progress : 99%
+      
+    - title : Locally owned Transport
+      progress : 100%
+      
+    - title : Purchases from small locally owned businesses
+      progress : 100%
+      
+    - title : Local Family & Community owned Accommodation
+      progress : 100%
+      
+
+
+########################################### Mission ###################################
+mission:
+  enable : true
+  title : The region at a glance
+  content : 
+  image : images/NE-Map-for-site-1-1024x732.png
+  accordion:
+    - title : The Region
+      description : This little known corner of the Indian Subcontinent sharing international borders with Bhutan, Tibet, China, Myanmar and Bangladesh is connected to mainland India by a small sliver of land in the state of West Bengal popularly known as the Chickens neck. Consisting of Eight states this region is formed like a gigantic basin with the Brahmaputra and Barak valleys taking center stage.The northern border with Tibet and China is barricaded by the giant east Himalayan landmass, in the east the densely forested Patkai bum and Naga Patkai ranges bordering Burma take over running south all the way to Chaifil Tlang and Uiphum Tlang ranges in Mizoram (which further runs off east to the Chin hills and Arakan Yoma of Burma).In the south the Jaintia, Khasi and Garo Hills of Meghalaya bordering the rich plains of Bangladesh completes the formation.This region is incidentally the closest that the Himalayan mountain range gets to the coast. This geographical factor added to the fact that this region also receives some of the highest rainfall in the planet has resulted in the one of the greatest diversity in flora and fauna and hence also a diverse mix of people.
+      
+    - title : The People
+      description : Perhaps the same reason that makes this region so rich in its natural diversity also makes it the most Ethnic, Linguistic and Cultural diverse region in the Indian sub-continent. For example, the state of Arunachal Pradesh itself has over 26 major tribes with over 100 sub-tribes and clans speaking some 50 odd dialects. These tribes provide a cultural bridge between India and south East Asia, China, Inner Asia and Burma by ethnic and linguistic angles, as most of these tribes migrated here from the North and the East over the centuries.These eight states in themselves constitute a single linguistic region with about 220 languages in three different language groups (Indo-Aryan, Sino-Tibetan and Austric).The earliest recorded history can be traced back only to the Ahom kings (16thAD) who ruled the Brahmaputra valley. Unlike the rest of India, majority here bear Mongoloid features..
+      
+    - title : The Environment
+      description : This region has a predominantly humid sub-tropical climate with hot, humid summers, severe monsoons and fairly mild winters. Along with the west coast of India, it has some of the Indian sub-continent’s last remaining rain forests which support’s diverse flora and fauna and several endemic species. It has been pooled under the Eastern Himalayan and the Indo-Burmese Biodiversity hot spots. The close proximity of the High Himalayas to the coast has created a compact stretch of land with a multitude of vegetation. If we take a closer look, we see that the Ecology of the region varies from Alpine Tundra in the northern regions to Tropical and Sub tropical Rainforests in the lower areas. The central river valleys support Grasslands and large wetland areas. This variety in Eco-systems has created a heaven for bio-diversity. This region also boasts of the highest density of protected Wildlife Reserves in the country. Kaziranga, Manas, Nameri and Namdapha National Parks are some of the better known ones. It also has some of the highest densities of Tigers, Elephants and the Great one horned Rhinoceros, the only ape species found in India and the only Wildlife parks to have 5 felines’ species
+
+
+##################################### Promo video ####################################
+promo_video:
+  enable : false
+  title : "We Are Alawys <br> Comited"
+  bg_image : "images/background/promo-video.jpg"
+  video_URL : "https://youtu.be/rWlmu-Y6wx8"
+  video_title : "Lorem ipsum dolor <br> sit amet con."
+
+
+##################################### call to action #################################
+cta:
+  enable : false
+  bg_image : "images/background/cta.jpg"
+  title : "Biztrox give the smart solution for your business"
+  button:
+    enable : false
+    label : "get a quote"
+    link : "contact"
+
+##################################### call to action #################################
+testimonial:
+  enable : true
+  subtitle : 
+  title : Clientspeak
+  image : images/Clientspeak.jpg
+  testimonial_item : 
+
+    - name : Felicity & Ben
+      content : An unconventional choice for a honeymoon but one of the best choices we have ever made! We were attracted to Arunachal Pradesh because of the adventure of visiting somewhere untouched, we were attracted by the wildlife opportunities and were fascinated to visit the many tribes.With their network and expert knowledge of the area, we trusted their judgement and were delighted by the cycling routes (great mixture of terrain and scenery); the hikes – arriving at Glow Lake was one of the most special moments, we have never found somewhere so remote, wild and beautiful before or since.
+      designation : Multi-Activity Tour of Eastern Arunachal Pradesh
+      
+    - name : Ronny Webber
+      content : In a few words, these are the people you can trust. They know the area, they know the local people, they love the outdoors! My kind of people. You’re guaranteed to have a good time and being well taken care of!
+      designation : Cycle Tour of the Mishmi Hills
+      
+    - name : Nora & Ben
+      content : If you want to explore the far Northeast of India and get close to the extremely diverse culture and nature, these guys will take you there. Carrying the spirit of adventure in their heart, Roheen and his team offer a selection of highly attractive cycle and multi-sport escapes to the farthest points in Arunachal Pradesh – places where it’s very difficult for individually travelling tourists to reach. We did the Eastern Arunachal Pradesh Multi Activity Tour in one week (four days cycling, two days hiking) and were guided by Iho, one of the NbNE guides, who was an extremely supportive, attentive, and capable leader. We are relatively experienced travellers, used to go on our own, and were hesitant at first to follow an organised trip. But we realised that we would hardly have been able to get to the places we visited, let alone to cycle there (considering also the hassle with logistics). Parts of the tour were off motorable roads, crossing a river without a bridge and small villages in areas where it is hard to stock up on food, and we hiked through thick jungle where you have to go with a guide anyways. Accomodation was basic but having someone preparing delicious food for us even in the jungle was a great luxury that we enjoyed a lot. Don’t expect much more luxury, though. It’s all simple, but real. The places in Arunachal Pradesh are definitely off the beaten track. This makes encounters with local tribes people all the more authentic. The great service NbNE offers, is to take you there.
+      designation : Multi-Activity Tour
+
+    - name : Prasad Chinappa
+      content : One of the best in the business in north east, me and my friends from Dubai have done 2 motor bike rides ( Bhutan & Arunachal ) with them and we had best of the experience with Roheen -with his passion for what he does and his great bunch of colleges/ friends Vasanth, Manjeet, Lekha ,Anjite…great bunch of guys! Try them and Iam sure you will get addicted to them and for what they do. Thank you Roheen and team we shall ride with you guys very soon! All the very best!!
+      designation : Motorcycle Tours (Bhutan & Arunachal Pradesh)
+
+    - name : Zubair Ahmed
+      content : I had a great biking trip with Roheen &the entire north by north east team & could rate this by far one of my best experiences , what I like about Roheen Is that he takes his job very seriously & goes all out to make sure that we have had the best of experiences & he left no stone unturned to make us comfortable throughout our stay,whether it’s in the wilderness or accommodating us in some hotels or home stays , He has amazing knowledge about the places around & will make sure that each one of u had the best time of ur life , My memories of this trip are etched for ever & I thank the entire North by North east team for all the effort they put in , we took back not just a great experience of biking but much more than that & that is only possible if some one takes their job to heart & put it all they have to make it a memorable one . Cheers N x NE u guys rock
+      designation : Motorcycle Tour of Arunachal Pradesh & Meghalaya
+
+      
+########################################## blog ####################################
+blog:
+  enable : true
+  # blog item comes from "content/departures" folder
+  
+################################ clints logo slider ################################
+clients_logo_slider:
+  enable : false
+  # clients logo comes from "config.toml" folder

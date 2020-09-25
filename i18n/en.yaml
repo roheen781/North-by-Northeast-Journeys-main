@@ -1,0 +1,45 @@
+- id: nav_button
+  translation: Enquire
+- id: service_title
+  translation: Where South and Southeast Asia meet
+- id: project_title
+  translation: Our Tours
+- id: blog_subtitle
+  translation: Upcoming Trips
+- id: blog_title
+  translation: Departures 2020/21
+- id: services
+  translation: Services
+- id: quick_links
+  translation: Quick Links
+- id: contact_us
+  translation: Contact Us
+- id: contact_form
+  translation: Contact Form
+- id: submit
+  translation: Submit
+- id: buy_now
+  translation: Buy Now
+- id: service_brochure
+  translation: Adventure Tours Brochure
+- id: download_pdf
+  translation: Download pdf
+- id: opening hours
+  translation: Cycling 
+- id: contact_info
+  translation: Contact Information
+- id: follow_on_social
+  translation: Follow on Social
+- id: cv
+  translation: Professional CV
+- id: overview
+  translation: This Tour
+
+- id: case_study
+  translation: Tour Brochure
+- id: free_consultation
+  translation: Enquire
+- id: all
+  translation: All
+- id: share
+  translation: Share
