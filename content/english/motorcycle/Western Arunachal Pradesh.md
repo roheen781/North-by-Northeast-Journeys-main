@@ -2,8 +2,8 @@
 title: "ARUNACHAL PRADESH (West): High roads of the Monyul region | Motorcycle & Overland Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Western Arunachal Pradesh"
-bg_image: images/background/motorcycle/tawang motorcycle trip.jpg
-image : images/background/motorcycle/tawang motorcycle tour.jpg
+bg_image: images/background/motorcycle/Motorcycle tour of Western Arunachal Pradesh main.jpg
+image : images/background/motorcycle/Tawang motorcycle tour.jpg
 live_demo :
 case_study : 
 category: Moderate to Strenuous
@@ -34,7 +34,10 @@ overview:
   - label : BEST TIME
     icon : ti-shine
     data : Sept - May
-
+ 
+  - label : COST 
+    icon : ti-wallet
+    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
  
 
 
@@ -44,9 +47,9 @@ type : project
 
 ### Riding along the Bhutan and Tibetian borders
 
-This tour takes us to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas. This region is historically settled by the Tibetian Buddhism related tribes such as the Monpa, Sherdukpen and Brokpa. Historically this region has had close cultural and religious ties both to Bhutan and Tibet due to it being the tri-juncture between these three Kingdoms, infact it was under the protectorate of Tibet uptill 1945.
+This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas. This region is settled by the Tibetian Buddhism related tribes such as the Monpa, Sherdukpen and Brokpa. Historically this region has had close cultural and religious ties both to Bhutan and Tibet due to it being the tri-juncture between these three Kingdoms, infact it was under the protectorate of Tibet uptill 1945.
 
-Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse la pass, Gorsum Chorten and Nameri Wildlife Sanctuary are some of the highlights of this circuit.
+Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse la pass, Gorsum Chorten and Nameri Wildlife Sanctuary are some of the highlights of this circuit. Riding conditions vary with canging road conditions and the time of travel. Good flat highways of Assam make way for a mix of good road conditions below the treeline and untarred jeepable tracks beyond the treeline.
 
 ###### ROUTE TOPOLOGY
 
@@ -59,7 +62,7 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 > Level: Moderate to Strenuous
 > Total Days: 8 to 12
 > Riding Distance: Upto 1400 Km
-> Terrain: 70 % Mountanious 
+> Terrain: 65 % Mountanious 
 > Altitude variation: 50 to 4600 mts
 
 > Best Time: October to May
@@ -130,4 +133,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  

@@ -1,9 +1,9 @@
 ---
-title: "ARUNACHAL PRADESH: Hike, Bike, Raft & Culture in India's far east | Multi-Activity Tour"
+title: "ARUNACHAL PRADESH (EAST): Hike, Bike, Raft & Culture in India's far east | Multi-Activity Tour"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/multiactivity/Eastern Arunachal main.jpg
-image : images/background/multiactivity/eastern arunachal.jpg
+description : "Active holiday in Eastern Arunachal Pradesh"
+bg_image: images/background/multiactivity/Eastern arunachal multiactivity tour main.jpg
+image : images/background/multiactivity/Eastern Arunachal Pradesh multiactivity tour.jpg
 live_demo : 
 case_study : 
 category: Moderate
@@ -35,7 +35,7 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST 
+  - label : COST 
     icon : ti-wallet
     data : INR XX,000 onwards ( Based on two persons travelling on twin share)
 
@@ -44,25 +44,27 @@ overview:
 type : project
 ---
 
-### Hike, Bike and Raft in India's far east
+### Birth of one of the greatest river valleys
 
-This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River. This region situated at the foothills of the Mishmi hills is the land of the Animist and Theravada Buddhist tribes. Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into the Namdapha Wildlife Sanctuary. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang River.
+This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills is the land of the Animist and Theravada Buddhist tribes. 
+
+Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into theKamlang and  Namdapha Wildlife Sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers.
 
 
 
 ###### AT A GLANCE
 ```
-. Level: Moderate
-. Total Days: 7 to 14
-. Max. Cycling days: 6 days
-. Max. Hiking days: 5
-. Terrain: 50% Hilly 
-. Rafting: upto 2 day
-. Altitude variation: 50 to 1200 mts
-. Best Time: October to March
-. Accommodation: Lodges, Cottages & Camps
-. Airport in: Dibrugarh (Assam)
-. Airport out: Dibrugarh (Assam)
+> Level: Moderate
+> Total Days: 6 to 12
+> Max. Cycling days: Upto 6 days
+> Max. Hiking days: Upto 5
+> Terrain: 50% Hilly 
+> Rafting: upto 2 day
+> Altitude variation: 50 to 1200 mts
+
+> Best Time: October to March
+> Airport in: Dibrugarh (Assam)
+> Airport out: Dibrugarh (Assam)
 ```
 
 
@@ -70,37 +72,41 @@ This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, raft
 
 ###### HIGHLIGHTS
 ```
-. Around the watershed of the Mighty Brahmaputra
-. Cycle across territories 6 different tribes
-. Hike through dense tropical forests at the eastern edge of India
-. Raft the rapids of some the wildest himalayn rivers
-. Indulge in a plethora of cuisine
-. Explore the Namdapha Wildlife Sanctuary
-. Camps, Homestays and family run lodges
+> Around the watershed of the Mighty Brahmaputra
+> Cycle across territories 6 different tribes
+> Hike through dense tropical forests at the eastern edge of India
+> Raft the rapids of some the wildest himalayn rivers
+> Indulge in a plethora of cuisine
+> Explore the Namdapha Wildlife Sanctuary
 ```
 
 ###### INCLUSIONS
 ```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
-. FA Kit
-. Tools and spares
-. Activities as mentioned
+> All accommodation
+> All Meals
+> Refreshment and water throughout
+> SUV backup throughout
+> Guide throughout
+> Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+> FA Kit
+> Tools and spares
+> Activities as mentioned
+> All permits
 ```
 
-###### Acommodation and Meals on this tour
+###### ACCOMMODATION AND MEALS ON THIS TOUR
 
-Accomodation will be mostly done in small family run lodges which offer all the basic luxuries. They are small, clean and give you the local flavour. There are a couple of days of camping in picturesque locations. As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey. 
+```
+ > Accommodation: Family run Eco Lodges and Camping
+ > Meals: As much as possibly we try cover all the local cuisines
+ > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+```
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/multiactivity/Easternarunachalmultiactivitytourgallery.jpg)
+![What is this](/images/background/multiactivity/easternarunachalmultiactivitygallery.jpg)
 
 ### FAQ
 
@@ -125,6 +131,6 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
 
 

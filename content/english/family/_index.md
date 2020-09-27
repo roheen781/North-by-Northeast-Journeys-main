@@ -1,7 +1,7 @@
 ---
 title: "FAMILY HOLIDAYS IN NORTHEASTERN INDIA"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/family/family hero.jpg
+bg_image: images/background/family/Family holidays in Northeast India.jpg
 description : "Family holidays in northeast India"
 ---
 

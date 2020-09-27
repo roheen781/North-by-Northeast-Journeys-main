@@ -1,9 +1,9 @@
 ---
-title: "4 STATES NE INDIA: The Eastern Arc | Motorcycle & Overland Tour"
+title: "4 STATES NORTH EAST INDIA: The Eastern Arc | Motorcycle & Overland Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Northeast India"
-bg_image: images/background/motorcycle/Eastern Arch Motorcycle Tour.jpg
-image : images/background/motorcycle/4 states NE moto.jpg
+bg_image: images/background/motorcycle/4 states northeast india motorcycle main.jpg
+image : images/background/motorcycle/4 states northeast india motorcycle tour.jpg
 live_demo : 
 case_study : 
 category: Strenous
@@ -21,7 +21,7 @@ overview:
     
   - label : DURATION
     icon : ti-flag-alt
-    data : 15- 18 days
+    data : 14 - 17 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -34,6 +34,10 @@ overview:
   - label : BEST TIME
     icon : ti-shine
     data : Sept - April
+
+  - label : COST 
+    icon : ti-wallet
+    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
 
 # type
 type : project
@@ -52,7 +56,7 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 ###### OVERVIEW
 ```
 > Level: Strenous
-> Total Days: 15 to 18
+> Total Days: 14 to 17
 > Riding Distance: Upto 2500 Km
 > Terrain: 60 % Hilly 
 > Altitude variation: 50 to 2000 mts
@@ -81,11 +85,12 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 > All Meals
 > Refreshment and water throughout
 > Pickup backup throughout for luggage
-> Guide (NOLS First aid qualified)
-> Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+> Guide on bike
+> Royal Enfield 350, 500 & Himalayan motorcycles / SUVs
 > FA Kit
-> Tools and spares
-> Activities as mentioned
+> Mechanic with tools and spares
+> Activities as mentioned in itinerary
+> All Permits
 ```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
 ```
@@ -95,7 +100,7 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 ```
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/4statesmotogallery.jpg)
+![What is this](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -125,4 +130,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

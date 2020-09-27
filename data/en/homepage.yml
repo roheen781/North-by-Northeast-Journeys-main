@@ -3,11 +3,11 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/banner-1.jpg
+    - bg_image : images/banner/Adventure holidays in Northeast India.jpg
       animation_from : left
       title : NORTHEAST INDIA
       subtitle : Active adventures in
-      content : CYCLING, WALKIMG, MULTI-ACTIVITY, MOTORCYCLE, OVERLAND, FAMILY ADVENTURES, RIVER TRIPS
+      content : CYCLING, TREKS & WALKS, MULTI-ACTIVITY, MOTORCYCLE & OVERLAND, FAMILY ADVENTURES, RIVER JOURNEYS
       pagination_name : Adventure
       button:
         enable : true
@@ -15,7 +15,7 @@ slider:
         link : "service"
         
     # slider item loop
-    - bg_image : images/banner/banner-2.jpg
+    - bg_image : images/banner/Culture tours in Northeast India.jpg
       animation_from : up
       subtitle : Cultural immersion in
       title : NORTHEAST INDIA
@@ -27,7 +27,7 @@ slider:
         link : "about"
         
     # slider item loop
-    - bg_image : images/banner/banner-3.jpg
+    - bg_image : images/banner/Wildlife safari in northeast india.jpg
       animation_from : down
       subtitle : Nature Escapades in
       title : NORTHEAST INDIA
@@ -39,11 +39,11 @@ slider:
         link : "about"
         
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/Leisure holidays in northeast india.jpg
       animation_from : right
       subtitle : Leisurely Getaways in
       title : NORTHEAST INDIA
-      content : FAMILY GETAWAYS, QUIET OFF THE MAP GETAWAYS  `
+      content : FAMILY GETAWAYS, QUIET OFF THE MAP ESCAPADES  `
       pagination_name : Leisure
       button:
         enable : true
@@ -69,7 +69,7 @@ project:
 ######################################## About #########################################
 about:
   enable : true
-  bg_image : "images/background/NE.jpg"
+  bg_image : "images/banner/Travels in the Other India.jpg"
   title : "Welcome to India's far East"
   content : "We at North by Northeast Journeys have over the years actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India including Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventure, Wildlife, Culture and Youth travel , all have local history, culture, interactions and environment as their centerpiece."
   # bullet point
@@ -108,7 +108,7 @@ mission:
   enable : true
   title : The region at a glance
   content : 
-  image : images/NE-Map-for-site-1-1024x732.png
+  image : images/banner/Map of northeast India.jpg
   accordion:
     - title : The Region
       description : This little known corner of the Indian Subcontinent sharing international borders with Bhutan, Tibet, China, Myanmar and Bangladesh is connected to mainland India by a small sliver of land in the state of West Bengal popularly known as the Chickens neck. Consisting of Eight states this region is formed like a gigantic basin with the Brahmaputra and Barak valleys taking center stage.The northern border with Tibet and China is barricaded by the giant east Himalayan landmass, in the east the densely forested Patkai bum and Naga Patkai ranges bordering Burma take over running south all the way to Chaifil Tlang and Uiphum Tlang ranges in Mizoram (which further runs off east to the Chin hills and Arakan Yoma of Burma).In the south the Jaintia, Khasi and Garo Hills of Meghalaya bordering the rich plains of Bangladesh completes the formation.This region is incidentally the closest that the Himalayan mountain range gets to the coast. This geographical factor added to the fact that this region also receives some of the highest rainfall in the planet has resulted in the one of the greatest diversity in flora and fauna and hence also a diverse mix of people.
@@ -144,7 +144,7 @@ testimonial:
   enable : true
   subtitle : 
   title : Clientspeak
-  image : images/Clientspeak.jpg
+  image : images/banner/Testimonials.jpg
   testimonial_item : 
 
     - name : Felicity & Ben

@@ -2,8 +2,8 @@
 title: "ARUNACHAL PRADESH (EAST): Watershed of the Brahmaputra | Cycle Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Eastern Arunachal Pradesh"
-bg_image: images/background/cycling/East Arunachal main.jpg
-image : images/project/easternArunachalcycletour.jpg
+bg_image: images/background/cycling/Eastern Arunachal cycle tour main.jpg
+image : images/background/cycling/Eastern Arunachal Pradesh cycle tour.jpg
 live_demo : 
 case_study : 
 category: Easy to Moderate
@@ -108,7 +108,7 @@ Exciting experiences right from crossing one of the largest rivers in India at D
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/cycling/easternarunachalcyclegallery.jpg)
+![What is this](/images/background/cycling/easternarunachalcycletourgallery.jpg)
 
 ``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -137,7 +137,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 
 
-   **[CYCLE TOURS  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+   **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
 
 
 

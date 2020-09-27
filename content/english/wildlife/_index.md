@@ -2,7 +2,7 @@
 title: "WILDLIFE ESCAPADES IN NORTHEASTERN INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/wildlife/wildlife main.jpg
-description : "Cycling holidays across the beautiful northeastern region of India"
+description : "Wildlife Holidays in the northeastern region of India"
 ---
 
 ## Wildlife tours of Northeastern India

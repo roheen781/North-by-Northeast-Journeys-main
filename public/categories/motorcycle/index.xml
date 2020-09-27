@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motorcycle on North by Northeast Journeys | Travels in Northeast India</title>
-    <link>http://northbynortheast.in/categories/motorcycle/</link>
+    <link>/categories/motorcycle/</link>
     <description>Recent content in Motorcycle on North by Northeast Journeys | Travels in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="http://northbynortheast.in/categories/motorcycle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/motorcycle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motorcycle tour of Western Arunachal Pradesh</title>
-      <link>http://northbynortheast.in/blog/motorcycle-tour-w-arunachal-copy/</link>
+      <link>/blog/motorcycle-tour-w-arunachal-copy/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>http://northbynortheast.in/blog/motorcycle-tour-w-arunachal-copy/</guid>
+      <guid>/blog/motorcycle-tour-w-arunachal-copy/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Motorcycle tour of Western Arunachal Pradesh</title>
-      <link>http://northbynortheast.in/blog/motorcycle-tour-w-arunachal/</link>
+      <link>/blog/motorcycle-tour-w-arunachal/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>http://northbynortheast.in/blog/motorcycle-tour-w-arunachal/</guid>
+      <guid>/blog/motorcycle-tour-w-arunachal/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

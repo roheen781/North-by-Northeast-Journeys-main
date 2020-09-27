@@ -2,8 +2,8 @@
 title: "ASSAM: Jewels of the Brahmaputra | Family Holiday "
 date: 2018-09-24T14:48:03+06:00
 description : "Family holiday in Assam"
-bg_image: images/background/family/Assamfamilytour.jpg
-image : images/background/family/Assam.jpg
+bg_image: images/background/family/Family holiday in Assam main.jpg
+image : images/background/family/Family holiday in Assam.jpg
 live_demo : 
 case_study : 
 category: Comfort
@@ -89,7 +89,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 ```
 ###### TOUR IMAGES
 
-![What is this](/images/background/family/assamfamilygallery.jpg)
+![What is this](/images/background/family/assamfamilyholidaygallery.jpg)
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -112,5 +112,5 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[FAMILY ADVENTURES ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[FAMILY ADVENTURES  ](http://localhost:61734/family/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
 

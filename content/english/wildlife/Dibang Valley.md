@@ -1,11 +1,11 @@
 ---
-title: "ARUNACHAL PRADESH: Mishmi Hills Explorer "
+title: "ARUNACHAL PRADESH: Mishmi Hills Explorer | Wildlife Tour "
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Wildlife Expedition in Eastern Arunachal Pradesh"
 bg_image: images/background/page-title.jpg
 image : images/background/wildlife/Dibang Valley.jpg
-live_demo : "#"
-case_study : "#"
+live_demo : 
+case_study : 
 category: Tough
 Weight: 5
 
@@ -100,4 +100,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[WILDLIFE ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[WILDLIFE  ](http://localhost:61734/wildlife/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  

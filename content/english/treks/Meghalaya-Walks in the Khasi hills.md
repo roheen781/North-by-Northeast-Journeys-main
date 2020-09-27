@@ -2,8 +2,8 @@
 title: "MEGHALAYA: Walks in the clouds | Walking Holiday"
 date: 2018-09-24T14:48:03+06:00
 description : "Hiking in Meghalaya"
-bg_image: images/background/treks/meghalaya walks.jpg
-image : images/background/treks/meghalaya walks in the clouds.jpg
+bg_image: images/background/treks/walking tour of meghalaya main.jpg
+image : images/background/treks/Walking tour of Meghalaya .jpg
 live_demo : 
 case_study : 
 category: Easy to moderate
@@ -44,9 +44,9 @@ type : project
 
 ### Exploring the Abode of Clouds
 
-This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’.   Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush environment. 
+This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’.   Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush and verdant environment. 
 
-The state is divided into the Garo, Khasi and Jaintia hill, however on this tour we will concentrate on the Khasi Hills. The namesake Khasi tribe is one of the only matrilenial societies of the subcontinent, with a unique culture and society. This region is also home to some of the deepest caves and highest waterfalls of Asia. This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
+The state is divided into the Garo, Khasi and Jaintia hills, however on this tour we will concentrate on the Khasi Hills. The namesake Khasi tribe is one of the only matrilenial societies of the subcontinent, with a unique culture and society. This region is rich in natural wonders, home to some of the deepest caves and highest waterfalls of Asia.The jewe of this region are the Natural Root bridges which dot the region. This tour includes multiple day walks to some of the most beautiful trails and interesting locations of the region.
 
 
 
@@ -83,10 +83,11 @@ The state is divided into the Garo, Khasi and Jaintia hill, however on this tour
 ```
 > All accommodation
 > All Meals
+> All transportation
 > Refreshment and water throughout
-> SUV backup throughout
 > Guide 
 > FA Kit
+> All Permits
 > Activities as mentioned
 ```
 
@@ -101,7 +102,7 @@ The state is divided into the Garo, Khasi and Jaintia hill, however on this tour
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/treks/Meghalayahikesgallery.jpg)
+![What is this](/images/background/treks/meghalayahikegallery.jpg)
 
 ``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -126,4 +127,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[TREKS & WALKS  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+**[TREKS & WALKS  ](http://localhost:61734/treks/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

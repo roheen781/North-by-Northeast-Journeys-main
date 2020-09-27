@@ -2,8 +2,8 @@
 title: "ARUNACHAL PRADESH (WEST): The Himalayan High | Cycle Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Tawang Western Arunachal Pradesh"
-bg_image: images/background/cycling/tawang main.jpg
-image : images/project/WesternArunachal.jpg
+bg_image: images/background/cycling/Tawang cycle tour.jpg
+image : images/background/cycling/Western Arunachal Pradesh cycle tour.jpg
 live_demo : 
 case_study : 
 category: Strenuous
@@ -134,6 +134,6 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
- **[CYCLE TOURS  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+ **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
 
 

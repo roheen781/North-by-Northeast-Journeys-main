@@ -1,8 +1,8 @@
 ---
 title: "ETHNO-CULTURAL TOURS NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/culture/main.jpg
-description : " Cultural tours of Northeast India"
+bg_image: images/background/culture/Culture tours of northeast india.jpg
+description : " Culture tours of Northeast India"
 ---
 
 ## Cultural Immersions across Northeastern India

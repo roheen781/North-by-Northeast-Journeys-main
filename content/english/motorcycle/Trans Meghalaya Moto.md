@@ -2,8 +2,8 @@
 title: "TRANS-MEGHALAYA: Backroads of Meghalaya | Motorcycle & Overland Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Meghalaya"
-bg_image: images/background/motorcycle/meghalaya motorcycle tour main.jpg
-image : images/background/motorcycle/meghalaya moto tour.jpg
+bg_image: images/background/motorcycle/Trans meghalaya motorcycle tour main.jpg
+image : images/background/motorcycle/Meghalaya motorcycle tour.jpg
 live_demo : 
 case_study : 
 category: Moderate
@@ -34,6 +34,10 @@ overview:
   - label : BEST TIME
     icon : ti-shine
     data : Sept - April
+
+  - label : COST 
+    icon : ti-wallet
+    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
     
 
 
@@ -42,9 +46,13 @@ overview:
 type : project
 ---
 
-### Hike, Bike and Raft in India's far east
+### The abode of clouds explored
 
-This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River. This region situated at the foothills of the Mishmi hills is the land of the Animist and Theravada Buddhist tribes. Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into the Namdapha Wildlife Sanctuary. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang River.
+Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya. Entering Meghalaya in the western end we make our way to its far eastern hills, enroute traversing through varying conditions and basking in the  vistas of the Meghalayan hills and the plains of Bangladesh while staying in charming locations all through settled by different tribes.
+
+This is a land of plaetues, hills and deep river valleys. Richly endowned by nature with some of the deepest caves and tallest waterfalls of Asia. Almost every day you come across numerous waterfalls which depending on tour time of travel could vary from gushing frothy to a subtle glassy appearance. Depending on the duration you have the itinerary can include some cave exploration and canyoning in one of the longest caves of the world. We will take time to visit of the natural root bridges of the state including the most famous double decker bridge.
+
+The route is quite flexible depending the duration you have in hand, level of involvement you want to put in or your techical ability.
 
 ###### ROUTE TOPOLOGY
 
@@ -95,7 +103,7 @@ This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, raft
 ```
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/meghlayamotorcycletourgallery.jpg)
+![What is this](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -128,4 +136,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 

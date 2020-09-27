@@ -2,8 +2,8 @@
 title: "MEGHALAYA: The Trans-Meghalaya Explorer | Cycle Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Trans-Meghalaya Cycle tour"
-bg_image: images/background/cycling/trans meghalaya main.jpg
-image : images/project/TRANS-MEGHALAYA-MAP.jpg
+bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
+image : images/background/cycling/Trans meghalaya cycle tour.jpg
 live_demo : 
 case_study : 
 category: Moderate to Strenuous
@@ -35,7 +35,7 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST 
+  - label : COST 
     icon : ti-wallet
     data : INR XX,000 onwards ( Based on two persons travelling on twin share)
  
@@ -107,7 +107,7 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/cycling/transmeghalayacyclegallery.jpg)
+![What is this](/images/background/cycling/transmeghalayacycletourgallery.jpg)
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -136,4 +136,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
- **[CYCLE TOURS  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+ **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

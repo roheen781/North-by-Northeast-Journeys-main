@@ -1,9 +1,9 @@
 ---
 title: "MEGHALAYA: Hike, Bike & Culture in the abode of clouds | Multi-Activity Tour"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/multiactivity/meghalaya multiactivity tour.jpg
-image : images/background/multiactivity/meghalaya.jpg
+description : "Active holiday in Meghalaya 'The Abode of Clouds'"
+bg_image: images/background/multiactivity/Meghalaya Multiactivity tour main.jpg
+image : images/background/multiactivity/Meghalaya multiactivity tour.jpg
 live_demo : 
 case_study : 
 category: Moderate
@@ -35,7 +35,7 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST 
+  - label : COST 
     icon : ti-wallet
     data : INR XX,000 onwards ( Based on two persons travelling on twin share)
 
@@ -46,9 +46,13 @@ overview:
 type : project
 ---
 
-### Hike and bike in Abode of Clouds
+### Hike and bike in The Abode of Clouds
 
-This particular Multi-activity tour of Meghalaya takes us on bicycles and on foot across the Khasi and Jaintia Hills. The Khasi and Jaintia hills due to its high rain fall has an amazing mix of forested valleys and grassland plateaus. The cycling phase takes us all the way to where the hills end at the border with Bangladesh, whereas the hiking days take us through small trails to the now famous living root bridges. During this multi activity tour of Meghalaya tour we stay in quaint homestays, off the grid farms and small family run establishments. This multi-activity tour of Meghalaya will give you a different prospective of this wonderful land and its people.
+This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the  highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus. 
+
+The cycling phase takes you across the beautiful laandscape, whereas the hiking days take you through small trails on some of the best trails of the region amongst which the now famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and peronal prospective of this land and wonderful people.
+
+The tour is quite flexible, we can mould the entire proceeding looking at you preferences and abilities.
 
 
 
@@ -56,16 +60,16 @@ This particular Multi-activity tour of Meghalaya takes us on bicycles and on foo
 
 ###### AT A GLANCE
 ```
-. Level: Moderate 
-. Total Days: 6 to 10
-. Max. Cycling distance: Upto 250 Km
-. Hikes: Multiple day Walks
-. Terrain: 100% Hilly / Mountanious
-. Altitude variation: 150 to 1900 mts
-. Best Time: October to April
-. Accommodation: Hotels, Cottages & Camps
-. Airport in: Guwahati (Assam)
-. Airport out: Guwahati (Assam)
+> Level: Moderate 
+> Total Days: 6 to 10
+> Max. Cycling distance: Upto 250 Km
+> Hikes: Multiple day Walks
+> Terrain: 100% Hilly / Mountanious
+> Altitude variation: 150 to 1900 mts
+
+> Best Time: October to March
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 
@@ -73,35 +77,39 @@ This particular Multi-activity tour of Meghalaya takes us on bicycles and on foo
 
 ###### HIGHLIGHTS
 ```
-. Hike and Bike in the ‘Abode of Clouds’
-. Visit the live root bridges
-. Cycle along the Indo-Bangla border
-. Views, views and more views
-. Waterfalls, Caves, Archery, Cuisine and more
-. Stay in Village homestays, family run lodges and off the grid farms
+> Hike and Bike in the ‘Abode of Clouds’
+> Visit the live root bridges
+> Cycle along the Indo-Bangla border
+> Views, views and more views
+> Waterfalls, Caves, Archery, Cuisine and more
+> Stay in Village homestays, family run lodges and off the grid farms
 ```
 
 ###### INCLUSIONS
 ```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
-. FA Kit
-. Tools and spares
-. Activities as mentioned
+> All accommodation
+> All Meals
+> Refreshment and water throughout
+> SUV backup throughout
+> Guide (NOLS First aid qualified)
+> Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+> FA Kit
+> Tools and spares
+> Activities as mentioned
 ```
-###### Acommodation and Meals on this tour
+###### ACCOMMODATION AND MEALS ON THIS TOUR
 
-Although as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot, on certain days of this tour there are options of fairly luxurious acommodations. As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey. 
+```
+ > Accommodation: Eco Lodges, Farmsteads and Camps
+ > Meals: As much as possibly we try cover all the local cuisines
+ > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+```
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/multiactivity/meghalayamultiactivitytourgallery.jpg)
+![What is this](/images/background/multiactivity/meghalayamultiactivitygallery.jpg)
 
 ### FAQ
 
@@ -128,4 +136,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Market Analysis on North by Northeast Journeys | Travels in Northeast India</title>
-    <link>http://northbynortheast.in/fr/tags/market-analysis/</link>
+    <link>/fr/tags/market-analysis/</link>
     <description>Recent content in Market Analysis on North by Northeast Journeys | Travels in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 24 Sep 2018 11:10:07 +0600</lastBuildDate>
     
-	<atom:link href="http://northbynortheast.in/fr/tags/market-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/tags/market-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finance My Business</title>
-      <link>http://northbynortheast.in/fr/blog/finance-my-business/</link>
+      <link>/fr/blog/finance-my-business/</link>
       <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
       
-      <guid>http://northbynortheast.in/fr/blog/finance-my-business/</guid>
+      <guid>/fr/blog/finance-my-business/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

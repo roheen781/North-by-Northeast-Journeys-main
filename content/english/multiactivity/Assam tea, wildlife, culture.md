@@ -2,8 +2,8 @@
 title: "ASSAM: Tea, Wildlife & Culture in the Brahmaputra Valley | Multi-Activity Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Multi-Activity holiday in Assam"
-bg_image: images/background/multiactivity/assam multi activity.jpg
-image : images/background/multiactivity/assam.jpg
+bg_image: images/background/multiactivity/Assam multiactivity tour main.jpg
+image : images/background/multiactivity/Assam multiactivity tour.jpg
 live_demo : 
 case_study : 
 category: Easy
@@ -42,7 +42,7 @@ type : project
 
 ### Up close and personal in the Brahmaputra Valley
 
-This multi-activity tour of Assam takes us to the Brahmaputra valley. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley gave birth to some of the oldest civilizations of the region. Home to a string of wildlife sanctuaries and the well known Assam tea. On this tour we will Cycle and Hike to explore the culture and cuisine of this land, indulge in wildlife safari’s and of course learn the way of the famous Assam tea.
+This multi-activity tour of Assam takes us to the Brahmaputra valley. A lush strip of land sandwiched between the Himalayan landmass on the north and the lesser hills of Nagaland and Meghalaya in the south. The Brahmaputra valley gave birth to some of the oldest civilizations of the region and toady has an ever wider mix of ethinicities. Home to a string of wildlife sanctuaries and the well known Assam tea. On this tour we will Cycle and Hike to explore the culture and cuisine of this land, indulge in wildlife safari’s, of course learn the process of the famous Assam tea and more.
 
 
 
@@ -52,8 +52,8 @@ This multi-activity tour of Assam takes us to the Brahmaputra valley. A lush str
 . Total Days: 5 to 12
 . Terrain: 90% Plain 
 . Altitude variation: 50 to 200 mts
+
 . Best Time: October to March
-. Accommodation: Lodges, Cottages & Camps
 . Airport in: Guwahati (Assam)
 . Airport out: Guwahati (Assam)
 ```
@@ -63,13 +63,12 @@ This multi-activity tour of Assam takes us to the Brahmaputra valley. A lush str
 
 ###### HIGHLIGHTS
 ```
-. Around the watershed of the Mighty Brahmaputra
-. Cycle across territories 6 different tribes
-. Hike through dense tropical forests at the eastern edge of India
-. Raft the rapids of some the wildest himalayn rivers
-. Indulge in a plethora of cuisine
-. Explore the Namdapha Wildlife Sanctuary
-. Camps, Homestays and family run lodges
+. Slow travel in the Brahmaputra valley
+. Day cycling and short hikes
+. Tea Plantations, Wildlife Sanctuaries, River Islands and more
+. Spot the elusive Gangetic River Dolphins of the Brahmaputra
+. Indulge in a plethora of cuisines
+. Insight into the history of the region from the local prospective
 ```
 
 ###### INCLUSIONS
@@ -84,15 +83,19 @@ This multi-activity tour of Assam takes us to the Brahmaputra valley. A lush str
 . Tools and spares
 . Activities as mentioned
 ```
-###### Acommodation and Meals on this tour
+###### ACCOMMODATION AND MEALS ON THIS TOUR
 
-This region has a wide range of options when it come to accomodation, from quaint lodges to fairly luxurious resorts. 
+```
+ > Accommodation: Tea bungalows, Eco Cottages & Lodges
+ > Meals: As much as possibly we try cover all the local cuisines
+ > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+```
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/multiactivity/assammultiactivitygallery.jpg)
+![What is this](/images/background/multiactivity/Assammultiactivitygallery.jpg)
 
 ### FAQ
 
@@ -118,4 +121,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

@@ -2,8 +2,8 @@
 title: "BHUTAN: Belly of the Thunder Dragon | Motorcycle & Overland Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Bhutan"
-bg_image: images/background/motorcycle/Bhutan motorcycle tour.jpg
-image : images/background/motorcycle/bhutan moto.jpg
+bg_image: images/background/motorcycle/Trans Bhutan motorcycle tour main.jpg
+image : images/background/motorcycle/Trans Bhutan motorcycle tour.jpg
 live_demo : 
 case_study : 
 category: Moderate to Strenuous
@@ -101,4 +101,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 

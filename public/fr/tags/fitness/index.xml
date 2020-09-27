@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitness on North by Northeast Journeys | Travels in Northeast India</title>
-    <link>http://northbynortheast.in/fr/tags/fitness/</link>
+    <link>/fr/tags/fitness/</link>
     <description>Recent content in Fitness on North by Northeast Journeys | Travels in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="http://northbynortheast.in/fr/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cool the Audits</title>
-      <link>http://northbynortheast.in/fr/blog/cool-the-audits/</link>
+      <link>/fr/blog/cool-the-audits/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>http://northbynortheast.in/fr/blog/cool-the-audits/</guid>
+      <guid>/fr/blog/cool-the-audits/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

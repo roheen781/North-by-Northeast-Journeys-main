@@ -2,11 +2,11 @@
 title: "ARUNACHAL PRADESH: Hike and Bike in the Monyul region | Multi-Activity Tour"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
-bg_image: images/background/multiactivity/western arunachal multiactivity tour.jpg
-image : images/background/multiactivity/western arunachal.jpg
+bg_image: images/background/multiactivity/Western Arunachal multiactivity tour main.jpg
+image : images/background/multiactivity/Western Arunachal Pradesh multiactivity tour.jpg
 live_demo : 
 case_study : 
-category: Strenous
+category: Strenuous
 Weight: 4
 
 # overview
@@ -14,10 +14,14 @@ overview:
   - label : STATES
     icon : ti-world
     data : Arunachal Pradesh
+
+  - label : LEVEL
+    icon : ti-dashboard
+    data : Strenuous
    
   - label : DURATION
     icon : ti-flag-alt
-    data : 12 - 15 days
+    data : 10 - 12 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -30,6 +34,10 @@ overview:
   - label : BEST TIME
     icon : ti-shine
     data : Sept/Oct - Mar/May
+
+  - label : COST 
+    icon : ti-wallet
+    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
     
 
 # type
@@ -38,51 +46,64 @@ type : project
 
 ### Active & Interactive in the High Himalayas
 
-This particular trek is situated in Western Arunachal Pradesh, in the states Buddhist belt. This region is home to the Monpa and Sherdukpen people and to an extent also the Brokpa. Starting from the township of Dirang, this trek takes you along the Bhutanese border via a region known for its high altitude lakes and ends in the Sela Pass, which is known as a gateway to the Tawang region. This tour includes some of the important aspects of this region such as the River Dolphins of the Brahmaputra, the Tawang Monastry, Bum la pass and the orchidarium at Tipi among others. During the trek you will pass through remote settlements of the Brokpa (the yak and sheep herders) and Monpa tribes. Getting to interact and look first hand into their way of life.
+This multi-activity tour is situated in Western Arunachal Pradesh, in the states Buddhist belt. This region is home to the Monpa, Sherdukpen and to an extent also the Brokpa people. This is an above oderate activity holiday in difficulty level, hence one needs to have a fair level of fitness. 
+
+This tour includes some of the important aspects of this region such as the River Dolphins of the Brahmaputra, the Tawang Monastry, Bum la pass and the orchidarium at Tipi among others. Getting to interact and look first hand into their way of life.
 
 
 
 ###### OVERVIEW
 ```
-. Level: Strenuous
-. Total Days: 12 to 15
-. Hiking Days: 6 – 7
-. Avg. Walking Time: 5 -6 hrs
-. Terrain: 100% Mountanious
-. Altitude variation: 1500 to 4200 mts
-. Best Time: September – October / April – May
-. Accommodation: Hotels, Homestays & Camps
-. Airport in: Guwahati (Assam)
-. Airport out: Guwahati (Assam)
+> Level: Strenuous
+> Total Days: 12 to 15
+> Hiking Days: Upto 4
+> Cycling days: Upto 5
+> Terrain: 100% Mountanious
+> Altitude variation: 1500 to 4200 mts
+
+> Best Time: September – October / April – May
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 
 ###### HIGHLIGHTS
 ```
-. The Mighty Eastern Himalayas
-. Land of the Buddhist Tribes
-. Views of the High peaks of the Arunachal and Bhutan Himalayas
-. River Dolphins of the Brahmaputra
-. The all Important Monastry of Tawang
-. Camping , Homestays and local lodges
+> Hike and Bike in the mighty Eastern Himalayas
+> Life of the Buddhist Tribes
+> Views of the High peaks of the Arunachal Himalayas
+> River Dolphins of the Brahmaputra
+> The all Important Monastry of Tawang
+> Insights into the history and culture of the region
 ```
 
 ###### INCLUSIONS
 ```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. FA Kit
-. Activities as mentioned
+> All accommodation
+> All Meals
+> Refreshment and water throughout
+> SUV backup throughout
+> Guide throughout
+> Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+> FA Kit
+> Tools and spares
+> Activities as mentioned
+> All permits
 ```
 
-###### Acommodation and Meals on this tour
+###### ACCOMMODATION AND MEALS ON THIS TOUR
 
-Accomodation will be mostly done in small family run lodges which offer all the basic luxuries and camping. The accomodations are small, clean and give you the real local flavour. There are a few of days of camping in picturesque locations. As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.  
+```
+ > Accommodation: Tea Bungalows, Eco Lodges, Homestays, Hotels and Camping
+ > Meals: As much as possibly we try cover all the local cuisines
+ > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+```  
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/multiactivity/Westernarunachalmultiactivitygallery.jpg)
 
 ### FAQ
 
@@ -107,4 +128,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

@@ -1,11 +1,11 @@
 ---
-title: "NAGALAND & ASSAM: Hornbill Festival and the Brahmaputra Valley"
+title: "EASTERN ARUNACHAL PRADESH: Festival hop | Cultural Journeys"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
-bg_image: images/background/EasternArunachalcycle.jpg
-image : images/background/culture/festival hop.jpg
-live_demo : "#"
-case_study : "#"
+bg_image: images/background/culture/Festival hop of Eastern Arunachal.jpg
+image : images/background/culture/Festival hop in eastern arunachal pradesh.jpg
+live_demo : 
+case_study : 
 category: January & February
 Weight: 4
 
@@ -100,4 +100,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[ETHNO-CULTURE ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)** 
+**[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 

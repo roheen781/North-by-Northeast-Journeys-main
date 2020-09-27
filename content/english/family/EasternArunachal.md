@@ -1,9 +1,9 @@
 ---
 title: "ARUNACHAL PRADESH: India's far east | Family Holiday"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/family/easternarunachal family tour.jpg
-image : images/background/family/eastern arunachal.jpg
+description : "Family holiday in Eastern Arunachal Pradesh"
+bg_image: images/background/family/Family holiday in Eastern Arunachal Pradesh main.jpg
+image : images/background/family/Family Holiday in Eastern Arunachal Pradesh.jpg
 live_demo :
 case_study : 
 category: Off the grid
@@ -88,7 +88,7 @@ This active adventure holiday for the family is set in the vast flatlands of the
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/family/easternarunachalfamilygallery.jpg)
+![What is this](/images/background/family/easternarunachalfamilyholidaygallery.jpg)
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
@@ -111,4 +111,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[FAMILY ADVENTURES ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+**[FAMILY ADVENTURES  ](http://localhost:61734/family/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**

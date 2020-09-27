@@ -1,7 +1,7 @@
 ---
 title: "TREKS & WALKS OF NORTHEASTERN INDIA"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/treks/treks main.jpg
+bg_image: images/background/treks/treks and walks in northeast india.jpg
 description : "Treks & Walks across the beautiful northeastern region of India"
 ---
 

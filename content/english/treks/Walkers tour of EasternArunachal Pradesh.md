@@ -2,8 +2,8 @@
 title: "ARUNACHAL PRADESH (EAST): Walks in India's far east | Walking Holiday"
 date: 2018-09-24T14:48:03+06:00
 description : "Hiking in Eastern Arunachal Pradesh"
-bg_image: images/background/treks/Eastern Arunachal main.jpg
-image : images/background/treks/eastern arunachal walks.jpg
+bg_image: images/background/treks/walks in eastern arunachal pradesh.jpg
+image : images/background/treks/Walking tour of eastern Arunachal Pradesh.jpg
 live_demo : 
 case_study : 
 category: Easy to moderate
@@ -35,6 +35,10 @@ overview:
     icon : ti-shine
     data : October - March
 
+  - label : COST 
+    icon : ti-wallet
+    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+
 
 # type
 type : project
@@ -42,9 +46,9 @@ type : project
 
 ### Walks in India's far east
 
-Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures.
+Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures. This is land of the giant River valleys that form the mighty Brahmaputra,  home to the earliest tea producers of the subcontinent, some of the earliest oil finds of the world and a string of vibrant wildlife parks.
 
-The tour includes a series of walks across the eastern most river valleys that feed the Mighty Brahmaputra River. This is the land of the Animist and Theravada Buddhist tribes of the state. While on this tour you will be walking through wildlife sanctuaries, camping next to pristine lakes, visiting idellic villages, indulging in the local cuisines and have authentic interactions with the local tribesmen. 
+The tour includes a series of walks across the eastern most river valleys that feed the Mighty Brahmaputra River. This is the land of the Animist and Theravada Buddhist tribes of the state. While on this tour you will be walking through wildlife sanctuaries, camping next to pristine lakes, visiting idellic villages, indulging in the local cuisines and have authentic interactions with the people who call this land their home. 
 
 
 
@@ -79,10 +83,11 @@ The tour includes a series of walks across the eastern most river valleys that f
 ```
 > All accommodation
 > All Meals
+> All transportation
 > Refreshment and water throughout
-> SUV backup throughout
-> Guide (NOLS First aid qualified)
+> Guide 
 > FA Kit
+> All Permits
 > Activities as mentioned
 ```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
@@ -122,4 +127,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[TREKS & WALKS  ](http://localhost:57504/insights/)       |  [INSIGHTS |](http://localhost:57504/insights/) |  [HOME |](http://localhost:57504/insights/)**
+**[TREKS & WALKS  ](http://localhost:61734/treks/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
