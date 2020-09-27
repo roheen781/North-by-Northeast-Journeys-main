@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = ""
+baseURL = "/"
 title = "North by Northeast Journeys | Travels in Northeast India"
 theme = "biztrox"
 # post pagination
