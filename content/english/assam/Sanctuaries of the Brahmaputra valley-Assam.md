@@ -2,34 +2,46 @@
 title: "Assam: Sanctuaries of the Brahmaputra Valley"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
-bg_image: images/background/Tawang.jpg
-image : images/background/wildlife/assam.jpg
-live_demo : "#"
-case_study : "#"
+bg_image: images/background/wildlife/assamwildlifetour main.jpg
+image : images/background/wildlife/Wildlife tour of Assam.jpg
+live_demo : 
+case_study : 
 category: Wildlife
 Weight: 1
 
 # overview
 overview:
-  - label : LEVEL
-    data : Tough
+  - label : STATES
+    icon : ti-world
+    data : Assam
     
   - label : DURATION
-    data : 9 - 15 days
-    
-  - label : ALTITUDE VARIATION
-    data : 50 - 4200 mts
+    icon : ti-flag-alt
+    data : 5 to 12 days
+
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Guwahati (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Dibrugarh (Assam)
     
   - label : BEST TIME
-    data : Sep-Oct / Mar-May 
+    icon : ti-shine
+    data : October - March
+  
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
 # type
 type : assam
 ---
 
-### Cycling the high Himalayas
+### Jewels of the east
 
-This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. The setting of this ride of Arunachal Pradesh is in the Buddhist belt home to the Monpa and Sherdukpen people. Close to the border with Bhutan and Tibet, this is one of the highest motorable routes of the eastern Himalayas, at places taking you to an altitude of 4200mts. The road condition though not at the best is still better than most parts of Arunachal Pradesh. The cycling phase covers between 300 to 650Kms, riding on little used roads of western Arunachal Pradesh. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet.
+Brahmaputra valley of Assam, is the geographical heart of northeastern India. This region lying perched between Himalayan and Indo-Burmese biodiversity hotspots hosts a string of wildlife parks, home to several threatened mammal species, including the tiger, Asian elephant, greater one-horned rhinoceros, swamp deer , gaur , clouded leopard , hispid hare, pygmy hog, capped leaf monkey , Asiatic black bear, sloth bear and the Gangetic river dolphins among others . This wildlife tour of the Brahmaputra valley takes you to some of the better known wildlife sanctuaries along the Mighty Brahmaputra, indulging in Elephant back, Jeep, Walking and Boat safaris.
 
 
 
@@ -98,3 +110,5 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
+
+**[WILDLIFE  ](http://localhost:61734/wildlife/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 

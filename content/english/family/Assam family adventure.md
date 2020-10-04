@@ -1,5 +1,5 @@
 ---
-title: "ASSAM: Jewels of the Brahmaputra | Family Holiday "
+title: "Assam: Jewels of the Brahmaputra | FAMILY HOLIDAY "
 date: 2018-09-24T14:48:03+06:00
 description : "Family holiday in Assam"
 bg_image: images/background/family/Family holiday in Assam main.jpg
@@ -15,7 +15,7 @@ overview:
     icon : ti-world
     data : Assam
 
-  - label : LEVEL
+  - label : TRAVEL TYPE
     icon : ti-dashboard
     data : Comfort
     
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - April
 
-  - label : STARTING COST
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards (based on 2 persons on twin share)
+    data : On Request
 
 # type
 type : project
@@ -52,11 +52,12 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### OVERVIEW
 ```
-> Level: Comfort
+> Travel Type: Comfort
 > Total Days: 6 to 10
 > Experiences: Tea, Wildlife, Culture & Cuisine
 > Terrain: 100% Plains
 > Altitude variation: 50 to 200 mts
+
 > Best Time: October to April
 > Airport in: Guwahati (Assam)
 > Airport out: Guwahati (Assam)
@@ -87,21 +88,24 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 > Meals: As per selected plan
 
 ```
+
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 ###### TOUR IMAGES
 
 ![What is this](/images/background/family/assamfamilyholidaygallery.jpg)
 
-``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
 
 ##### Terrain & Road Contitons
 
-Though entirely hilly, Meghalaya has some of the best roads of the entire region and perhaps most of India. However due to it being entirely hills distances do seem farther and take more time.
+The terrain is all flat with mostly good road conditions
 
 ##### Backup
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+Sturdy SUV’s and Mini coaches with sturdier drivers will accompany you on every trip.  These vehicles are along right from your airport pick up to your drop back to the airport.
 
 ##### Permits
 No special permits required
@@ -109,8 +113,11 @@ No special permits required
 ##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
 
+##### Meals
+As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
+
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[FAMILY ADVENTURES  ](http://localhost:61734/family/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
 
+**[FAMILY ADVENTURES   ](https://www.northbynortheast.in/family/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

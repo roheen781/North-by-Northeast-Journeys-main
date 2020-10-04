@@ -1,5 +1,5 @@
 ---
-title: "Hike, Bike & Culture: Meghalaya"
+title: "Walkers Tour of Meghalaya"
 bg_image: images/background/page-title.jpg
 date: 2018-09-24T11:10:46+06:00
 description : "This is meta description"
@@ -9,12 +9,6 @@ tags: ["Adventure"]
 type: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus.
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
-
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+The cycling phase takes you across the beautiful laandscape, whereas the hiking days take you through small trails on some of the best trails of the region amongst which the now famous living root bridges trail. Enroute we will picnic lunch in beautiful locations and swim in prestine pools. During this multi activity tour of Meghalaya tour you will stay in quaint homestays, off the grid farms and small family run establishments. The tour will give you indepth and peronal prospective of this land and wonderful people.

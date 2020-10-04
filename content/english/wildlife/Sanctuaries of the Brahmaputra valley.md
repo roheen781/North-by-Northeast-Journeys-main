@@ -1,5 +1,5 @@
 ---
-title: "ASSAM: Wildlife Parks of the Brahmaputra Valley | Wildlife Tour "
+title: "Assam: Parks of the Brahmaputra Valley | WILDLIFE TOUR "
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/wildlife/assamwildlifetour main.jpg

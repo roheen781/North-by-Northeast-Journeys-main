@@ -2,8 +2,8 @@
 title: "Active Adventures"
 date: 2018-09-29T11:54:02+06:00
 description : "This is meta description"
-image: images/service/Adventure.jpg
-bg_image: images/service/adventure main.jpg
+image: images/service/adventure.jpg
+bg_image: images/service/adventure_main.jpg
 icon: ti-arrow-circle-down
 brochure: 
 type : service
@@ -15,10 +15,10 @@ We offer Active Adventure tours for the avid as well as novice, be it relaxed or
 
 
 
-[![What is this](/images/links/cycling.jpg)](http://localhost:53745/cycling/)
-[![What is this](/images/links/walking.jpg)](http://localhost:59076/treks/)
-[![What is this](/images/links/multiactivity.jpg)](http://localhost:59076/multiactivity/)
-[![What is this](/images/links/motorcycle.jpg)](http://localhost:59076/motorcycle/)
-[![What is this](/images/links/family.jpg)](http://localhost:59076/family/)
-[![What is this](/images/links/river.jpg)](http://localhost:59076/rivertrips/)
-[![What is this](/images/links/youth.jpg)](http://localhost:59076/youth/)
+[![What is this](/images/service/cycling.jpg)](https://www.northbynortheast.in/cycling/)
+[![What is this](/images/service/walking.jpg)](https://www.northbynortheast.in/treks/)
+[![What is this](/images/service/multiactivity.jpg)](https://www.northbynortheast.in/multiactivity/)
+[![What is this](/images/service/family.jpg)](https://www.northbynortheast.in/family/)
+[![What is this](/images/service/motorcycle.jpg)](https://www.northbynortheast.in/motorcycle/)
+[![What is this](/images/service/river.jpg)](https://www.northbynortheast.in/rivertrips/)
+[![What is this](/images/service/youth.jpg)](https://www.northbynortheast.in/youth/)

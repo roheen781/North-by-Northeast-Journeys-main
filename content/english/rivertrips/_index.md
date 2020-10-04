@@ -1,5 +1,5 @@
 ---
-title: "RIVER JOURNEYS OF NORTHEAST INDIA"
+title: "River Journeys | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/rivertrips/riverjourneys in northeast india.jpg
 description : "Cycling holidays across the beautiful northeastern region of India"

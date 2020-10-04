@@ -1,8 +1,8 @@
 ---
-title: "ARUNACHAL PRADESH: Mishmi Hills Explorer | Wildlife Tour "
+title: "Arunachal Pradesh (East): Mishmi Hills Expedition | WILDLIFE TOUR "
 date: 2018-09-24T14:48:03+06:00
 description : "Wildlife Expedition in Eastern Arunachal Pradesh"
-bg_image: images/background/page-title.jpg
+bg_image: images/background/wildlife/mishmi hills expdition main.jpg
 image : images/background/wildlife/Dibang Valley.jpg
 live_demo : 
 case_study : 

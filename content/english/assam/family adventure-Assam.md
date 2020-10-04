@@ -2,100 +2,119 @@
 title: "ASSAM: Family escape to the Brahmaputra Valley "
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
-bg_image: images/background/page-title.jpg
-image : images/background/family/Assam.jpg
-live_demo : "#"
-case_study : "#"
+bg_image: images/background/family/Family holiday in Assam main.jpg
+image : images/background/family/Family holiday in Assam.jpg
+live_demo :
+case_study : 
 category: Family Adventure
 Weight: 2
 
 # overview
 overview:
+  - label : STATES
+    icon : ti-world
+    data : Assam
+
   - label : LEVEL
-    data : Tough
+    icon : ti-dashboard
+    data : Comfort
     
   - label : DURATION
-    data : 13 - 15 days
-    
-  - label : ALTITUDE VARIATION
-    data : 50 - 2655 mts
+    icon : ti-flag-alt
+    data : 6 - 10 days
+
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Guwahati (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Guwahati (Assam)
     
   - label : BEST TIME
-    data : October - March
+    icon : ti-shine
+    data : October - April
+
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
 # type
 type : assam
 ---
 
-### Cycling the Himalayan far east
+### Family exploration of the Brahmaputra Valley
 
-The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas. Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of nature. This is home to the home to the animist Mishmi tribes. On this particular cycle tour you will ride across diverse conditions on little used backroads, starting form the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
+The setting for this family holiday is the lush Brahmaputra valley of Assam. This is the physical heart of Northeastern India. A vast valley spread between the mighty Himalayas in the North and the lesser hills of Meghalaya and Nagaland in the South. Assam is the largest and most accessible of the Northeastern States. This fertile land is generally known for its rich wildlife parks, lush tea plantations and unique cultures. On this tour we will explore, experience and observe some of the best that this state has to offer.
 
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options.
 
 
 ###### OVERVIEW
 ```
-. Level: Tough
-. Total Days: 13 to 15
-. Max. Cycling distance: < 650 Km
-. Avg. Cycling Distance: 60 Km
-. Terrain: 70% Hilly / Mountanious
-. Altitude variation: 50 to 2655 mts
-. Best Time: October to March
-. Accommodation: Cottages & Camps
-. Airport In: Dibrugarh (Assam)
-. Airport Out: Dibrugarh (Assam)
+> Level: Comfort
+> Total Days: 6 to 10
+> Experiences: Tea, Wildlife, Culture & Cuisine
+> Terrain: 100% Plains
+> Altitude variation: 50 to 200 mts
+
+> Best Time: October to April
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
-
-
-
 
 ###### HIGHLIGHTS
 ```
-. Explore the Mishmi hills (Easternmost bit of the Himalayas)
-. Lohit and Debang River Valleys
-. Least populated district of India
-. View the birth of the Brahmaputra Valley
-. A myriad of Tribes distinct from each other
-. Learn the ways of the Animist Idu Tribe
-. Camping , Homestays and local lodges)
+> Kaziranga and Nameri Wildlife Sanctuaries
+> Experience life in a Tea Plantation
+> Insight into the Assamese culture in Majuli, the worlds largest River Island
+> The endangered Gangetic River Dolphins of the Brahmaputra
+> Local cuisine
 ```
 
 ###### INCLUSIONS
 ```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
-. FA Kit
-. Tools and spares
-. Activities as mentioned
+> All accommodation
+> Meals (As per plan)
+> Refreshment and water throughout
+> SUV backup throughout
+> Guide (During activities)
+> FA Kit
+> Activities as mentioned in itinerary
 ```
+###### Acommodation and Meals on this tour
+```
+> Accommodation: Tea Bungalows, Eco Camps & Safari Lodges
+> Meals: As per selected plan
+
+```
+
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/family/assamfamilyholidaygallery.jpg)
+
+
 
 ### FAQ
 
-#### BIKES
 
-Scott 660 Aspect MTB
-Fork 80mm travel, Front Derailleur Shimano FD-TX50 / 34.9mm, Rear Derailleur Shimano Tourney RD-TX35 21 Speed (Upgraded), Shifters Shimano ST-EF 41 L / 7R EZ-ire plus (Upgraded), Brakeset Tektro SCM-02 mech. Disc 160F/160Rmm Rotor, Front Tyre 6 26×2.1 / 30TPI, Rear Tyre 6 26×2.1 / 30TPI, Weight 13.6 kg / 29.98 lbs
+##### Terrain & Road Contitons
 
-#### TERRAIN & ROAD CONDITIOINS
+The terrain is all flat with mostly good road conditions
 
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
+##### Backup
+Sturdy SUV’s and Mini coaches with sturdier drivers will accompany you on every trip.  These vehicles are along right from your airport pick up to your drop back to the airport.
 
-#### BACKUP
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+##### Permits
+No special permits required
 
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
-
-#### PERMITS
-Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
-
-#### WEATHER PATTERN
+##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
 
-#### MEALS
-As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
+##### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+**[FAMILY ADVENTURES  ](https://www.eastindiacycling.com/family/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+

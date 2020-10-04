@@ -1,7 +1,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.homepage.cta }}
 {{ "<!-- cta -->" | safeHTML }}
-<section class="cta overlay-primary py-50 text-center text-lg-left"
+<section class="cta -primary py-50 text-center text-lg-left"
 	style="background-image: url('{{ .bg_image | absURL }}');">
 	<div class="container">
 		<div class="row justify-content-between">

@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH: Call of the Mountains | Family Holiday"
+title: "Arunachal Pradesh (West): Call of the Mountains | FAMILY HOLIDAY"
 date: 2018-09-24T14:48:03+06:00
 description : "Family adventure holiday in Western Arunachal Pradesh"
 bg_image: images/background/family/Western Arunachal family holiday main.jpg
@@ -11,41 +11,57 @@ Weight: 4
 
 # overview
 overview:
-  - label : LEVEL
-    data : Moderate to Tough
+
+  - label : STATES
+    icon : ti-world
+    data : Arunachal Pradesh
+
+  - label : TRAVEL TYPE
+    data : Off the grid
     
   - label : DURATION
     data : 7 - 12 days
     
-  - label : ALTITUDE VARIATION
-    data : 50 - 1200 mts
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Guwahati (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Guwahati (Assam)
     
   - label : BEST TIME
-    data : October - March
+    icon : ti-shine
+    data : Sept-Nov / Mar-Apr
+
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
 
 # type
 type : project
 ---
 
-### Walks in India's far east
+### Family adventures in the gateway of Tibet
 
-Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in Eastern Arunachal Pradesh close to the Myanmar and Chinese frontiers. This tour includes a series of walks across the eastern most river valleys that feed the Mighty Brahmaputra River. Walking through wildlife sanctuaries, camping next to pristine lakes, visiting villages, experiencing the local cuisine and authentic interactions to be had in this tour.
+On this family adventure we take you to Western Arunachal Pradesh, a region bordering Bhutan and Tibet. A mountanious region speckled with gold-and-white gompas (Tibetan Buddhist monasteries), Shangri La  awaits at the end of a  spectacular route up from the Brahmaputra plains. The natural beauty and solitude of Gudpi and Chong-Chugmi ranges, Tawang chu River and Tawang valley are very mesmerizing. The inhabitants of the districts are all of Monpa tribes except Shyo village which is dominated by people of Tibetian origin.
+
+There are two major religious festivals of the Monpas viz "LOSAR" and "TORGYA". Both festivals are celebrated once annually. The LOSAR s celebrated to the commencement of New year. Every third year of Torgya, the festival of Dungyur is celebrated. Both "Dungyur and Torgya" festivals are celebrated at the premises of the Tawang Monastery with traditional gaiety and enthusiasm. There are many beautiful grlacial lakes in and around Tawang with crystal blue waters such as Sela lake, P.T.Tso lake, Sangetser lake, Banggachang lake and many more. These remain frozen in winter while in summer they become haven for migratory birds.
 
 
 
 ###### OVERVIEW
 ```
-Level: Easy to Moderate
-Total Days: 7 to 12
-Walking Days: 4 to 7
-Avg. Walking Time: 4 – 6 hrs
-Terrain: 50% Hilly
-Altitude variation: 50 to 1200 mts
-Best Time: October to March
-Accommodation: Cottages & Camps
-Airport in: Dibrugarh (Assam)
-Airport out: Dibrugarh (Assam)
+> Travel Type: Off the Grid
+> Total Days: 7 to 12
+> Experiences: Tea, Nature, Adventure, Culture & Cuisine
+> Terrain: 70% Mountanious
+> Altitude variation: 50 to 4200 mts
+
+> Best Time: Sept-Nov / March-April
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 
@@ -72,26 +88,39 @@ Airport out: Dibrugarh (Assam)
 . FA Kit
 . Activities as mentioned
 ```
+###### Acommodation and Meals on this tour
+```
+> Accommodation: Tea Bungalows, Hotels & Eco lodges
+> Meals: As per selected plan
+> Refreshments & Water: High energy snacks and Water during activities
+
+```
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/family/tawangfamilytourgallery.jpg)
 
 ### FAQ
 
-#### TERRAIN & ROAD CONDITIOINS
 
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
+##### Terrain & Road Contitons
 
-#### BACKUP
+Totally mountanious once we leave the plains of Assam behind. Altitude range can go up to 4500 mts.
+
+##### Backup
 Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
 
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
+##### Permits
+Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
 
-#### PERMITS
-None required.
+##### Weather Pattern
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
 
-#### WEATHER PATTERN
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 15 C, in the evenings, however the days are still favourable for cycling.
-
-#### MEALS
+##### Meals
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[FAMILY ADVENTURES  ](http://localhost:61734/family/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+##### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+**[FAMILY ADVENTURES   ](https://www.northbynortheast.in/family/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

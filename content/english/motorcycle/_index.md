@@ -1,5 +1,5 @@
 ---
-title: "MOTORCYCLE & OVERLAND TRIPS IN NORTHEASTERN INDIA"
+title: "Motorcycle & Overland Tours | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/motorcycle/Motorcycle and Overland tours of northeast india.jpg
 description : "Motorcycle & Overland tours across Northeast India and the Eastern Himalayas"

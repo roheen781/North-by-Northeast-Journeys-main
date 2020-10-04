@@ -1,5 +1,5 @@
 ---
-title: "MEGHALAYA: The Trans-Meghalaya Explorer | Cycle Tour"
+title: "Meghalaya: The Trans-Meghalaya Explorer | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
 description : "Trans-Meghalaya Cycle tour"
 bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
  
 
 # type
@@ -81,7 +81,6 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 > Visit the Root bridges, the marvels of natural bio engineering
 > Unmatched panoramas
 > Culture and Cuisine
-> Camping , Homestays and local lodges
 ```
 
 ###### INCLUSIONS
@@ -94,22 +93,23 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 > Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
 > FA Kit
 > Tools and spares
-> Activities as mentioned
+> Activities as mentioned in the itinerary
+> All permits
 ```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
 ```
 > Accommodation: Hotels, Cottages, farmsteads & Camping
 > Meals: As much as possibly we try cover all the local cuisines
-> Refreshments & Water: During activities we provide you with high energy snacks. 
+> Refreshments & Water: High energy snacks and Water during activities 
 ```
 
-
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/cycling/transmeghalayacycletourgallery.jpg)
 
-``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -136,4 +136,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
- **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+ **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

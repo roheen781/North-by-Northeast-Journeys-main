@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH (West): High roads of the Monyul region | Motorcycle & Overland Tour"
+title: "Arunachal Pradesh (West): High roads of the Monyul | MOTORCYCLE & OVERLAND"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Western Arunachal Pradesh"
 bg_image: images/background/motorcycle/Motorcycle tour of Western Arunachal Pradesh main.jpg
@@ -99,12 +99,13 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 > Meals: As much as possibly we try cover all the local cuisines
 > Refreshments & Water: During activities we provide you with high energy snacks. 
 ```
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/motorcycle/tawangmotorcycletourgallery.jpg)
 
-``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -124,13 +125,13 @@ A mix of Good tarred roads, gravel and icy conditions at times. Good climbs with
 Sturdy Pickup truck and sturdier driver will accompany you on the trip along with the mechanic and related spares,tools.
 
 
-#### Permits
+##### Permits
 Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
 
-#### Weather Pattern
+##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 0 C at times.
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  
+**[MOTORCYCLE & OVERLAND  ](https://www.northbynortheast.in/motorcycle/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)** 

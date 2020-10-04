@@ -1,5 +1,5 @@
 ---
-title: "ASSAM & ARUNACHAL PRADESH: Around the Brahmaputra Valley | Motorcycle & Overland Tour"
+title: "Assam & Arunachal Pradesh: Around the Brahmaputra | MOTORCYCLE & OVERLAND"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Assam & Arunachal Pradesh"
 bg_image: images/background/motorcycle/Motorcycle Tour of Assam and Arunachal Pradesh main.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : September - April
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
 
 # type
 type : project
@@ -45,9 +45,9 @@ type : project
 
 ### Hills, Valleys, Forests, Rivers and Tribes
 
-Starting from central Assam we make our war east and north along the mighty Brahmaputra River. The ride has a vast mic of terrain and environment, from the lush farmlands, tea plantations,wildlife parks and river islands of Assam to the unending forest tracts of the tribal hills of Arunachal Pradesh.
+Starting from central Assam we make our war east and north along the mighty Brahmaputra River. In essence making our way across the best of Assam and central as well as eastern Arunachal Pradesh. Covering the Brahmaputra, Subansiri, Lohit, Dibang and Lohit river valleys.
 
-The ride offers a wide mix of riding /driving conditions, from well tarred highways, sandy tracks along the rivers to broken hills roads added to which a fickle local weather pattern. Enroute you will cross territories of a wide range of tribes on daily basis. No two days are spent riding / driving the territory of the same tribe. Enroute you will indulge in Wildlife safari's in Kaziranga National Park, visit the vaishnavite monastries at the Majuli river island, cross the Brahmaputra via a series of ferry crossings among other things. One does require a good mastery of riding / driving to do this route.
+The ride offers a wide mix of riding /driving conditions, from well tarred highways, sandy tracks along the rivers to broken hills roads added to which a fickle local weather pattern. Enroute you will cross territories of a wide range of tribes on a daily basis. No two days are spent riding / driving the territory of the same tribe. Enroute you will indulge in Wildlife safari's in Kaziranga National Park, visit the vaishnavite monastries at the Majuli river  (The worlds largest river island) and cross the Brahmaputra via a series of ferry crossings among other things. One does require a good mastery of riding / driving to do this route.
 
 
 ###### ROUTE TOPOLOGY
@@ -96,7 +96,7 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 ```
 > Accommodation: Hotels, Cottages, homestays, farmsteads & Camping
 > Meals: As much as possibly we try cover all the local cuisines
-> Refreshments & Water: During activities we provide you with high energy snacks. 
+
 ```
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
@@ -107,25 +107,29 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 
 ### FAQ
 
+##### Bikes
+
+Royal Enfield 350cc, 500cc and Himalayan Models.
+
+##### 4 Wheelers
+
+We facilitate the vehicle rentals from third party vendors.
+
+##### Terrain & Road Conditions
+
+50 % hilly , 30% riverine. The route has a wide mix of terrain and road conditions. From some of the best stretches to the worst of the entire northeastern region. Put together it makes for an excellent and interactive route.
 
 
-#### TERRAIN & ROAD CONDITIOINS
+##### Backup
+A Sturdy Pickup truck and sturdier driver will accompany you on every trip. Your luggage, the Mechanic as well as all the spares and tools follow in this vehicle.
 
-100% mountanious, Alpine and sub-alpine environment
+##### Permits
+Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
 
-#### BACKUP
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+##### Weather Pattern
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
 
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
+##### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-#### PERMITS
-No special permits required
-
-#### WEATHER PATTERN
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
-
-#### MEALS
-As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
-
-**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 
+**[MOTORCYCLE & OVERLAND  ](https://www.northbynortheast.in/motorcycle/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

@@ -1,7 +1,7 @@
 ---
-title: "SIKKIM & WEST BENGAL: Monastic Trail | Cycle Tour"
+title: "Sikkim & W Bengal: Monastic Trail | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Sikkim"
+description : "Cycle tour of Sikkim and Bengal"
 bg_image: images/background/cycling/Sikkim cycle tour main.jpg
 image : images/background/cycling/Sikkim cycle tour.jpg
 live_demo : 
@@ -35,17 +35,18 @@ overview:
     icon : ti-shine
     data : Sept/Oct - Mar/May
 
-  - label : STARTING COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
 
 # type
 type : project
 ---
 
-### The Monastic Trail
+### Of Mountains and Monastries
 
 This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this region, including  historic, religious and cultural sites.
+
 
 
 
@@ -72,25 +73,25 @@ This cycling tour of Sikkim and West Bengal takes us through East, South and Wes
 
 ###### HIGHLIGHTS
 ```
-. In the shadows of the high Eastern Himalayas.
-. Explore the sub-alpine belt of rural Sikkim.
-. Some of the most important monasteries of the state.
-. Tea Plantations, River Valleys, Remote Villages
-. Unsurpassed views of the Mighty Kanchenjunga massif.
-. Hotels, homestays, off the grid farms and Lodges
+> In the shadows of the high Eastern Himalayas.
+> Explore the sub-alpine belt of rural Sikkim.
+> Some of the most important monasteries of the state.
+> Tea Plantations, River Valleys, Remote Villages
+> Unsurpassed views of the Mighty Kanchenjunga massif.
 ```
 
 ###### INCLUSIONS
 ```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
-. FA Kit
-. Tools and spares
-. Activities as mentioned
+> All accommodation
+> All Meals
+> Refreshment and water throughout
+> SUV backup throughout
+> Guide (NOLS First aid qualified)
+> Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+> FA Kit
+> Tools and spares
+> Activities as mentioned in the itinerary
+> All permits
 ```
 
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
@@ -98,11 +99,15 @@ This cycling tour of Sikkim and West Bengal takes us through East, South and Wes
 ```
  > Accommodation: Tea bungalows, Farmsteads, Hotels & Eco Cottages 
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities 
 ```
 
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/cycling/sikkimcyclegallery.jpg)
 
 ### FAQ
 
@@ -122,10 +127,10 @@ Sturdy SUV’s and sturdier driver will accompany you on every trip. the conditi
 Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
 
 ##### Weather Pattern
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 5 C.
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury often coming down below 0 C.
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
- **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+ **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
 

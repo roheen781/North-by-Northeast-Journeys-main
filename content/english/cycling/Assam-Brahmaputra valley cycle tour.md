@@ -1,5 +1,5 @@
 ---
-title: "ASSAM & ARUNACHAL PRADESH: The Brahmaputra explorer | Cycle Tour"
+title: "Assam & Arunachal Pradesh: The Brahmaputra explorer | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle Tour of Assam: Brahmaputra Valley"
 bg_image: images/background/cycling/Assam Cycle Tour.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards (based on 2 persons on twin share)
+    data : On Request
 
 
 # type
@@ -46,9 +46,11 @@ type : project
 
 ### Cycling the physical heart of Northeastern India
 
-This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated settlers of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will come across territories of the Animist tribes and then the Theravada Buddhist tribes.
+This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
 
-Enroute you will ride across wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region home. In comparison to the hills around this region is more settled, with rich written history and traditions. The Tour is flexible and will be designed around the duration you have in hand.
+Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. 
+
+The Tour is flexible and will be designed around the duration you have in hand.
 
 
 
@@ -77,11 +79,11 @@ Enroute you will ride across wildlife parks, cross rivers on ferries, experience
 ```
 > Explore the Brahmaputra Valley
 > Ride along some of India's greatest Wildlife Parks
-> Meet the Vaishnavite, Animist and the Theravada Buddhist tribes of eastern India
+> Ride across the largest River Island of the world
+> Meet the Vaishnavite, Animist and the Theravada tribes of eastern India
 > A window into over 12 distinct ethinic groups
 > See some of the greatest Himalayan Rivers
 > Indulge in a plethora of cuisines
-> Camping and local lodges
 ```
 
 ###### INCLUSIONS
@@ -94,23 +96,24 @@ Enroute you will ride across wildlife parks, cross rivers on ferries, experience
 > Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
 > FA Kit
 > Tools and spares
-> Activities as mentioned
+> Activities as mentioned in the itinerary
+> All permits
 ```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
 
 ```
  > Accommodation: Tea bungalows, Safari Lodges, Eco Cottages & Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities 
 ```
 
-
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/cycling/assamcycletourgallery.jpg)
 
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -134,5 +137,5 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
- **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+ **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
 

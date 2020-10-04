@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH (EAST): Hike, Bike, Raft & Culture in India's far east | Multi-Activity Tour"
+title: "Arunachal Pradesh (East): Hike, Bike, Raft & Culture | MULTI ACTIVITY TOUR"
 date: 2018-09-24T14:48:03+06:00
 description : "Active holiday in Eastern Arunachal Pradesh"
 bg_image: images/background/multiactivity/Eastern arunachal multiactivity tour main.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
 
 
 # type
@@ -46,9 +46,9 @@ type : project
 
 ### Birth of one of the greatest river valleys
 
-This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills is the land of the Animist and Theravada Buddhist tribes. 
+This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes. 
 
-Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into theKamlang and  Namdapha Wildlife Sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers.
+Authentic interactions, local cuisine, history and lifestyle of the tribes etc are our focus here. The cycling phase takes us across territories of six different tribes where as the hiking phase takes us away from civilization into two different and unique wildlife sanctuaries. This multi-activity tour of Eastern Arunachal Pradesh also includes rafting on the Dibang and the Lohit rivers, the easternmost tributaries of the Brahmaputra.
 
 
 
@@ -99,7 +99,7 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 ```
  > Accommodation: Family run Eco Lodges and Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities 
 ```
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
@@ -125,12 +125,12 @@ Sturdy SUV’s and sturdier driver will accompany you on every trip. the conditi
 ##### Permits
 Indian nationals require an Inner Line Permit (ILP) whereas foreign nationals require a Restricted Area Permit (RAP / PAP). These have a govt. charge attached to them. Rest assured we take care of the arrangements.
 
-#### Weather Pattern
+##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+**[MULTI-ACTIVITY  ](https://www.northbynortheast.in/multiactivity/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
 
 

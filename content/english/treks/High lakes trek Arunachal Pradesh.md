@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH (WEST): The high lakes trek | Trekking Holiday"
+title: "Arunachal Pradesh (West): The high lakes trek | TREKKING HOLIDAY"
 date: 2018-09-24T14:48:03+06:00
 description : "Trekking in Arunachal Pradesh"
 bg_image: images/background/treks/western arunachal pradesh trek main.jpg
@@ -35,15 +35,19 @@ overview:
     icon : ti-shine
     data : Sept/Oct - Mar/May
 
+  - label : COST
+    icon : ti-wallet
+    data : On Request
+
 # type
 type : project
 ---
 
-### Life along the Bhutanese frontier
+### Ridge running along the Bhutanese frontier
 
-This particular trek is set in Western Arunachal Pradesh, in the states Buddhist belt close to the tri-junction between India, Tibet and Bhutan. This region is home to the Monpa,  Sherdukpen and the Brokpa people. Starting from the township of Dirang, this trek takes you along the Bhutanese border via a region known for its high altitude lakes and ends in the Sela Pass or Jang depending on the duration one chooses.
+This particular trek is set in Western Arunachal Pradesh, in the states Buddhist belt close to the tri-junction between India, Tibet and Bhutan. This region is home to the Monpa,  Sherdukpen and the Brokpa people. Starting from the township of Dirang, the trek takes you along the Bhutanese border via a region known for its high altitude lakes and rhodendrons while ending in the Sela Pass or Jang depending on the duration one chooses.
 
-This region is known as the eastern gateway to Tibet, an age old trading route between India, Bhutan and Tibet. In the duration of tour you will visit and experience some of the important places and aspects of this region such as spotting the River Dolphins of the Brahmaputra, visit the Tawang Monastry, Bum la pass and the orchidarium at Tipi among others. During the trek you will pass through remote settlements of the Brokpa (the yak and sheep herders) and the Monpa tribes , getting to interact and first hand window into their way of life. The trek starts from the sub-alpine forests at about 1500mts , takes you up beyond the treeline reaching about 4200 mts. The trek takes of through forests of Rhodendrons in a typical Himalayan setting offering views of the high peaks of the Bhutan and Arunachal Himalayas.
+This region is known as the eastern gateway to Tibet, an age old trading route between India, Bhutan and Tibet. In the duration of tour you will visit and experience some of the important places and aspects of this region such as spotting the River Dolphins of the Brahmaputra, visit the Tawang Monastry, Bum la pass and the orchidarium at Tipi among others. During the trek you will pass through remote settlements of the Brokpa (the yak and sheep herders) and the Monpa tribes , getting to interact and first hand window into their way of life. The trek starts from the sub-alpine forests at about 1500 mts and takes you up beyond the treeline reaching about 4200 mts. The trek takes of through forests of Rhodendrons in a typical Himalayan setting offering views of the high peaks of the Bhutan and Arunachal Himalayas.
 
 
 
@@ -80,24 +84,24 @@ This region is known as the eastern gateway to Tibet, an age old trading route b
 > Refreshment and water throughout
 > Guide 
 > FA Kit
-> All Permits
-> Activities as mentioned
+> Activities as mentioned in the itinerary
+> All permits
 ```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
 
 ```
  > Accommodation: Tea bungalows, Eco camps, Boutique cottages, hotels & Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during throughout
 ``` 
 
-
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/treks/westernarunachaltrekgallery.jpg)
 
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -105,10 +109,10 @@ This region is known as the eastern gateway to Tibet, an age old trading route b
 
 ##### Terrain 
 
-50% hilly 
+100% Mountainous
 
 ##### Backup
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. 
+Sturdy SUV’s and sturdier driver will accompany you on every trip. The condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. 
 
 
 ##### Permits
@@ -120,7 +124,7 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[TREKS & WALKS  ](http://localhost:61734/treks/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+**[TREKS & WALKS  ](https://www.northbynortheast.in/treks/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
  
 
         

@@ -1,5 +1,5 @@
 ---
-title: "MULTI-ACTIVITY TOURS OF NORTHEASTERN INDIA"
+title: "Multi-Activity tours | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/multiactivity/Multiactivity tours of northeast india main.jpg
 description : "Multi-activity tours across the beautiful northeastern region of India"

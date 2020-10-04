@@ -1,7 +1,7 @@
 ---
-title: "ARUNACHAL PRADESH: Hike and Bike in the Monyul region | Multi-Activity Tour"
+title: "Arunachal Pradesh (West): Hike, Bike & Culture | MULTI ACTIVITY TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Activity holiday in Western arunachal Pradesh"
 bg_image: images/background/multiactivity/Western Arunachal multiactivity tour main.jpg
 image : images/background/multiactivity/Western Arunachal Pradesh multiactivity tour.jpg
 live_demo : 
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : Sept/Oct - Mar/May
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
     
 
 # type
@@ -46,7 +46,7 @@ type : project
 
 ### Active & Interactive in the High Himalayas
 
-This multi-activity tour is situated in Western Arunachal Pradesh, in the states Buddhist belt. This region is home to the Monpa, Sherdukpen and to an extent also the Brokpa people. This is an above oderate activity holiday in difficulty level, hence one needs to have a fair level of fitness. 
+This multi-activity tour is situated in Western Arunachal Pradesh, in the state's Buddhist belt. This region is home to the Monpa, Sherdukpen and to an extent also the Brokpa people. This is an above oderate activity holiday in difficulty level, hence one needs to have a fair level of fitness. 
 
 This tour includes some of the important aspects of this region such as the River Dolphins of the Brahmaputra, the Tawang Monastry, Bum la pass and the orchidarium at Tipi among others. Getting to interact and look first hand into their way of life.
 
@@ -96,7 +96,7 @@ This tour includes some of the important aspects of this region such as the Rive
 ```
  > Accommodation: Tea Bungalows, Eco Lodges, Homestays, Hotels and Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities 
 ```  
 
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
@@ -122,10 +122,10 @@ Sturdy SUV’s and sturdier driver will accompany you on every trip. the conditi
 ##### Permits
 Indian nationals require an Inner Line Permit (ILP) whereas foreign nationals require a Restricted Area Permit (RAP / PAP). These have a govt. charge attached to them. Rest assured we take care of the arrangements.
 
-#### Weather Pattern
+##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 0 C.
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MULTI-ACTIVITY  ](http://localhost:61734/multiactivity/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+**[MULTI-ACTIVITY  ](https://www.northbynortheast.in/multiactivity/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

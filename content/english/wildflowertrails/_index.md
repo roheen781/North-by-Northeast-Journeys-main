@@ -1,7 +1,7 @@
 ---
-title: "CYCLING HOLIDAYS ACROSS THE NORTHEASTERN REGION OF INDIA"
+title: "Wildflower Trails | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/cycling/cycling hero.jpg
+bg_image: images/background/wildflowers/Wildflower trails main.jpg
 description : "Cycling holidays across the beautiful northeastern region of India"
 ---
 

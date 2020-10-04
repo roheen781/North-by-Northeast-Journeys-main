@@ -1,6 +1,6 @@
 ---
 
-title: "MEGHALAYA: The Abode of clouds | Cycle Tour"
+title: "Meghalaya: The Abode of clouds | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Meghalaya: Khasi & Jaintia Hills"
 bg_image: images/background/cycling/Meghalaya cycle tour main.jpg
@@ -39,9 +39,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards (based on 2 persons on twin share)
+    data : On Request
 
   
 
@@ -54,9 +54,9 @@ type : project
 
 ### The Khasi and Jaintia hills explored on bicycles.
 
-Meghalaya’ meaning the Abode of clouds is a green hilly state perched between the great plains of Bangladesh and that of Assam. Other than being the home of some of the only matrilineal societies of the subcontinent, Meghalaya also has some of the heaviest rainfall on earth. Cherrapunji and Mawsynram both in Meghalaya have taken their turns recording some of the heaviest rainfall on the planet. This is a land well endowed in natural beauty, home to some of the highest waterfalls and deepest caves of Asia.
+Meghalaya’ meaning the Abode of clouds is a green hilly state perched between the great plains of Bangladesh and that of Assam. Other than being the home of some of the only matrilineal societies of the subcontinent, Meghalaya also has some of the heaviest rainfall on earth. Cherrapunji and Mawsynram both in Meghalaya have taken their turns recording some of the heaviest rainfall ever to be recorded. This is a land well endowed in natural beauty, home to some of the highest waterfalls and deepest caves of Asia.
 
-On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh, riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and small settlements. We also include a day hike so as not to miss out the wonders that are the living root bridges.
+On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
 
 
 
@@ -86,7 +86,6 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 > The Living root bridges, private natural pools, riverside picnic’s
 > Views, views and more views
 > Villages, Markets, Caves, waterfall and much more
-> Off the grid farms, camping in beautiful locations and family run guest houses
 ```
 
 ###### INCLUSIONS
@@ -99,7 +98,8 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 > Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
 > FA Kit
 > Tools and spares
-> Activities as mentioned
+> Activities as mentioned in the itinerary
+> All permits
 ```
 
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
@@ -107,16 +107,16 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 ```
  > Accommodation: Hotels, Farmsteads, Eco cottages & Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities  
 ```
 
-
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/cycling/meghalayacycletourgallery.jpg)
 
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -143,5 +143,5 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-  **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+  **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
 

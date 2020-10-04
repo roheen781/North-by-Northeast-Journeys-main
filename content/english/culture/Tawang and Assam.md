@@ -1,7 +1,7 @@
 ---
-title: "WESTERN ARUNACHAL PRADESH & ASSAM: Monyul & Brahmaputa Valley | Cultural Journeys  "
+title: "Arunachal Pradesh & Assam: Monyul & Brahmaputa Valley | CULTURAL JOURNEYS  "
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Culture tour of Tawang and Assam"
 bg_image: images/background/culture/Culture tour of Western Arunachal Pradesh and Assam main.jpg
 image : images/background/culture/Culture tour of western arunachal pradesh and assam.jpg
 live_demo : 
@@ -11,93 +11,55 @@ Weight: 1
 
 # overview
 overview:
-  - label : LEVEL
-    data : Tough
+  - label : STATES
+    icon : ti-world
+    data : Arunachal Pradesh, Assam
     
   - label : DURATION
-    data : 13 - 15 days
-    
-  - label : ALTITUDE VARIATION
-    data : 50 - 2655 mts
+    icon : ti-flag-alt
+    data : 8 to 12 days
+
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Guwahati (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Guwahati (Assam)
     
   - label : BEST TIME
-    data : October - March
+    icon : ti-shine
+    data : Sept-April
+
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
 # type
 type : project
 ---
 
-### Cycling the Himalayan far east
+### Monyul and the Brahmaputra valley
 
-The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas. Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of nature. This is home to the home to the animist Mishmi tribes. On this particular cycle tour you will ride across diverse conditions on little used backroads, starting form the rainforest of Namdapha and Kamlang to the bamboo forests of Acheso Valley. Enroute you will meet the Therevada tribes that inhabit the plains and the animist tribes that live in the hills, while all along you will be treated to unsurpassed vistas of the high Himalayas and the mighty Brahmaputra Valley.
+This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh. The first phase takes you to the periphery of Tawang where as the second stage brings us down to the lush plains of central Assam.In essence covering the Tibetian Buddhist and Vaishnavite areas.
+
+Tawang, the beautiful land of the people of Monpa Tribe, is located in the Western mostpart of the state Arunachal Pradesh bordering China and Bhutan. The district is entirely located amongst the mighty Himalayas and has a rugged terrain with deep valleys and altitude ranging between 3,500 to 6,900 mts. Its snow-capped peaks, pleasant lakes, congenial climate, friendly and hospitable people continue to entice the people who visit. This magical land evokes images of awesome mountain views, remote hamlets, quaint and sleepy villages, magical Gompas, tranquil lakes and mesmerizing mountains.
+
+Tawang is believed to have derived its name from the Grandiose Tawang Monastery perched on the edge of the ridge running along the western part of Tawang Township. ‘Ta’ means Horse and ‘Wang’ means Chosen. As the legend goes the site of the present Monastery is believed to have been chosen by a horse owned by Merag Lama Lodre Gyatso who was on a search for an appropriate place to establish a Monastery but was unable to locate any appropriate site. So he finally decided to mediate for guidance. As he opened his eyes after prayer, he found his horse missing. So, wearily he went out searching for his horse and found it on the top of hill known as Tana Mandegang where once stood the palace of King Kala Wangpo. Believing it to be a good omen, Mera lama Lodre Gyatso decided to initiate work for building of the monastery with the help of the people. Another source reflects that the Great treasure master Padma Lingpa gave initiations such as of Kagyad and TamdringTantras and hence, the place came to be known as Tawang, Ta- being the abbreviation of Tamdring, and Wang meaning initiation.
+
+Stretching 600 km along the Brahmaputra River Valley, with a spur down to the hilly southeast, Assam is the largest and most accessible of the Northeast States. Well known for its national parks abounding in rhinoceroses, elephants, deer and primates (with respectable tiger numbers too), it welcomes visitors with a subtly flavoured cuisine and a hospitable population with a vibrant artistic heritage. The archetypal Assamese landscape is a golden-green panorama of rice fields and manicured tea estates, framed by the blue mountains of Arunachal Pradesh in the north and the highlands of Meghalaya and Nagaland to the south. The birthplace of Indian tea, Assam has more than 3000 sq km of land carpeted in bright-green tea gardens, and visits to these estates are high on many travellers' itineraries.
+
+Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks is Majuli, which at around 350 sq km is India’s largest river island. Though continually ravaged by the primal forces of nature (much of it disappears under water every monsoon, and it's steadily shrinking due to erosion), Majuli flaunts unparalleled scenic beauty. Coming here is like stepping back to an earlier India of little motor traffic (cycling is a delight), peaceful woodlands and wetlands, and Mishing tribal villages with wooden stilt houses, where the goats, geese, cows and pigs easily outnumber the people. The island's serene atmosphere is enhanced by the influence of its 22 satras (Hindu Vaishnavite monasteries and centres for art).
 
 
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
-###### OVERVIEW
-```
-. Level: Tough
-. Total Days: 13 to 15
-. Max. Cycling distance: < 650 Km
-. Avg. Cycling Distance: 60 Km
-. Terrain: 70% Hilly / Mountanious
-. Altitude variation: 50 to 2655 mts
-. Best Time: October to March
-. Accommodation: Cottages & Camps
-. Airport In: Dibrugarh (Assam)
-. Airport Out: Dibrugarh (Assam)
-```
+###### TOUR IMAGES
 
+![What is this](/images/background/culture/westernarunachalculturegallery.jpg)
 
 
 
-###### HIGHLIGHTS
-```
-. Explore the Mishmi hills (Easternmost bit of the Himalayas)
-. Lohit and Debang River Valleys
-. Least populated district of India
-. View the birth of the Brahmaputra Valley
-. A myriad of Tribes distinct from each other
-. Learn the ways of the Animist Idu Tribe
-. Camping , Homestays and local lodges)
-```
 
-###### INCLUSIONS
-```
-. All accommodation
-. All Meals
-. Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
-. FA Kit
-. Tools and spares
-. Activities as mentioned
-```
-
-### FAQ
-
-#### BIKES
-
-Scott 660 Aspect MTB
-Fork 80mm travel, Front Derailleur Shimano FD-TX50 / 34.9mm, Rear Derailleur Shimano Tourney RD-TX35 21 Speed (Upgraded), Shifters Shimano ST-EF 41 L / 7R EZ-ire plus (Upgraded), Brakeset Tektro SCM-02 mech. Disc 160F/160Rmm Rotor, Front Tyre 6 26×2.1 / 30TPI, Rear Tyre 6 26×2.1 / 30TPI, Weight 13.6 kg / 29.98 lbs
-
-#### TERRAIN & ROAD CONDITIOINS
-
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
-
-#### BACKUP
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
-
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
-
-#### PERMITS
-Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
-
-#### WEATHER PATTERN
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
-
-#### MEALS
-As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
 **[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  

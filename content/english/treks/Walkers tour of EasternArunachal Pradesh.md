@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH (EAST): Walks in India's far east | Walking Holiday"
+title: "Arunachal Pradesh (East): Walks in India's far east | WALKING HOLIDAY"
 date: 2018-09-24T14:48:03+06:00
 description : "Hiking in Eastern Arunachal Pradesh"
 bg_image: images/background/treks/walks in eastern arunachal pradesh.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
 
 
 # type
@@ -46,9 +46,11 @@ type : project
 
 ### Walks in India's far east
 
-Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures. This is land of the giant River valleys that form the mighty Brahmaputra,  home to the earliest tea producers of the subcontinent, some of the earliest oil finds of the world and a string of vibrant wildlife parks.
+Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures. This is the land where three giant river valleys come down and meet the plains, hence giving birth to the mighty Brahmaputra.  Home to the earliest tea producers of the subcontinent, some of the earliest oil finds of the world and a string of vibrant wildlife parks.
 
-The tour includes a series of walks across the eastern most river valleys that feed the Mighty Brahmaputra River. This is the land of the Animist and Theravada Buddhist tribes of the state. While on this tour you will be walking through wildlife sanctuaries, camping next to pristine lakes, visiting idellic villages, indulging in the local cuisines and have authentic interactions with the people who call this land their home. 
+The tour includes a series of walks across these eastern most river valleys. This is a land of the Animist and Theravada Buddhist tribes of the state who are still very rooted in their culture and traditions. You will be walking through wildlife sanctuaries, camp next to pristine lakes, visit idellic villages, indulging in local cuisines and have authentic interactions with the people who live here. 
+
+The tour is quite flexible and can be worked out around the duration that you have in hand. Do write in to us for the details.
 
 
 
@@ -71,12 +73,12 @@ The tour includes a series of walks across the eastern most river valleys that f
 ###### HIGHLIGHTS
 ```
 > Explore in the shadow of the Mishmi Hills
-> Namdapha, one of the largest protected areas of Asia
-> Meet the Animist and the Theravada tribes of eastern India
+> Walk through the rain forests of some of the least known wildlife parks of the sub-continent 
+> Spot unique wildflowers 
+> Insider prospective into local life of a very different side of India
 > View the birth of the Brahmaputra Valley
-> Hike to the pristine Mehao Lake
-> Learn the ways of the Animist Idu Tribe
-> Camping , Homestays and local lodges
+> Hike to and camp at pristine off the map lakes
+> Windows into the animist Idu Mishmi and the Theravada, Khamti, Singpho and Chakma tribes. 
 ```
 
 ###### INCLUSIONS
@@ -98,13 +100,13 @@ The tour includes a series of walks across the eastern most river valleys that f
  > Refreshments & Water: During activities we provide you with high energy snacks and Water 
 ```
 
-
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/treks/easternarunachalhikegallery.jpg)
 
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -127,4 +129,4 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[TREKS & WALKS  ](http://localhost:61734/treks/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+**[TREKS & WALKS  ](https://www.northbynortheast.in/treks/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

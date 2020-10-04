@@ -1,5 +1,5 @@
 ---
-title: "Insights into our tours"
+title: "Insights into our tours and Northeastern India in general"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/insights/insights.jpg
 description : "Active, Interactive and Authentic journeys across Northeastern India"

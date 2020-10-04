@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "/"
-title = "North by Northeast Journeys | Travels in Northeast India"
+title = "North by Northeast Journeys | Active Travels in Northeast India"
 theme = "biztrox"
 # post pagination
 paginate = "6"
@@ -72,20 +72,23 @@ disableLanguages = [] # desable language from here
 
     [[menu.main]]
     parent = "Activities"
-    name = "Motorcycle & Overland"
-    URL = "motorcycle"
+    name = "Family Adventures"
+    URL = "family"
     weight = 4
+
 
     [[menu.main]]
     parent = "Activities"
-    name = "Family Adventures"
-    URL = "family"
+    name = "Motorcycle & Overland"
+    URL = "motorcycle"
     weight = 5
 
-     [[menu.main]]
+    
+
+    [[menu.main]]
     parent = "Activities"
-    name = "River Journeys"
-    URL = "rivertrips"
+    name = "Ethno-Cultural"
+    URL = "culture"
     weight = 6
 
     [[menu.main]]
@@ -94,11 +97,12 @@ disableLanguages = [] # desable language from here
     URL = "wildlife"
     weight = 7
 
-    [[menu.main]]
+     [[menu.main]]
     parent = "Activities"
-    name = "Ethno-Cultural"
-    URL = "culture"
+    name = "River Journeys"
+    URL = "rivertrips"
     weight = 8
+   
 
     [[menu.main]]
     parent = "Activities"
@@ -111,6 +115,8 @@ disableLanguages = [] # desable language from here
     name = "Youth Travels"
     URL = "youth"
     weight = 10
+
+    
 
   [[menu.main]]
   weight = 2
@@ -144,7 +150,7 @@ disableLanguages = [] # desable language from here
      [[menu.main]]
     parent = "Destinations"
     name = "Sikkim & Darjeeling"
-    URL = "sikkim"
+    URL = "Sikkim"
     weight = 5
 
      [[menu.main]]
@@ -153,11 +159,7 @@ disableLanguages = [] # desable language from here
     URL = "bhutan"
     weight = 6
 
-     [[menu.main]]
-    parent = "Destinations"
-    name = "Myanmar"
-    URL = "myanmar"
-    weight = 7
+     
 
    
 
@@ -257,7 +259,7 @@ disableLanguages = [] # desable language from here
 logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
 mail = "info.northbynortheast@gmail.com"
-mobile = "+91 99404 16065/ 80406 07723"
+mobile = "+91 99404 16065"
 # Meta data
 description = "Adventure and Culture tours in Northeast India"
 author = "North by Northeast Journeys"
@@ -289,7 +291,7 @@ icon = "ti-mobile"
   contact_item = "+91 99404 16065"
 
   [[params.contacts.contact]]
-  contact_item = "+88 987 654 3210"
+  contact_item = ""
 
 [[params.contacts]]
 icon = "ti-email"
@@ -308,7 +310,7 @@ icon = "ti-map-alt"
 ############################ google map #####################################
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDBh_qbczJJo2O0J0HjLdIFDg_AnRBqwSs"
 map_latitude = "26°38'53.0"
 map_longitude = "92°46'13.2"
 map_marker = "images/marker.png"
@@ -373,21 +375,3 @@ link = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
 
 
 
-################################ Franch language ################################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
-  weight = 2
-  home = "Accueil"
-
-  # footer
-  [Languages.fr.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
-
-  # subscribe
-  subscribe = "Subscribe Us"
-  subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
-
-  # copyright
-  copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"

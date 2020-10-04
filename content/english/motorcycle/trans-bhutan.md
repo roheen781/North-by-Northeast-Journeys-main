@@ -1,5 +1,5 @@
 ---
-title: "BHUTAN: Belly of the Thunder Dragon | Motorcycle & Overland Tour"
+title: "Bhutan: The Thunder Dragon | MOTORCYCLE & OVERLAND"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Bhutan"
 bg_image: images/background/motorcycle/Trans Bhutan motorcycle tour main.jpg
@@ -11,25 +11,43 @@ Weight: 5
 
 # overview
 overview:
+  - label : COUNTRY
+    icon : ti-world
+    data : Bhutan
+
   - label : LEVEL
-    data : Tough
+    icon : ti-dashboard
+    data : Moderate to Strenuous
     
   - label : DURATION
-    data : 9 - 14 days
-    
-  - label : ALTITUDE VARIATION
-    data : 500 - 2250 mts
+    icon : ti-flag-alt
+    data : 10 - 14 days
+
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Guwahati (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Guwahati (Assam)
     
   - label : BEST TIME
-    data : Sept-Oct / Mar-May
+    icon : ti-shine
+    data : Sept-Oct / April-May
+
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
 # type
-type : motorcycle
+type : project
 ---
 
-### The Monastic Trail
+### Gross national happiness experienced
 
-This cycling tour of Sikkim and W Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of W Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this state, both historic and cultural.
+This trans-Bhutan motorcycle tour starts and ends in the Brahmaputra Valley of Assam. This route takes you across the Kingdom of Bhutan for the west to its east. 
+
+Riding out of the Brahmaputra plains we enter Bhutan through its main western gateway at Phuentsholing. Riding from its westernmost valleys to its far east, every day is a revelation. On this odyssey of the happy kingdom, we explore its Dzongs, Monasteries, sub alpine villages, national parks and more. From the beginning to the finish, a plethora of terrain to be negotiated, warm and gentle people to be met and scrumptious cuisines to be indulged in. This motorcycle tour of Bhutan is much more than just about riding.
 
 ###### ROUTE TOPOLOGY
 
@@ -37,16 +55,15 @@ This cycling tour of Sikkim and W Bengal takes us through East, South and Wester
 
 ###### OVERVIEW
 ```
-. Level: Tough
-. Total Days: 9 to 14
-. Max. Cycling distance: < 450Km
-. Avg. Cycling Distance: 60 Km
-. Terrain: 100% Hilly / Mountanious
-. Altitude variation: 50 to 2200 mts
-. Best Time: October to March
-. Accommodation: Hotels & Homestays
-. Airport In: Bagdogra (W Bengal)
-. Airport Out: Bagdogra (W Bengal) 
+> Level: Moderate to Strenuous
+> Total Days: 10 to 14
+> Riding Distance: Upto 1400 Km
+> Terrain: 80 % Mountanious 
+> Altitude variation: 50 to 3900 mts
+
+> Best Time: September - October / April-May
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 
@@ -54,12 +71,12 @@ This cycling tour of Sikkim and W Bengal takes us through East, South and Wester
 
 ###### HIGHLIGHTS
 ```
-. In the shadows of the high Eastern Himalayas.
-. Explore the sub-alpine belt of rural Sikkim.
-. Some of the most important monasteries of the state.
-. Tea Plantations, River Valleys, Remote Villages
-. Unsurpassed views of the Mighty Kanchenjunga massif.
-. Hotels, homestays, off the grid farms and Lodges
+> Find the meaning of Gross National Happiness
+> Visit Taktsang (Tigers Nest) Monastry
+> From Bhutan’s Western to its Eastern extremity
+> Views, views and more views
+> Villages, Towns, Valleys, High passes 
+> Important Monasteries and Dzongs of Bhutan
 ```
 
 ###### INCLUSIONS
@@ -67,38 +84,53 @@ This cycling tour of Sikkim and W Bengal takes us through East, South and Wester
 . All accommodation
 . All Meals
 . Refreshment and water throughout
-. SUV backup throughout
-. Guide (NOLS First aid qualified)
-. Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
+. Pickup backup throughout
+. Guide on bike
+. Bikes (Royal Enfield 350cc, 500cc or Himalayan) or wide choice of 4 wheelers
 . FA Kit
-. Tools and spares
+. Mechanic with related Tools and spares
 . Activities as mentioned
 ```
+###### ACCOMMODATION AND MEALS ON THIS TOUR
+```
+> Accommodation: Hotels, Cottages, Farmsteads 
+> Meals: As much as possibly we try cover all the local cuisines
+ 
+```
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/motorcycle/Bhutangallery.jpg)
+
+
+
+
 
 ### FAQ
 
-#### BIKES
+##### Bikes
 
-Scott 660 Aspect MTB
-Fork 80mm travel, Front Derailleur Shimano FD-TX50 / 34.9mm, Rear Derailleur Shimano Tourney RD-TX35 21 Speed (Upgraded), Shifters Shimano ST-EF 41 L / 7R EZ-ire plus (Upgraded), Brakeset Tektro SCM-02 mech. Disc 160F/160Rmm Rotor, Front Tyre 6 26×2.1 / 30TPI, Rear Tyre 6 26×2.1 / 30TPI, Weight 13.6 kg / 29.98 lbs
+Royal Enfield 350cc, 500cc and Himalayan Models.
 
-#### TERRAIN & ROAD CONDITIOINS
+##### 4 Wheelers
 
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
+We facilitate the vehicle rentals from third party vendors.
 
-#### BACKUP
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+##### Terrain & Conditions
 
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
+80 % hilly. A mix of road conditions from little used jeep tracks, broken roads to long winding tarmac.
 
-#### PERMITS
-Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
+##### Backup
+A Sturdy Pickup truck and sturdier driver will accompany you on every trip. Your luggage, the Mechanic as well as all the spares and tools follow in this vehicle.
 
-#### WEATHER PATTERN
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
+##### Permits
+Entry procedures to be done in Phuntshoeling. Special passes to individuals as well as vehicles to be obtained.
 
-#### MEALS
-As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
+##### Weather Pattern
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 
+##### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
+**[MOTORCYCLE & OVERLAND  ](https://www.northbynortheast.in/motorcycle/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

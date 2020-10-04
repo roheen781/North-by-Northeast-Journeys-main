@@ -1,5 +1,5 @@
 ---
-title: "ARUNACHAL PRADESH (EAST): Watershed of the Brahmaputra | Cycle Tour"
+title: "Arunachal Pradesh (East): Watershed of the Brahmaputra | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Eastern Arunachal Pradesh"
 bg_image: images/background/cycling/Eastern Arunachal cycle tour main.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : October - March
 
-  - label : STARTING COST
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards (based on 2 persons on twin share)
+    data : On Request
 
 
 # type
@@ -46,9 +46,9 @@ type : project
 
 ### Birth of the Brahmaputra Valley
 
-This cycling tour of Upper Assam and Eastern Arunachal Pradesh, the eastern most state of India takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
+This cycle tour of  Eastern Arunachal Pradesh the eastern most state of India and Upper Assam takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 
-Exciting experiences right from crossing one of the largest rivers in India at Dibrugarh to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations .
+Exciting experiences right from crossing one of the largest rivers of India in Assam to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and visiting some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations .
 
 
 
@@ -76,10 +76,10 @@ Exciting experiences right from crossing one of the largest rivers in India at D
 ###### HIGHLIGHTS
 ```
 > Watershed of the Mighty Brahmaputra river
-> Discover foothills of the easternmost flank of the Himalayas
 > Explore around the Siang, Dibang and Lohit Rivers
-> Meet the Animist and Theravada Buddhist tribes
-> Namdapha – one of the greatest wildlife sanctuaries of Asia
+> Meet the Animist and Theravada Buddhist tribes of Eastern Arunachal Pradesh
+> Visit three unique wildlife sanctuaries
+> Indulge in varied local cuisines
 > Tea Plantations, River Valleys, Remote Villages
 ```
 
@@ -93,7 +93,8 @@ Exciting experiences right from crossing one of the largest rivers in India at D
 > Multi- geared cycles (Scott Aspect 660 / Trek 3700D) with helmets
 > FA Kit
 > Tools and spares
-> Activities as mentioned
+> Activities as mentioned in the itinerary
+> All permits
 ```
 
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
@@ -101,16 +102,16 @@ Exciting experiences right from crossing one of the largest rivers in India at D
 ```
  > Accommodation: Tea bungalows, Eco Cottages & Camping
  > Meals: As much as possibly we try cover all the local cuisines
- > Refreshments & Water: During activities we provide you with high energy snacks and Water 
+ > Refreshments & Water: High energy snacks and Water during activities 
 ```
 
-
+``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
 ![What is this](/images/background/cycling/easternarunachalcycletourgallery.jpg)
 
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -137,7 +138,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 
 
-   **[CYCLE TOURS  ](http://localhost:60325/cycling/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+   **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
 
 
 

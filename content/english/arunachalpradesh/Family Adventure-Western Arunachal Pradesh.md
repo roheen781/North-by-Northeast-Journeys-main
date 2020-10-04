@@ -1,18 +1,18 @@
 ---
 title: "WESTERN ARUNACHAL PRADESH: Call of the Mountains"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/page-title.jpg
-image : images/background/family/tawang.jpg
-live_demo : "#"
-case_study : "#"
+description : "Family tour of Western Arunachal Pradesh"
+bg_image: images/background/family/Western Arunachal family holiday main.jpg
+image : images/background/family/Family adventure holiday in Western Arunachal Pradesh.jpg
+live_demo : 
+case_study : 
 category: Family Adventures
 Weight: 2
 
 # overview
 overview:
   - label : LEVEL
-    data : Moderate to Tough
+    data : Off the grid
     
   - label : DURATION
     data : 7 - 12 days

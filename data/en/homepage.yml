@@ -8,6 +8,7 @@ slider:
       title : NORTHEAST INDIA
       subtitle : Active adventures in
       content : CYCLING, TREKS & WALKS, MULTI-ACTIVITY, MOTORCYCLE & OVERLAND, FAMILY ADVENTURES, RIVER JOURNEYS
+      pagination_icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       pagination_name : Adventure
       button:
         enable : true
@@ -20,6 +21,7 @@ slider:
       subtitle : Cultural immersion in
       title : NORTHEAST INDIA
       content : TRIBES, FESTIVALS, CRAFT, CUISINE, HISTORY
+      pagination_icon : ti-eye # themify icon pack : https://themify.me/themify-icons
       pagination_name : Culture
       button:
         enable : true
@@ -32,6 +34,7 @@ slider:
       subtitle : Nature Escapades in
       title : NORTHEAST INDIA
       content : WILDLIFE SAFARIS, WILDFLOWER TRAILS
+      pagination_icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
       pagination_name : Nature
       button:
         enable : true
@@ -44,6 +47,7 @@ slider:
       subtitle : Leisurely Getaways in
       title : NORTHEAST INDIA
       content : FAMILY GETAWAYS, QUIET OFF THE MAP ESCAPADES  `
+      pagination_icon : ti-shine # themify icon pack : https://themify.me/themify-icons
       pagination_name : Leisure
       button:
         enable : true
@@ -71,7 +75,7 @@ about:
   enable : true
   bg_image : "images/banner/Travels in the Other India.jpg"
   title : "Welcome to India's far East"
-  content : "We at North by Northeast Journeys have over the years actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India including Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventure, Wildlife, Culture and Youth travel , all have local history, culture, interactions and environment as their centerpiece."
+  content : "We at North by Northeast Journeys have over the years actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India include Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventures, Wildlife, Culture and Youth travel , all of which have local history, culture, interactions and the environment as their centerpiece."
   # bullet point
   bullet_point:
     
@@ -82,9 +86,9 @@ about:
 
 ##################################### Skill ##############################################
 skill:
-  enable : true
+  enable : false
   subtitle : Our Responsibility Quotient
-  title : Why Choose Us
+  title : Why Us ? 
   content: Right from the onset our intent was to make a difference, to be meaningful and most of all sustainable in the long run. We had a lot of experience in the operational side of running tours, however our mind was far outweighed by questions of how to go about things beyond the operations. The main questions were to do with how we could be more impactful locally, how our activities did not change the overall local way of life and how could our tours be more authentic and bring out the local prospective. Over the years we have evolved, mostly through trial and error. We started with forming a all local team of willing individuals who were not tainted by the usual understanding of 'Tourism' and yet very handy in their surroundings. We have tried our best to generate income for locals in a way that though fairly substantial is not their primary source of imcome, a way that encourages them to continue their usual way of life. We dont encourage locals to dress up, dance etc for tourist, for these things are best observed in its true authenticity during festivals. We never bargain with the bottom of the chain, the people who make all this a reality, we firmly belive in dignity and equality of labour. Finally, we follow all the age old ways of 'Leave no trace' travel.
   # progressbar
 
@@ -125,18 +129,18 @@ promo_video:
   enable : false
   title : "We Are Alawys <br> Comited"
   bg_image : "images/background/promo-video.jpg"
-  video_URL : "https://youtu.be/rWlmu-Y6wx8"
+  video_URL : "https://www.youtube.com/watch?v=AV5-Chp6p14&ab_channel=NorthBynortheast"
   video_title : "Lorem ipsum dolor <br> sit amet con."
 
 
 ##################################### call to action #################################
 cta:
-  enable : false
-  bg_image : "images/background/cta.jpg"
-  title : "Biztrox give the smart solution for your business"
+  enable : true
+  bg_image : "images/CTA.jpg"
+  title : ""
   button:
-    enable : false
-    label : "get a quote"
+    enable : true
+    label : "get in touch"
     link : "contact"
 
 ##################################### call to action #################################
@@ -144,7 +148,7 @@ testimonial:
   enable : true
   subtitle : 
   title : Clientspeak
-  image : images/banner/Testimonials.jpg
+  image : images/Clientspeak.jpg
   testimonial_item : 
 
     - name : Felicity & Ben
@@ -170,7 +174,7 @@ testimonial:
       
 ########################################## blog ####################################
 blog:
-  enable : true
+  enable : false
   # blog item comes from "content/departures" folder
   
 ################################ clints logo slider ################################

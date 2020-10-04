@@ -73,9 +73,7 @@
 {{ partial "testimonial.html" . }}
 {{ end }}
 
-{{ if $data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
+
 
 {{ if $data.homepage.blog.enable }}
 {{ "<!-- blog -->" | safeHTML }}
@@ -105,6 +103,10 @@
 
 {{ if $data.homepage.clients_logo_slider.enable }}
 {{ partial "clientsLogoSlider.html" . }}
+{{ end }}
+
+{{ if $data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
 {{ end }}
 
 {{ end }}

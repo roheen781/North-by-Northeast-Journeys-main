@@ -1,5 +1,5 @@
 ---
-title: "4 STATES NORTH EAST INDIA: The Eastern Arc | Motorcycle & Overland Tour"
+title: "4 States NE India: The Eastern Arc | MOTORCYCLE & OVERLAND "
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Northeast India"
 bg_image: images/background/motorcycle/4 states northeast india motorcycle main.jpg
@@ -35,9 +35,9 @@ overview:
     icon : ti-shine
     data : Sept - April
 
-  - label : COST 
+  - label : COST
     icon : ti-wallet
-    data : INR XX,000 onwards ( Based on two persons travelling on twin share)
+    data : On Request
 
 # type
 type : project
@@ -96,13 +96,15 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 ```
 > Accommodation: Hotels, Cottages, farmsteads & Camping
 > Meals: As much as possibly we try cover all the local cuisines
-> Refreshments & Water: During activities we provide you with high energy snacks. 
+ 
 ```
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 ###### TOUR IMAGES
 
 ![What is this](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
 
-``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
 
 ### FAQ
 
@@ -116,10 +118,10 @@ We facilitate the vehicle rentals from third party vendors.
 
 ##### Terrain & Road Conditions
 
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
+The route has a wide mix of terrain and road conditions. Typically the roads of Assam and Meghalaya are in the best condition in relation to the entire northeastern region, whereas Arunachal Pradesh and Nagaland have some of the worst. However put together it makes for an excellent and interactive route.
 
 ##### Backup
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+A Sturdy Pickup truck and sturdier driver will accompany you on every trip. Your luggage, the Mechanic as well as all the spares and tools follow in this vehicle.
 
 ##### Permits
 Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
@@ -130,4 +132,5 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[MOTORCYCLE & OVERLAND  ](http://localhost:61734/motorcycle/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**
+
+**[MOTORCYCLE & OVERLAND  ](https://www.northbynortheast.in/motorcycle/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**

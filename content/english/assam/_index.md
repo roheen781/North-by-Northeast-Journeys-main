@@ -2,7 +2,7 @@
 title: "ASSAM"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/maps/assam .jpg
-description : "Adventure,Culture & Experiential Tours of Northeast India"
+description : "Adventure,Culture & Wildlife tours of Assam"
 ---
 
 ## The physical heart of Northeast India
