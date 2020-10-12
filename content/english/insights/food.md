@@ -15,5 +15,5 @@ There is a great variety in cuisines between the communities of this region.The 
 
 
 ![What is this](/images/Accommodation/meals.jpg)
-![What is this](/images/Accommodation/localspecial.jpg)
+
 ![What is this](/images/Accommodation/localbrew.jpg)

@@ -52,6 +52,8 @@ This active adventure holiday for the family is set in some of the only flatland
 
 Over the duration of this tour you will get an in-depth into this interesting regions wide mix of cultures, experience the lush environment and bio-diversity, indulge in some adventures and learn about the rich history of this little known corner of the sub-continent.
 
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. 
+
 
 
 ###### AT A GLANCE

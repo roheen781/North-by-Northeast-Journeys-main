@@ -49,6 +49,7 @@ On this family adventure we take you to Western Arunachal Pradesh, a region bord
 
 There are two major religious festivals of the Monpas viz "LOSAR" and "TORGYA". Both festivals are celebrated once annually. The LOSAR s celebrated to the commencement of New year. Every third year of Torgya, the festival of Dungyur is celebrated. Both "Dungyur and Torgya" festivals are celebrated at the premises of the Tawang Monastery with traditional gaiety and enthusiasm. There are many beautiful grlacial lakes in and around Tawang with crystal blue waters such as Sela lake, P.T.Tso lake, Sangetser lake, Banggachang lake and many more. These remain frozen in winter while in summer they become haven for migratory birds.
 
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
 
 
 ###### OVERVIEW

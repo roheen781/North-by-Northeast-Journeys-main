@@ -1,7 +1,7 @@
 ---
 title: "Meghalaya: Walks in the clouds | WALKING HOLIDAY"
 date: 2018-09-24T14:48:03+06:00
-description : "Hiking in Meghalaya"
+description : "Walking holiday in Meghalaya"
 bg_image: images/background/treks/walking tour of meghalaya main.jpg
 image : images/background/treks/Walking tour of Meghalaya .jpg
 live_demo : 

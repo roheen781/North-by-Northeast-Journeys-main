@@ -1,10 +1,10 @@
 ---
 title: "ASSAM"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/maps/assam .jpg
+bg_image: images/background/states/assam main.jpg
 description : "Adventure,Culture & Wildlife tours of Assam"
 ---
 
 ## The physical heart of Northeast India
 
-Our cycling holidays in Northeast India offers routes ranging from the high Himalayas of Western Arunachal and Sikkim to the forested hills of Nagaland, Meghalaya and Mizoram. The pace of cycling creates unique opportunities, when it comes to observing and interacting with the tribes of this region. With a fairly deep knowledge of the area, we are well equipped to customize cycling holidays to your requirement across Northeast India. Do let us know if its something particular or abstract that you have in mind. We will definitely put in efforts to plan the best within the given circumstances.
+Stretching 600km along the Brahmaputra River Valley, with a spur down to the hilly southeast, Assam is the largest and most accessible of the Northeast States. Well known for its national parks abounding in rhinoceroses, elephants, deer and primates (with respectable tiger numbers too), it welcomes visitors with a subtly flavoured cuisine and a hospitable population with a vibrant artistic heritage. The archetypal Assamese landscape is a golden-green panorama of rice fields and manicured tea estates, framed by the blue mountains of Arunachal Pradesh in the north and the highlands of Meghalaya and Nagaland to the south. The birthplace of Indian tea, Assam has more than 3000 sq km of land carpeted in bright-green tea gardens. - **Lonely Planet**

@@ -40,7 +40,7 @@ overview:
     data : On Request
 
 # type
-type : assam
+type : arunachalpradesh
 ---
 
 ### Family exploration of the Brahmaputra Valley

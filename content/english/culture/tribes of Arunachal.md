@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh: Tribes of the 'Dawn lit Mountains' | CULTURAL JOURNEYS"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Culture tour of Arunachal Pradesh"
 bg_image: images/background/culture/Festival hop of Eastern Arunachal.jpg
 image : images/background/culture/Tribes of Arunachal Pradesh.jpg
 live_demo : 
@@ -42,7 +42,13 @@ type : project
 
 ### A cultural odyssey across Arunachal Pradesh.
 
-This cycling tour of Arunachal Pradesh, the eastern most state of India takes you to the watershed of the mighty Brahmaputra River. Exciting experiences right from crossing one of the largest rivers in India at Dibrugarh to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . This bicycle tour offers bounties of wide vistas, little known villages, myriads of ethnic groups and some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camps .
+The origins of the tribes that are currently living in Arunachal Pradesh remain shrouded in mystery. Whatever little is known has been passed down from generation to generation via oral traditions. It is widely believed that the tribes who inhabit this land now, came from Burma (present day Myanmar) and Tibet, where Mongoloid tribal groups with similar cultures still live.
+
+Over the course of these migrations, several inter-tribal feuds occurred, which resulted in the groups scattering across the region. In addition to that, natural calamities that had occurred in the area forced the tribes to take up different habitats and adapt to the nature of their geophysical surroundings.
+
+When you’re in Arunachal Pradesh, you will hear of stories about inter-tribal warfare, when tribes battled for supremacy and better lands. Although you can’t see any fences, most of the tribal territories of Arunachal Pradesh are invisibly marked. Every tribe knows its territories and the rivers that come under them and which particular clan alone has hunting or fishing rights over that area. In order to maintain a distinct identity, each tribe used tattoos, headgears or nose plugs.
+
+On this cultural journey of Arunachal Pradesh, we travel across territories of 13 unique tribes. 
 
 
 

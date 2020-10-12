@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh (West): Hike, Bike & Culture | MULTI ACTIVITY TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Activity holiday in Western arunachal Pradesh"
+description : "Multi activity holiday in Western arunachal Pradesh"
 bg_image: images/background/multiactivity/Western Arunachal multiactivity tour main.jpg
 image : images/background/multiactivity/Western Arunachal Pradesh multiactivity tour.jpg
 live_demo : 

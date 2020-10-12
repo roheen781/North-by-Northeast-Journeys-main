@@ -11,17 +11,29 @@ Weight: 2
 
 # overview
 overview:
-  - label : LEVEL
-    data : Easy & Moderate
+  - label : STATES
+    icon : ti-world
+    data : Arunachal Pradesh
     
   - label : DURATION
-    data : 6 - 14 days
-    
-  - label : ALTITUDE VARIATION
-    data : 50 - 1950 mts
+    icon : ti-flag-alt
+    data : 6 to 12 days
+
+  - label : AIRPORT IN
+    icon : ti-location-pin
+    data : Dibrugarh (Assam)
+
+  - label : AIRPORT OUT
+    icon : ti-location-pin
+    data : Dibrugarh (Assam)
     
   - label : BEST TIME
-    data : October - March
+    icon : ti-shine
+    data : October to March
+
+  - label : COST
+    icon : ti-wallet
+    data : On Request
 
  
 
@@ -37,7 +49,7 @@ We take you to one of the least known part of Northeast India. The eastern bit o
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/culture/tribesofarunachalgallery.jpg)
+![What is this](/images/background/culture/easternarunachalculturetourgallery.jpg)
 
 
 

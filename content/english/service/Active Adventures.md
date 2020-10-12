@@ -15,10 +15,10 @@ We offer Active Adventure tours for the avid as well as novice, be it relaxed or
 
 
 
-[![What is this](/images/service/cycling.jpg)](https://www.northbynortheast.in/cycling/)
-[![What is this](/images/service/walking.jpg)](https://www.northbynortheast.in/treks/)
-[![What is this](/images/service/multiactivity.jpg)](https://www.northbynortheast.in/multiactivity/)
-[![What is this](/images/service/family.jpg)](https://www.northbynortheast.in/family/)
-[![What is this](/images/service/motorcycle.jpg)](https://www.northbynortheast.in/motorcycle/)
-[![What is this](/images/service/river.jpg)](https://www.northbynortheast.in/rivertrips/)
-[![What is this](/images/service/youth.jpg)](https://www.northbynortheast.in/youth/)
+[![What is this](/images/service/cycling.jpg)](/cycling/)
+[![What is this](/images/service/walking.jpg)](/treks/)
+[![What is this](/images/service/multiactivity.jpg)](/multiactivity/)
+[![What is this](/images/service/family.jpg)](family/)
+[![What is this](/images/service/motorcycle.jpg)](/motorcycle/)
+[![What is this](/images/service/river.jpg)](/rivertrips/)
+[![What is this](/images/service/youth.jpg)](/youth/)

@@ -1,5 +1,5 @@
 ---
-title: "4 States NE India: The Eastern Arc | MOTORCYCLE & OVERLAND "
+title: "4 States North East India: The Eastern Arc | MOTORCYCLE & OVERLAND "
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Northeast India"
 bg_image: images/background/motorcycle/4 states northeast india motorcycle main.jpg

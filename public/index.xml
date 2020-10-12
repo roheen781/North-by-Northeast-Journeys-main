@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>North by Northeast Journeys | Active Travels in Northeast India</title>
+    <title>North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</title>
     <link>/</link>
-    <description>Recent content on North by Northeast Journeys | Active Travels in Northeast India</description>
+    <description>Recent content on North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Sep 2018 14:43:10 +0600</lastBuildDate>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/cycling/easternarunachalcycletour/</guid>
-      <description>Birth of the Brahmaputra Valley This cycle tour of Eastern Arunachal Pradesh the eastern most state of India and Upper Assam takes you to the watershed of the mighty Brahmaputra River.</description>
+      <description>Birth of the Brahmaputra Valley This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) and Upper Assam takes you to the watershed of the mighty Brahmaputra River.</description>
     </item>
     
     <item>
@@ -80,6 +80,15 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/assam/sanctuaries-of-the-brahmaputra-valley-assam/</guid>
+      <description>Jewels of the east Brahmaputra valley of Assam, is the geographical heart of northeastern India.</description>
+    </item>
+    
+    <item>
+      <title>Assam: Sanctuaries of the Brahmaputra Valley</title>
+      <link>/bhutan/sanctuaries-of-the-brahmaputra-valley-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/bhutan/sanctuaries-of-the-brahmaputra-valley-assam/</guid>
       <description>Jewels of the east Brahmaputra valley of Assam, is the geographical heart of northeastern India.</description>
     </item>
     
@@ -116,15 +125,6 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/meghalaya/natures-amusement-park-meghalaya/</guid>
-      <description>Family adventures in the Khasi &amp;amp; Jaintia hills This Adventure holiday for the family is set in hilly Meghalaya.</description>
-    </item>
-    
-    <item>
-      <title>MEGHALAYA: Natures Amusement Park</title>
-      <link>/sikkim/natures-amusement-park-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/natures-amusement-park-meghalaya/</guid>
       <description>Family adventures in the Khasi &amp;amp; Jaintia hills This Adventure holiday for the family is set in hilly Meghalaya.</description>
     </item>
     
@@ -201,6 +201,15 @@
     </item>
     
     <item>
+      <title>ASSAM: Family escape to the Brahmaputra Valley </title>
+      <link>/bhutan/family-adventure-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/bhutan/family-adventure-assam/</guid>
+      <description>Family exploration of the Brahmaputra Valley The setting for this family holiday is the lush Brahmaputra valley of Assam.</description>
+    </item>
+    
+    <item>
       <title>Meghalaya: Hike, Bike &amp; Culture |  MULTI ACTIVITY TOUR</title>
       <link>/multiactivity/meghalaya-hike-and-bike/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -224,7 +233,7 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/cycling/meghalaya-khasi-hills-cycle-tour/</guid>
-      <description>The Khasi and Jaintia hills explored on bicycles. Meghalaya’ meaning the Abode of clouds is a green hilly state perched between the great plains of Bangladesh and that of Assam.</description>
+      <description>The Khasi and Jaintia hills explored on bicycles. This cycle tour takes you to picteresque Meghalaya.</description>
     </item>
     
     <item>
@@ -233,15 +242,6 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/meghalaya/walks-in-the-clouds-meghalaya/</guid>
-      <description>Explorations in the &amp;lsquo;Abode of Clouds&amp;rsquo; This Walking holiday takes you to beautiful Meghalaya, &amp;lsquo;The Abode of clouds’.</description>
-    </item>
-    
-    <item>
-      <title>MEGHALAYA: Walks in the clouds</title>
-      <link>/sikkim/walks-in-the-clouds-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/walks-in-the-clouds-meghalaya/</guid>
       <description>Explorations in the &amp;lsquo;Abode of Clouds&amp;rsquo; This Walking holiday takes you to beautiful Meghalaya, &amp;lsquo;The Abode of clouds’.</description>
     </item>
     
@@ -310,6 +310,15 @@
     </item>
     
     <item>
+      <title>ASSAM &amp; ARUNACHAL PRADESH: Around the Brahmaputra Valley</title>
+      <link>/bhutan/motorcycle-assam-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/bhutan/motorcycle-assam-arunachal-pradesh/</guid>
+      <description>Hills, Valleys, Forests, Rivers and Tribes Starting from central Assam we make our war east and north along the mighty Brahmaputra River.</description>
+    </item>
+    
+    <item>
       <title>Assam &amp; Arunachal Pradesh: Around the Brahmaputra | MOTORCYCLE &amp; OVERLAND</title>
       <link>/motorcycle/assam-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -337,6 +346,15 @@
     </item>
     
     <item>
+      <title>ASSAM &amp; ARUNACHAL PRADESH: The Brahmaputra Valley explorer</title>
+      <link>/bhutan/brahmaputra-valley-cycle-tour-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/bhutan/brahmaputra-valley-cycle-tour-assam/</guid>
+      <description>Cycling the physical heart of Northeastern India This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
+    </item>
+    
+    <item>
       <title>EASTERN ARUNACHAL PRADESH: Walks in India&#39;s far east</title>
       <link>/arunachalpradesh/walkers-tour-of-eastern-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -355,15 +373,6 @@
     </item>
     
     <item>
-      <title>MEGHALAYA: Hike and bike in the abode of clouds</title>
-      <link>/sikkim/hike-and-bike-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/hike-and-bike-meghalaya/</guid>
-      <description>Hike and bike in the land of the matriarchs This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya.</description>
-    </item>
-    
-    <item>
       <title>Nagaland &amp; Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS</title>
       <link>/culture/hornbill/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -373,12 +382,30 @@
     </item>
     
     <item>
+      <title>Nagaland &amp; Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS</title>
+      <link>/nagaland/hornbill/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/nagaland/hornbill/</guid>
+      <description>Tribes &amp;amp; Wildlife, Nagaland &amp;amp; Assam This tour takes you to western Nagaland and central Assam.</description>
+    </item>
+    
+    <item>
+      <title>Sikkim &amp; W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary | TREKKING HOLIDAY</title>
+      <link>/sikkim/singalila-and-barsey-trek/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/sikkim/singalila-and-barsey-trek/</guid>
+      <description>A Trek amongst the giants The hills of North Bengal and Sikkim are a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains.</description>
+    </item>
+    
+    <item>
       <title>Sikkim &amp; W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary | TREKKING HOLIDAY</title>
       <link>/treks/singalila-and-barsey-trek/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/treks/singalila-and-barsey-trek/</guid>
-      <description>A Trek amongst the giants The hills of North Bengal and Sikkim are a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains.</description>
+      <description>A Trek amongst the giants This trek takes you to the hills of Sikkim and North Bengal, a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains.</description>
     </item>
     
     <item>
@@ -432,7 +459,7 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/culture/tribes-of-arunachal/</guid>
-      <description>A cultural odyssey across Arunachal Pradesh. This cycling tour of Arunachal Pradesh, the eastern most state of India takes you to the watershed of the mighty Brahmaputra River.</description>
+      <description>A cultural odyssey across Arunachal Pradesh. The origins of the tribes that are currently living in Arunachal Pradesh remain shrouded in mystery.</description>
     </item>
     
     <item>
@@ -441,15 +468,6 @@
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/meghalaya/khasi-hills-cycle-tour-meghalaya/</guid>
-      <description>The Khasi and Jaintia hills explored on bicycles. Meghalaya’ meaning the Abode of clouds is a green hilly state perched between the great plains of Bangladesh and that of Assam.</description>
-    </item>
-    
-    <item>
-      <title>MEGHALAYA: Abode of the clouds</title>
-      <link>/sikkim/khasi-hills-cycle-tour-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/khasi-hills-cycle-tour-meghalaya/</guid>
       <description>The Khasi and Jaintia hills explored on bicycles. Meghalaya’ meaning the Abode of clouds is a green hilly state perched between the great plains of Bangladesh and that of Assam.</description>
     </item>
     
@@ -491,6 +509,15 @@
     
     <item>
       <title>4 States NE India: The Eastern Arc | MOTORCYCLE &amp; OVERLAND </title>
+      <link>/nagaland/4-states-moto-tour/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/nagaland/4-states-moto-tour/</guid>
+      <description>The wildest of Northeast India This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya.</description>
+    </item>
+    
+    <item>
+      <title>4 States North East India: The Eastern Arc | MOTORCYCLE &amp; OVERLAND </title>
       <link>/motorcycle/4-states-moto-tour/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
@@ -544,15 +571,6 @@
     </item>
     
     <item>
-      <title>MEGHALAYA: Trans-Meghalaya cycle tour</title>
-      <link>/sikkim/trans-meghalaya-cycle-tour-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/trans-meghalaya-cycle-tour-meghalaya/</guid>
-      <description>Cycling the Garo, Khasi and Jaintia hills The Trans Meghalaya cycling tour takes us across the three hill ranges of the state.</description>
-    </item>
-    
-    <item>
       <title>Nongrum KD</title>
       <link>/team/nongrum-kd/</link>
       <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
@@ -580,20 +598,20 @@
     </item>
     
     <item>
+      <title>Sikkim &amp; W Bengal: Monastic Trail | CYCLE TOUR</title>
+      <link>/sikkim/sikkim-cycling-the-monastic-trail/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/sikkim/sikkim-cycling-the-monastic-trail/</guid>
+      <description>Of Mountains and Monastries This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal.</description>
+    </item>
+    
+    <item>
       <title>TRANS-MEGHALAYA: Backroads in the Abode of Clouds</title>
       <link>/meghalaya/motorcycle-trans-meghalaya/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/meghalaya/motorcycle-trans-meghalaya/</guid>
-      <description>The abode of clouds explored Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya.</description>
-    </item>
-    
-    <item>
-      <title>TRANS-MEGHALAYA: Backroads in the Abode of Clouds</title>
-      <link>/sikkim/motorcycle-trans-meghalaya/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/sikkim/motorcycle-trans-meghalaya/</guid>
       <description>The abode of clouds explored Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya.</description>
     </item>
     
@@ -730,24 +748,6 @@
       
       <guid>/blog/hikebike-raft-in-eastern-arunachal-pradesh/</guid>
       <description>This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley.</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
   </channel>

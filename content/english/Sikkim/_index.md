@@ -1,10 +1,12 @@
 ---
-title: "SIKKIM & WEST BENGAL"
+title: "SIKKIM"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/maps/meghalaya.jpg
-description : "Adventure,Culture & Experiential Tours of Northeast India"
+bg_image: images/background/states/sikkim main.jpg
+description : "Adventure, Culture & Experiential Tours in Sikkim"
 ---
 
-## The abode of clouds
+## Mountain Kingdom
 
-Our cycling holidays in Northeast India offers routes ranging from the high Himalayas of Western Arunachal and Sikkim to the forested hills of Nagaland, Meghalaya and Mizoram. The pace of cycling creates unique opportunities, when it comes to observing and interacting with the tribes of this region. With a fairly deep knowledge of the area, we are well equipped to customize cycling holidays to your requirement across Northeast India. Do let us know if its something particular or abstract that you have in mind. We will definitely put in efforts to plan the best within the given circumstances.
+Sikkim was its own mountain kingdom till 1975 and still retains a very distinctive personality. The meditative, mural-filled traditional monasteries of Tibetan Buddhism coexist with Hindu shrines of the ever-growing Nepali community, with both religions creating some astonishing latter-day megasculptures to adorn the skyline.
+
+Hassle-free and warm-hearted, it's a state that's all too easy to fall in love with, explaining perhaps why permit regulations prevent foreigners staying too long or going too far. Clean, green and 'all organic' since 2016, Sikkim is mostly a maze of plunging, supersteep valleys thick with lush subtropical woodlands and rhododendron groves, rising in the north to the spectacular white-top peaks of the eastern Himalaya. When clouds clear, an ever-thrilling experience from many a ridge-top perch is spotting the world's third-highest mountain, Khangchendzonga (8598m), on the northwestern dawn horizon. - **Lonely Planet**

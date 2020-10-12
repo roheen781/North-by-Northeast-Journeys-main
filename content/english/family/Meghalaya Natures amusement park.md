@@ -49,6 +49,8 @@ This Adventure holiday for the family is set in hilly Meghalaya. Meghalaya liter
 
 On this tour of Meghalaya you will be travelling through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. Deep forested valleys, gushing rivers, innumerable waterfalls, natural root bridges, archery competitions, village markets etc will be the common sights. Short hikes, water based activities,Ziplines, caves and waterfall visits are in the cards on this tour.
 
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
+
 
 
 ###### OVERVIEW

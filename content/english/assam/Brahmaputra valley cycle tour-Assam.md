@@ -41,7 +41,7 @@ overview:
 
 
 # type
-type : assam
+type : arunachalpradesh
 ---
 
 ### Cycling the physical heart of Northeastern India

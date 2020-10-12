@@ -41,7 +41,7 @@ overview:
 
 
 # type
-type : assam
+type : arunachalpradesh
 ---
 
 ### Hills, Valleys, Forests, Rivers and Tribes

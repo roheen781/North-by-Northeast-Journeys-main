@@ -16,8 +16,8 @@ The close proximity of the High Himalayas to the coast has created a compact str
 Perhaps the same reason that makes this region so rich in its natural diversity also makes it the most Ethnic, Linguistic and Cultural diverse region in the Indian sub-continent. These eight states in themselves constitute a single linguistic region with about 220 languages in three different language groups (Indo-Aryan, Sino-Tibetan and Austric). These tribes provide a cultural bridge between India and south East Asia, China, Inner Asia and Burma by ethnic and linguistic angles, as most of these tribes migrated here from the North and the East over the centuries.
 
 
-[![What is this](/images/service/culture.jpg)](https://www.northbynortheast.in/culture/)
-[![What is this](/images/service/wildlife.jpg)](https://www.northbynortheast.in/wildlife/)
-[![What is this](/images/service/wildflowers.jpg)](https://www.northbynortheast.in/wildflowertrails/)
+[![What is this](/images/service/culture.jpg)](/culture/)
+[![What is this](/images/service/wildlife.jpg)](/wildlife/)
+[![What is this](/images/service/wildflowers.jpg)](/wildflowertrails/)
 
 

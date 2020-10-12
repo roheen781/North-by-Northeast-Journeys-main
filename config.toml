@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "/"
-title = "North by Northeast Journeys | Active Travels in Northeast India"
+title = "North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India"
 theme = "biztrox"
 # post pagination
 paginate = "6"
@@ -150,7 +150,7 @@ disableLanguages = [] # desable language from here
      [[menu.main]]
     parent = "Destinations"
     name = "Sikkim & Darjeeling"
-    URL = "Sikkim"
+    URL = "sikkim"
     weight = 5
 
      [[menu.main]]
@@ -257,11 +257,11 @@ disableLanguages = [] # desable language from here
 ########################### default parameters #################################
 [params]
 logo = "images/logo.png"
-logo_white = "images/logo-footer.png"
+logo_white = "images/logo-footer.jpg"
 mail = "info.northbynortheast@gmail.com"
 mobile = "+91 99404 16065"
 # Meta data
-description = "Adventure and Culture tours in Northeast India"
+description = "Adventure, Nature and Culture tours in Northeast India"
 author = "North by Northeast Journeys"
 # contact form
 contact_form_action = "#"
@@ -316,29 +316,43 @@ map_longitude = "92°46'13.2"
 map_marker = "images/marker.png"
 
 ############################ client logo slider #############################
+
 [[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-1.png"
+logo = "images/moto.jpg"
 link = "#"
 
 [[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-2.png"
-link = "https://examplesite.com"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-3.png"
+logo = "images/kayak.jpg"
 link = "#"
 
 [[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-4.png"
-link = "https://examplesite.com"
-
-[[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-5.png"
+logo = "images/vidpic.jpg"
 link = "#"
 
 [[params.clients_logo_slider]]
-logo = "images/client-logo/client-logo-3.png"
-link = "https://examplesite.com"
+logo = "images/cycle.jpg"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/tawang.jpg"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/konyak.jpg"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/idu.jpg"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/nocte.jpg"
+link = "#"
+
+[[params.clients_logo_slider]]
+logo = "images/khasi.jpg"
+link = "#"
+
 
 ########################### social icon #####################################
 [[params.social]]
@@ -371,7 +385,7 @@ link = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
 
   
   # copyright
-  copyright = "Copyright&copy; 2019 ,  North by Northeast Journeys" 
+  copyright = "Copyright&copy; 20120 ,  North by Northeast Journeys" 
 
 
 

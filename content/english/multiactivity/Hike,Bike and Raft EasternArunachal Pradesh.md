@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh (East): Hike, Bike, Raft & Culture | MULTI ACTIVITY TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Active holiday in Eastern Arunachal Pradesh"
+description : "Multi activity holiday in Eastern Arunachal Pradesh"
 bg_image: images/background/multiactivity/Eastern arunachal multiactivity tour main.jpg
 image : images/background/multiactivity/Eastern Arunachal Pradesh multiactivity tour.jpg
 live_demo : 

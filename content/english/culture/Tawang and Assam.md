@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh & Assam: Monyul & Brahmaputa Valley | CULTURAL JOURNEYS  "
 date: 2018-09-24T14:48:03+06:00
-description : "Culture tour of Tawang and Assam"
+description : "Culture tour of Western Arunachal Pradesh and Assam"
 bg_image: images/background/culture/Culture tour of Western Arunachal Pradesh and Assam main.jpg
 image : images/background/culture/Culture tour of western arunachal pradesh and assam.jpg
 live_demo : 

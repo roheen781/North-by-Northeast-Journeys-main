@@ -1,10 +1,10 @@
 ---
-title: "ASSAM"
+title: "NAGALAND"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/maps/assam .jpg
+bg_image: images/background/states/nagaland main.jpg
 description : "Adventure,Culture & Experiential Tours of Northeast India"
 ---
 
-## The physical heart of Northeast India
+## Wild wild east
 
-Our cycling holidays in Northeast India offers routes ranging from the high Himalayas of Western Arunachal and Sikkim to the forested hills of Nagaland, Meghalaya and Mizoram. The pace of cycling creates unique opportunities, when it comes to observing and interacting with the tribes of this region. With a fairly deep knowledge of the area, we are well equipped to customize cycling holidays to your requirement across Northeast India. Do let us know if its something particular or abstract that you have in mind. We will definitely put in efforts to plan the best within the given circumstances.
+Long considered the ‘wild east’ of India, Nagaland abounds in primeval beauty and tribal culture. Its dazzling hills and valleys, reaching right up to the India–Myanmar border, are other-worldly places where, until not long ago, headhunting Naga tribes fought off intruders and each other. Today Nagas have abandoned headhunting and turned to Christianity. Traditional lifestyles linger strongest in the north, where many people live in thatched longhouses and follow farming and hunting lifestyles. The sense of Naga identity among the 16 or 17 main tribal groups, with multiple languages but cultural similarities, is strong. Traditional attire comes out in full feather-and-spear colour at the many tribal festivals, above all December's Hornbill Festival near Kohima. - **Lonely Planet**

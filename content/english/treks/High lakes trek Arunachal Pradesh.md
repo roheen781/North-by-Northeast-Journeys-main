@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh (West): The high lakes trek | TREKKING HOLIDAY"
 date: 2018-09-24T14:48:03+06:00
-description : "Trekking in Arunachal Pradesh"
+description : "Trekking holiday in western Arunachal Pradesh"
 bg_image: images/background/treks/western arunachal pradesh trek main.jpg
 image : images/background/treks/Western Arunachal Pradesh Trek.jpg
 live_demo : 

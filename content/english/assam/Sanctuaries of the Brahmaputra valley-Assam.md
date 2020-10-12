@@ -36,7 +36,7 @@ overview:
     data : On Request
 
 # type
-type : assam
+type : arunachalpradesh
 ---
 
 ### Jewels of the east
