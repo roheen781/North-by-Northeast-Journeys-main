@@ -169,23 +169,13 @@ disableLanguages = [] # desable language from here
   name = "Fixed Departures"
   hasChildren = true
    
-   [[menu.main]]
-    parent = "Fixed Departures"
-    name = "Departures 2020/21"
-    URL = ""
-    weight = 1
 
    [[menu.main]]
     parent = "Fixed Departures"
     name = " Covid-19 Getaways"
-    URL = ""
-    weight = 2
+    URL = "departures"
+    weight = 1
  
-   [[menu.main]]
-    parent = "Fixed Departures"
-    name = "Expedition Series"
-    URL = ""
-    weight = 3
 
    [[menu.main]]
   weight = 4
@@ -266,7 +256,7 @@ author = "North by Northeast Journeys"
 # contact form
 contact_form_action = "#"
 # Google Analitycs
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-180443036-1"
 
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours

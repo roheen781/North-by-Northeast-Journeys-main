@@ -58,4 +58,4 @@ On this cultural journey of Arunachal Pradesh, we travel across territories of 1
 
 ![What is this](/images/background/culture/tribesofarunachalgallery.jpg)
 
-**[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 
+**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**

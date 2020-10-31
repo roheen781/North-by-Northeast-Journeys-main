@@ -62,4 +62,4 @@ Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks 
 
 
 
-**[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  
+**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**  

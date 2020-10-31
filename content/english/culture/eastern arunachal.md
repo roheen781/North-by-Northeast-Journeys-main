@@ -52,6 +52,6 @@ We take you to one of the least known part of Northeast India. The eastern bit o
 ![What is this](/images/background/culture/easternarunachalculturetourgallery.jpg)
 
 
+ 
 
-
-**[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  
+**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**

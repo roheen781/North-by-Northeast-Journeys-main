@@ -138,7 +138,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 
 
-   **[CYCLE TOURS  ](https://www.northbynortheast.in/cycling/)       |  [INSIGHTS |](https://www.northbynortheast.in/insights/) |  [HOME |](https://www.northbynortheast.in/)**
+   **[Back to CYCLE TOURS  ](/cycling/) | [INSIGHTS](/insights/)**
 
 
 

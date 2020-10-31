@@ -56,4 +56,4 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
 
 ![What is this](/images/background/culture/hornbillfestivalgallery.jpg)
 
-**[ETHNO-CULTURAL  ](http://localhost:49228/culture/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)** 
+**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**

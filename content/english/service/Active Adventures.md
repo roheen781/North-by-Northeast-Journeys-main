@@ -18,7 +18,7 @@ We offer Active Adventure tours for the avid as well as novice, be it relaxed or
 [![What is this](/images/service/cycling.jpg)](/cycling/)
 [![What is this](/images/service/walking.jpg)](/treks/)
 [![What is this](/images/service/multiactivity.jpg)](/multiactivity/)
-[![What is this](/images/service/family.jpg)](family/)
+[![What is this](/images/service/family.jpg)](/family/)
 [![What is this](/images/service/motorcycle.jpg)](/motorcycle/)
 [![What is this](/images/service/river.jpg)](/rivertrips/)
 [![What is this](/images/service/youth.jpg)](/youth/)
