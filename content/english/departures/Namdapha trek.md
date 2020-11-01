@@ -6,7 +6,7 @@ bg_image: images/background/departures/namdapha trek.jpg
 image : images/background/departures/Namdapha trek main.jpg
 live_demo : 
 case_study : 
-category: Trekking & Wildlife
+category: Trekking & Wildlife (Christmas)
 Weight: 1
 
 # overview
@@ -21,7 +21,7 @@ overview:
     
   - label : DURATION
     icon : ti-flag-alt
-    data : 8 days
+    data : 7 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -31,13 +31,13 @@ overview:
     icon : ti-location-pin
     data : Dibrugarh (Assam)
     
-  - label : BEST TIME
+  - label : Dates
     icon : ti-shine
-    data : Sept/Oct - Mar/May
+    data : 21 - 28 Dec 2020
 
   - label : COST
     icon : ti-wallet
-    data : On Request
+    data : INR 41,500 (All inclusive)
 
 # type
 type : project
@@ -49,19 +49,21 @@ This trekking holiday takes you to the Namdapha National Park located in eastern
 
 Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Namdapha is home to over 1000 species of plants, 425 avian species and over 90 species of mammals. This is also the only wildlife park to host four big cats in India, namely the Royal Bengal Tiger, Spotted Leopard, Snow Leopard and the Clouded Leopard.
 
+The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
 
 
+Mail us at info.northbynortheast@gmail.com
 
 
 ###### OVERVIEW
 ```
 > Level: Easy to Moderate
-> Total Days: 8
+> Total Days: 7
 > Walking days: 5
 > Avg. walking time: 4 - 6 hrs
 > Terrain: 80% undulating
 > Altitude variation: 300 to 950 mts
-> Accommodation: Single occupancy in Hotel, Cottages & Camps
+
 > Airport In: Dibrugarh (Assam)
 > Airport Out: Dibrugarh (Assam)
 ```
@@ -92,30 +94,47 @@ Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Na
 > All permits, tolls and fees
 ```
 
+###### Covid 19 Precautions
+```
+> Single occupany camping
+> 3 persons per vehicle for main transfers
+> No local contact or stoppages in towns and settlements
+> Follow all protcols of tourism ministry
+> Guides well sentisized to the requirements
+> All clients require a mandatory PCR test certificate no more than 72 before arrival
+```
+
+###### ACCOMMODATION AND MEALS ON THIS TOUR
+```
+> Accommodation: Eco cottages & Camping
+> Meals: All meals, water and refreshments
+ 
+```
+``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### TOUR IMAGES
+
+![What is this](/images/background/departures/Namdaphatrekgallery.jpg)
+
+###### Mail us at info.northbynortheast@gmail.com
+
 ### FAQ
 
-#### BIKES
+##### Terrain 
 
-Scott 660 Aspect MTB
-Fork 80mm travel, Front Derailleur Shimano FD-TX50 / 34.9mm, Rear Derailleur Shimano Tourney RD-TX35 21 Speed (Upgraded), Shifters Shimano ST-EF 41 L / 7R EZ-ire plus (Upgraded), Brakeset Tektro SCM-02 mech. Disc 160F/160Rmm Rotor, Front Tyre 6 26×2.1 / 30TPI, Rear Tyre 6 26×2.1 / 30TPI, Weight 13.6 kg / 29.98 lbs
+Undulating between 300 to 950 mts
 
-#### TERRAIN & ROAD CONDITIOINS
+##### Backup
+On the trek we have elephant and porter backup.
 
-Except for a few odd days the roads are generally excellent. This is probably one of the easiest routes to cycle in the Northeastern region, with beautiful views, interesting tribes and excellent road conditions.
 
-#### BACKUP
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+##### Permits
+Indian nationals require an Inner Line Permit (ILP) whereas foreign nationals require a Restricted Area Permit (RAP / PAP). These have a govt. charge attached to them. Rest assured we take care of the arrangements.
 
-#### ACCOMMODATION
-Not to generalize, but accommodation options can be quite limited. However over the years we have taken pains to find quaint places which offer you the relative luxuries of a clean and hospitable premises. Also as much as possible we would prefer local family run establishments as opposed to mega chains run by people who already have a lot.
+##### Weather Pattern
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 15 C in the nights, where as the days are quite pleasant.
 
-#### PERMITS
-Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
+##### Safety 
+We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-#### WEATHER PATTERN
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.
-
-#### MEALS
-As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
-
-**[WILDLIFE  ](http://localhost:61734/wildlife/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  
+###### Mail us at info.northbynortheast@gmail.com
