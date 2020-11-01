@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh (East): The Rainforest Trek | TREKKING & WILDLIFE TOUR "
 date: 2018-09-24T14:48:03+06:00
-description : "Wildlife Expedition in Eastern Arunachal Pradesh"
+description : "Trekking & Wildlife Expedition in Eastern Arunachal Pradesh"
 bg_image: images/background/departures/namdapha trek.jpg
 image : images/background/departures/Namdapha trek main.jpg
 live_demo : 

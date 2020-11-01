@@ -1,7 +1,7 @@
 ---
 title: "Eastern Arunachal Pradesh & Upper Assam: Birth of the Brahmaputra | RIVER TRIP "
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "River journey in Northeast India"
 bg_image: images/background/departures/river trip.jpg
 image : images/background/departures/River trip main.jpg
 live_demo : 
