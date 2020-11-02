@@ -259,8 +259,8 @@ contact_form_action = "#"
 google_analitycs_id = "UA-180443036-1"
 
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://nnejourneys.us2.list-manage.com/subscribe/post?u=7e1df1e67698abf4fc0cdca1f&id=7380015587" 
+mailchimp_form_name = "7626459b91b52006a68ff51021e2ea0e0dbc82de:MTYwNDI4Nzg1MC44OTMy" 
 
 # nav Button
 [params.nav_button]
