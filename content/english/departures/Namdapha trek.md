@@ -33,7 +33,7 @@ overview:
     
   - label : Dates
     icon : ti-shine
-    data : 21 - 28 Dec 2020
+    data : 21 - 27 Dec 2020
 
   - label : COST
     icon : ti-wallet
