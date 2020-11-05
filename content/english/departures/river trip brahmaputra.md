@@ -37,7 +37,7 @@ overview:
 
   - label : COST
     icon : ti-wallet
-    data : INR 38,500 (All inclusive)
+    data : Please mail us for details
 # type
 type : project
 ---
