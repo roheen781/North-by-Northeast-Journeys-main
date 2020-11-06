@@ -37,7 +37,7 @@ overview:
 
   - label : COST
     icon : ti-wallet
-    data : Please mail us for details
+    data : Please mail us for price & Itinerary
 
 # type
 type : project
