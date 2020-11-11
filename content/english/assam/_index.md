@@ -1,8 +1,8 @@
 ---
-title: "ASSAM"
+title: "ASSAM TOURS"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/states/assam main.jpg
-description : "Adventure,Culture & Wildlife tours of Assam"
+description : "Adventure,Culture & Wildlife tours in Assam"
 ---
 
 ## The physical heart of Northeast India

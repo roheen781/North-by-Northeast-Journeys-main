@@ -1,8 +1,8 @@
 ---
-title: "ARUNACHAL PRADESH "
+title: "ARUNACHAL PRADESH TOURS "
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/states/arunachal pradesh main.jpg
-description : "Adventure,Culture & Experiential Tours of Arunachal Pradesh"
+description : "Adventure, Culture & Experiential Tours in Arunachal Pradesh"
 ---
 
 ## The Dawn Lit Mountains

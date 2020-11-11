@@ -1,7 +1,7 @@
 ---
 title: "Nagaland & Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS"
 date: 2018-09-24T14:48:03+06:00
-description : "Hornbill Festival Tour"
+description : "Hornbill Festival Tour, Nagaland and Assam"
 bg_image: images/background/culture/Hornbill festival tour main.jpg
 image : images/background/culture/Hornbill festival culture tour of nagaland and assam.jpg
 live_demo : 

@@ -2,7 +2,7 @@
 title: "Cycling Holidays | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/cycling/Northeast India cycle tours.jpg
-description : "Cycling holidays across the beautiful northeastern region of India"
+description : "Cycling holidays, Cycle Tours across the beautiful northeastern region of India"
 ---
 
 ## Cycle Tours of Northeast India
