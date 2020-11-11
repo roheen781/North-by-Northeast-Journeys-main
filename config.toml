@@ -259,8 +259,8 @@ contact_form_action = "https://formspree.io/f/mvovqgwd"
 google_analitycs_id = "UA-180443036-1"
 
 # mailchimp subsciption
-mailchimp_form_action = "https://nnejourneys.us2.list-manage.com/subscribe/post?u=7e1df1e67698abf4fc0cdca1f&id=7380015587" 
-mailchimp_form_name = "7626459b91b52006a68ff51021e2ea0e0dbc82de:MTYwNDI4Nzg1MC44OTMy" 
+mailchimp_form_action = "" 
+mailchimp_form_name = "" 
 
 # nav Button
 [params.nav_button]
@@ -300,9 +300,9 @@ icon = "ti-map-alt"
 ############################ google map #####################################
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDBh_qbczJJo2O0J0HjLdIFDg_AnRBqwSs"
-map_latitude = "26°38'53.0"
-map_longitude = "92°46'13.2"
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 
 ############################ client logo slider #############################
