@@ -254,7 +254,7 @@ mobile = "+91 99404 16065"
 description = "Adventure, Nature and Culture tours in Northeast India"
 author = "North by Northeast Journeys"
 # contact form
-contact_form_action = "#"
+contact_form_action = "info.northbynortheastjourneys@gmail.com"
 # Google Analitycs
 google_analitycs_id = "UA-180443036-1"
 
