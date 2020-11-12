@@ -1,7 +1,7 @@
 ---
 title: "Arunachal Pradesh (West): The Himalayan High | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Western Arunachal Pradesh"
+description : "Cycle tour of Western Arunachal Pradesh. Riding to Tawang and beyond"
 bg_image: images/background/cycling/Tawang cycle tour.jpg
 image : images/background/cycling/Western Arunachal Pradesh cycle tour.jpg
 live_demo : 
