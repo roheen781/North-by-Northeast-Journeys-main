@@ -2,7 +2,7 @@
 
 title: "Meghalaya: The Abode of clouds | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Meghalaya: The abode of clouds"
+description : "Cycle tour of Meghalaya. Bicycling the Khasi and Jaintia Hills"
 bg_image: images/background/cycling/Meghalaya cycle tour main.jpg
 image : images/background/cycling/Cycle tour of Meghalaya.jpg
 live_demo : 
@@ -54,7 +54,7 @@ type : project
 
 ### The Khasi and Jaintia hills explored on bicycles.
 
-This cycle tour takes you to picteresque Meghalaya. Meghalaya meaning the 'Abode of clouds' is a green hilly state perched between the great plains of Bangladesh and that of Assam. Other than being the home of some of the only matrilineal societies of the subcontinent, Meghalaya also has some of the heaviest rainfall on earth. Cherrapunji and Mawsynram both in Meghalaya have taken their turns recording some of the heaviest rainfall ever to be recorded. This is a land well endowed in natural beauty, home to some of the highest waterfalls and deepest caves of Asia.
+This cycle tour takes you to the Khasi and Jaintia hills of picteresque Meghalaya. Meghalaya meaning the 'Abode of clouds' is a green hilly state perched between the great plains of Bangladesh and that of Assam. Other than being the home of some of the only matrilineal societies of the subcontinent, Meghalaya also has some of the heaviest rainfall on earth. Cherrapunji and Mawsynram both in Meghalaya have taken their turns recording some of the heaviest rainfall ever to be recorded. This is a land well endowed in natural beauty, home to some of the highest waterfalls and deepest caves of Asia.
 
 On this bicycle tour of Meghalaya we will be riding through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. All the while riding across deep forested valleys, gushing rivers, innumerable waterfalls, observing archery competitions, village markets and visiting quaint villages. We also include a day hike so as not to miss out the wonders that are the living root bridges.
 

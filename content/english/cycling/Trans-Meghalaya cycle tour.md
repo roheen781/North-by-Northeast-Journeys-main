@@ -1,7 +1,7 @@
 ---
 title: "Meghalaya: The Trans-Meghalaya Explorer | CYCLE TOUR"
 date: 2018-09-24T14:48:03+06:00
-description : "Trans-Meghalaya Cycle tour"
+description : "Trans-Meghalaya Cycle tour. Riding the Garo, Khasi and Jaintia hills"
 bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
 image : images/background/cycling/Trans meghalaya cycle tour.jpg
 live_demo : 
