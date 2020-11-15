@@ -1,7 +1,7 @@
 ---
-title: "Meghalaya: The Trans-Meghalaya Explorer | CYCLE TOUR"
+title: "Cycle Tour of Meghalaya: The Trans-Meghalaya Explorer"
 date: 2018-09-24T14:48:03+06:00
-description : "Trans-Meghalaya Cycle tour. Riding the Garo, Khasi and Jaintia hills"
+description : "Trans-Meghalaya Cycle tour: 10-15 days. This cycling holiday takes you riding a cross the Garo, Khasi and Jaintia hills of Meghalaya  "
 bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
 image : images/background/cycling/Trans meghalaya cycle tour.jpg
 live_demo : 
@@ -44,9 +44,9 @@ overview:
 type : project
 ---
 
-### Cycling the Garo, Khasi and Jaintia hills
+#### Cycle Tour of Meghalaya: Cycling the Garo, Khasi and Jaintia hills
 
-The Trans Meghalaya cycling tour takes us across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for.
+The Trans Meghalaya cycling tour takes you across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for.
 
 Over the duration of this tour you will be cycling across the best that Meghalaya has to offer, coverning some of the deepest caves and highest waterfalls of Asia, meeting distinct cultures and sampling their cuisine. Visiting pristine wildlife sanctuaries, the living root bridges and most of all be mesmirized by wonderful panoramas that this state is so famous for.
 

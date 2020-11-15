@@ -1,5 +1,5 @@
 ---
-title: "Meghalaya: Hike, Bike & Culture |  MULTI ACTIVITY TOUR"
+title: "Multi-activity holiday in Meghalaya: Hike, Bike, Nature & Culture"
 date: 2018-09-24T14:48:03+06:00
 description : "Multi activity holiday in Meghalaya 'The Abode of Clouds'"
 bg_image: images/background/multiactivity/Meghalaya Multiactivity tour main.jpg
@@ -46,7 +46,7 @@ overview:
 type : project
 ---
 
-### Hike and bike in the land of the matriarchs
+#### Multi-Activity Holiday in Meghalaya: Land of the matriarchs
 
 This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya. Due to its unique georgaphical location, it some of the  highest rain fall on earth which in turn bestows this region with its amazing mix of forested valleys and grassland plateaus. 
 

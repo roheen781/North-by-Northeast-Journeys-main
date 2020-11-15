@@ -1,7 +1,7 @@
 ---
-title: "Sikkim & W Bengal: Monastic Trail | CYCLE TOUR"
+title: "Cycle Tour of Sikkim & W Bengal: The Monastic Trail"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Sikkim and Bengal"
+description : "Cycle tour takes you through the best of Sikkim and Bengal"
 bg_image: images/background/cycling/Sikkim cycle tour main.jpg
 image : images/background/cycling/Sikkim cycle tour.jpg
 live_demo : 
@@ -43,7 +43,7 @@ overview:
 type : project
 ---
 
-### Of Mountains and Monastries
+#### Cycle Tour of Sikkim & W Bengal: Of Mountains and Monastries
 
 This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal. We will generally be in sub alpine rural himalayas, this provides us an excellent opportunity to observe life in these parts, interact with the locals and throughout be accompanied by amazing panoramas of the high himalayas. This tour takes you through most of the important locations of this region, including  historic, religious and cultural sites.
 

@@ -1,19 +1,19 @@
 ---
-title: "Meghalaya: Natures Amusement Park | FAMILY HOLIDAY"
+title: "Assam Family Holiday: Jewels of the Brahmaputra "
 date: 2018-09-24T14:48:03+06:00
-description : "Family adventure holiday in Meghalaya"
-bg_image: images/background/family/Meghalaya Family Holiday main.jpg
-image : images/background/family/Family adventure holiday in Meghalaya.jpg
+description : "This Family Holiday in Assam takes you across the best that the state has to offer. Wildlife, Adventure, Tea, Culture and more."
+bg_image: images/background/family/Family holiday in Assam main.jpg
+image : images/background/family/Family holiday in Assam.jpg
 live_demo : 
 case_study : 
 category: Comfort
-Weight: 2
+Weight: 1
 
 # overview
 overview:
   - label : STATES
     icon : ti-world
-    data : Meghalaya
+    data : Assam
 
   - label : TRAVEL TYPE
     icon : ti-dashboard
@@ -21,7 +21,7 @@ overview:
     
   - label : DURATION
     icon : ti-flag-alt
-    data : 6 - 9 days
+    data : 6 - 10 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -33,7 +33,7 @@ overview:
     
   - label : BEST TIME
     icon : ti-shine
-    data : Sept - April
+    data : October - April
 
   - label : COST
     icon : ti-wallet
@@ -43,40 +43,33 @@ overview:
 type : project
 ---
 
-### Family adventures in the Khasi & Jaintia hills
+#### Family Holiday in Assam: Jewels of the Brahmaputra Valley
 
-This Adventure holiday for the family is set in hilly Meghalaya. Meghalaya literally meaning the ‘Abode of clouds’ is one of the wettest places on earth during the monsoons. Cherrapunji and Mawsynram both in Meghalaya take their turn recording some of the heaviest rainfall on the planet.
+The setting for this family holiday is the lush Brahmaputra valley of Assam. This is the physical heart of Northeastern India. A vast valley spread between the mighty Himalayas in the North and the lesser hills of Meghalaya and Nagaland in the South. Assam is the largest and most accessible of the Northeastern States. This fertile land is generally known for its rich wildlife parks, lush tea plantations and unique cultures. On this tour we will explore, experience and observe some of the best that this state has to offer.
 
-On this tour of Meghalaya you will be travelling through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. Deep forested valleys, gushing rivers, innumerable waterfalls, natural root bridges, archery competitions, village markets etc will be the common sights. Short hikes, water based activities,Ziplines, caves and waterfall visits are in the cards on this tour.
-
-This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
-
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trips can be guided, unguided , driver driven or selfdriven depending on your preference and comfort.
 
 
 ###### OVERVIEW
 ```
-> Level: Comfort
-> Total Days: 6 to 9
-> Experiences: Hikes, Water activities, Caves & Waterfall visits, Archery shows and more
-> Terrain: 100% Hilly 
-> Altitude variation: 150 to 1900 mts
+> Travel Type: Comfort
+> Total Days: 6 to 10
+> Experiences: Tea, Wildlife, Culture & Cuisine
+> Terrain: 100% Plains
+> Altitude variation: 50 to 200 mts
 
-> Best Time: September to April
+> Best Time: October to April
 > Airport in: Guwahati (Assam)
 > Airport out: Guwahati (Assam)
 ```
 
-
-
-
 ###### HIGHLIGHTS
 ```
-> The wettest place on Earth (during the monsoons)
-> The only matrilineal society in the region
-> The Living root bridges, Water activities and riverside picnic’s
-> Views, views and more views
-> Villages, Markets, Caves, waterfall and much more
-> Off the grid farms and Family run guest houses
+> Kaziranga and Nameri Wildlife Sanctuaries
+> Experience life in a Tea Plantation
+> Insight into the Assamese culture in Majuli, the worlds largest River Island
+> The endangered Gangetic River Dolphins of the Brahmaputra
+> Local cuisine
 ```
 
 ###### INCLUSIONS
@@ -91,16 +84,16 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 ```
 ###### Acommodation and Meals on this tour
 ```
-> Accommodation: Hotels, Cottages, farmsteads & Camping
+> Accommodation: Tea Bungalows, Eco Camps & Safari Lodges
 > Meals: As per selected plan
-> Refreshments & Water: High energy snacks and Water during activities
 
 ```
+
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/family/meghalayafamilyholidaygallery.jpg)
+![What is this](/images/background/family/assamfamilyholidaygallery.jpg)
 
 
 
@@ -109,10 +102,10 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ##### Terrain & Road Contitons
 
-Though entirely hilly, Meghalaya has some of the best roads of the entire region and perhaps most of India. However due to it being entirely hills distances do seem farther and take more time.
+The terrain is all flat with mostly good road conditions
 
 ##### Backup
-Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
+Sturdy SUV’s and Mini coaches with sturdier drivers will accompany you on every trip.  These vehicles are along right from your airport pick up to your drop back to the airport.
 
 ##### Permits
 No special permits required
@@ -125,5 +118,6 @@ As far as possible we would prefer local fare when it comes to meals, however we
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
+
 
 **[Back to FAMILY ADVENTURES  ](/family/) | [INSIGHTS](/insights/)**

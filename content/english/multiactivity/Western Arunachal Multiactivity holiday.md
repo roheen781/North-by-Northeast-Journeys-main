@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh (West): Hike, Bike & Culture | MULTI ACTIVITY TOUR"
+title: "Multi-activity holiday in Western Arunachal Pradesh: Hike, Bike & Culture "
 date: 2018-09-24T14:48:03+06:00
 description : "Multi activity holiday in Western arunachal Pradesh"
 bg_image: images/background/multiactivity/Western Arunachal multiactivity tour main.jpg
@@ -44,7 +44,7 @@ overview:
 type : project
 ---
 
-### Active & Interactive in the High Himalayas
+#### Multi-activity holiday in western Arunachal Pradesh: Active & Interactive in the High Himalayas
 
 This multi-activity tour is situated in Western Arunachal Pradesh, in the state's Buddhist belt. This region is home to the Monpa, Sherdukpen and to an extent also the Brokpa people. This is an above oderate activity holiday in difficulty level, hence one needs to have a fair level of fitness. 
 

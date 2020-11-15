@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh & Assam: Monyul & Brahmaputa Valley | CULTURAL JOURNEYS  "
+title: "Culture Tour of Arunachal Pradesh & Assam: Monyul & Brahmaputa Valley "
 date: 2018-09-24T14:48:03+06:00
 description : "Culture tour of Western Arunachal Pradesh and Assam"
 bg_image: images/background/culture/Culture tour of Western Arunachal Pradesh and Assam main.jpg
@@ -39,7 +39,7 @@ overview:
 type : project
 ---
 
-### Monyul and the Brahmaputra valley
+#### Culture Tour of Arunachal Pradesh & Assam: Monyul and the Brahmaputra valley
 
 This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh. The first phase takes you to the periphery of Tawang where as the second stage brings us down to the lush plains of central Assam.In essence covering the Tibetian Buddhist and Vaishnavite areas.
 

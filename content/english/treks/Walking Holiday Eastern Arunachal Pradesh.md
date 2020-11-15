@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh (East): Walks in India's far east | WALKING HOLIDAY"
+title: "Walking Holiday in Arunachal Pradesh (East): Walks in India's far east"
 date: 2018-09-24T14:48:03+06:00
 description : "Walking holiday in Eastern Arunachal Pradesh"
 bg_image: images/background/treks/walks in eastern arunachal pradesh.jpg
@@ -44,7 +44,7 @@ overview:
 type : project
 ---
 
-### Walks in India's far east
+#### Walking Holiday in Eastern Arunachal Pradesh: Walks in India's far east
 
 Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India. This tour is based in the eastern part of Arunachal Pradesh close to the Myanmar and Chinese frontiers, a maze of greenery and home to a vibrant mix of cultures. This is the land where three giant river valleys come down and meet the plains, hence giving birth to the mighty Brahmaputra.  Home to the earliest tea producers of the subcontinent, some of the earliest oil finds of the world and a string of vibrant wildlife parks.
 

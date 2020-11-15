@@ -1,7 +1,7 @@
 ---
-title: "Arunachal Pradesh (East): Watershed of the Brahmaputra | CYCLE TOUR"
+title: "Cycle tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra "
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Eastern Arunachal Pradesh"
+description : "This Cycle tour takes you to Eastern Arunachal Pradesh. Ride across the watershed of the Mighty Brahmaputra River"
 bg_image: images/background/cycling/Eastern Arunachal cycle tour main.jpg
 image : images/background/cycling/Eastern Arunachal Pradesh cycle tour.jpg
 live_demo : 
@@ -44,9 +44,9 @@ overview:
 type : project
 ---
 
-### Birth of the Brahmaputra Valley
+#### Cycle tour of Eastern Arunachal Pradesh: Birth of the Brahmaputra Valley
 
-This cycle tour of  Eastern Arunachal Pradesh (the eastern most state of India) and Upper Assam takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
+This cycle tour of  Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 
 Exciting experiences right from crossing one of the largest rivers of India in Assam to cycling through the riverine areas of the Siang, Dibang and the Lohit Rivers of eastern Arunachal Pradesh, all the while overshadowed by the mighty Himalayan chain . Covering territories of over 10 different tribes with religious beliefs ranging from Hinduism,Theravada Buddhism to Old school Animism. This bicycle tour offers bounties of wide vistas, riding across little known villages, meeting myriads of ethnic groups and visiting some of the better wildlife sanctuaries of the subcontinent. All the while living in some quaint family run guest houses, homestays and camping in beautiful secluded locations .
 

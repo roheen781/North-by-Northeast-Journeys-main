@@ -1,7 +1,7 @@
 ---
-title: "4 States North East India: The Eastern Arc | MOTORCYCLE & OVERLAND "
+title: "Motorcycle & Overland Tour North East India: The Eastern Arc | 4 states"
 date: 2018-09-24T14:48:03+06:00
-description : "Motorcycle & Overland Tour of Northeast India"
+description : "Motorcycle & Overland Tour of Northeast India. This motorcycle & Overland tour of Northeast India takes you across Assam, Nagaland, Meghalaya nad Arunachal Pradesh"
 bg_image: images/background/motorcycle/4 states northeast india motorcycle main.jpg
 image : images/background/motorcycle/4 states northeast india motorcycle tour.jpg
 live_demo : 
@@ -43,7 +43,7 @@ overview:
 type : project
 ---
 
-### The wildest of Northeast India
+#### Motorcyle & Overland Tour of Northeast India: The wildest of Northeast India
 
 This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya. A rider’s delight, this route includes the dense forested hills of Nagaland, and Arunachal Pradesh, the tea oil rich  regions of Assam and the wettest places on Earth at Meghalaya. Incidentally this region has one of the highest densities of ethnicities and languages in the whole of India. 
 

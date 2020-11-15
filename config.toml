@@ -1,9 +1,9 @@
 ######################### default configuration ###############################
 baseURL = "/"
-title = "North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India"
+title = "Adventure, Nature and Culture Tours in Northeast India"
 theme = "biztrox"
 # post pagination
-paginate = "6"
+paginate = "1"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -172,7 +172,7 @@ disableLanguages = [] # desable language from here
 
    [[menu.main]]
     parent = "Fixed Departures"
-    name = " Covid-19 Getaways"
+    name = " Upcoming Departures 2021/22"
     URL = "departures"
     weight = 1
  
@@ -249,9 +249,9 @@ disableLanguages = [] # desable language from here
 logo = "images/logo.png"
 logo_white = "images/logo-footer.jpg"
 mail = "info.northbynortheast@gmail.com"
-mobile = "+91 99404 16065"
+mobile = "+91 99404 16065 / 84861 83666"
 # Meta data
-description = "Adventure, Nature and Culture tours in Northeast India"
+description = "A local travel company offering professionally run Adventure, Nature and Culture tours across Northeast India"
 author = "North by Northeast Journeys"
 # contact form
 contact_form_action = "https://formspree.io/f/mvovqgwd"
@@ -259,8 +259,8 @@ contact_form_action = "https://formspree.io/f/mvovqgwd"
 google_analitycs_id = "UA-180443036-1"
 
 # mailchimp subsciption
-mailchimp_form_action = "" 
-mailchimp_form_name = "" 
+mailchimp_form_action = ""
+mailchimp_form_name =  ""
 
 # nav Button
 [params.nav_button]
@@ -371,7 +371,7 @@ link = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
 
   # footer
   [Languages.en.params.footer]
-  content = "North by Northeast Journeys, as the name suggests, specializes in the little-known Northeastern region of India. Our Tour Packages cover Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim as of now. Although most of our tours are activity based, our true focus lies on the people, the culture and environment of this region."
+  content = "North by Northeast Journeys, specializes in the little-known Northeastern region of India. Our Tour Packages cover Assam, Arunachal Pradesh, Meghalaya, Nagaland and Sikkim as of now. Although most of our tours are activity based, our true focus lies on the people, the culture and environment of this region."
 
   
   # copyright

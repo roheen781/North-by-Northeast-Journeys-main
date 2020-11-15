@@ -1,7 +1,7 @@
 ---
-title: "Arunachal Pradesh (West): The high lakes trek | TREKKING HOLIDAY"
+title: "Trekking in Arunachal Pradesh (West): The high lakes trek"
 date: 2018-09-24T14:48:03+06:00
-description : "Trekking holiday in western Arunachal Pradesh"
+description : "Trekking holiday in western Arunachal Pradesh. This high altitude trek takes you walking along the Bhutanese border between prestine high altitude lakes"
 bg_image: images/background/treks/western arunachal pradesh trek main.jpg
 image : images/background/treks/Western Arunachal Pradesh Trek.jpg
 live_demo : 
@@ -43,7 +43,7 @@ overview:
 type : project
 ---
 
-### Ridge running along the Bhutanese frontier
+#### Treking in Arunachal Pradesh: Ridge running along the Bhutanese frontier
 
 This particular trek is set in Western Arunachal Pradesh, in the states Buddhist belt close to the tri-junction between India, Tibet and Bhutan. This region is home to the Monpa,  Sherdukpen and the Brokpa people. Starting from the township of Dirang, the trek takes you along the Bhutanese border via a region known for its high altitude lakes and rhodendrons while ending in the Sela Pass or Jang depending on the duration one chooses.
 

@@ -1,5 +1,5 @@
 ---
-title: "Nagaland & Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS"
+title: "Culture Tour of Nagaland & Assam: Hornbill Festival and beyond"
 date: 2018-09-24T14:48:03+06:00
 description : "Hornbill Festival Tour, Nagaland and Assam"
 bg_image: images/background/culture/Hornbill festival tour main.jpg
@@ -40,7 +40,7 @@ overview:
 type : project
 ---
 
-### Tribes & Wildlife, Nagaland & Assam
+#### Culture Tour of Nagaland & Assam: Tribes & Wildlife, Nagaland & Assam
 
 This tour takes you to western Nagaland and central Assam.In Nagaland we get deep insights to the tribes of the region and their rich culture, Where as in Assam we indulge in a bit of wildlife safari's and Tea plantation stays.
 

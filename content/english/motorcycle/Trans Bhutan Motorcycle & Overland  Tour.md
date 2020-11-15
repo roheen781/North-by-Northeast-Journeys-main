@@ -1,5 +1,5 @@
 ---
-title: "Bhutan: The Thunder Dragon | MOTORCYCLE & OVERLAND"
+title: "Trans-Bhutan Motorcycle & Overland Tour: The Thunder Dragon"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Bhutan"
 bg_image: images/background/motorcycle/Trans Bhutan motorcycle tour main.jpg
@@ -43,7 +43,7 @@ overview:
 type : project
 ---
 
-### Gross national happiness experienced
+#### Trans-Bhutan Motorcycle & Overland Tour: Gross national happiness experienced
 
 This trans-Bhutan motorcycle tour starts and ends in the Brahmaputra Valley of Assam. This route takes you across the Kingdom of Bhutan for the west to its east. 
 

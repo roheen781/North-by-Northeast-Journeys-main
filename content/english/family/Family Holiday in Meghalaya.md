@@ -1,72 +1,69 @@
 ---
-title: "Arunachal Pradesh (East): India's far east | FAMILY HOLIDAY"
+title: "Family Holiday in Meghalaya: Natures Amusement Park"
 date: 2018-09-24T14:48:03+06:00
-description : "Family holiday in Eastern Arunachal Pradesh"
-bg_image: images/background/family/Family holiday in Eastern Arunachal Pradesh main.jpg
-image : images/background/family/Family Holiday in Eastern Arunachal Pradesh.jpg
-live_demo :
+description : "Family adventure holiday in Meghalaya. An active adventure holiday for the entire family in prestine Meghalaya"
+bg_image: images/background/family/Meghalaya Family Holiday main.jpg
+image : images/background/family/Family adventure holiday in Meghalaya.jpg
+live_demo : 
 case_study : 
-category: Off the grid
-Weight: 3
+category: Comfort
+Weight: 2
 
 # overview
 overview:
   - label : STATES
     icon : ti-world
-    data : Arunachal Pradesh
-  
+    data : Meghalaya
+
   - label : TRAVEL TYPE
     icon : ti-dashboard
-    data : Off the grid 
-
+    data : Comfort
+    
   - label : DURATION
     icon : ti-flag-alt
-    data : 6 - 10 days
-
-  
+    data : 6 - 9 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
-    data : Dibrugarh (Assam)
+    data : Guwahati (Assam)
 
   - label : AIRPORT OUT
     icon : ti-location-pin
-    data : Dibrugarh (Assam)
+    data : Guwahati (Assam)
     
   - label : BEST TIME
     icon : ti-shine
-    data : October - March
+    data : Sept - April
 
   - label : COST
     icon : ti-wallet
     data : On Request
 
-
 # type
 type : project
 ---
 
-### Far eastern explorations
+#### Family adventure holiday in the Khasi & Jaintia hills of Meghalaya
 
-This active adventure holiday for the family is set in some of the only flatlands of Arunachal Pradesh. Exploring around the Brahmaputra, Lohit and Dibang rivers. Rich plains have always given rise to more sophisticated and elaborate societies. This is the region where Hinduism, Theravada Buddhism and the Animist tribes meet and have coexisted for eons.
+This Adventure holiday for the family is set in hilly Meghalaya. Meghalaya literally meaning the ‘Abode of clouds’ is one of the wettest places on earth during the monsoons. Cherrapunji and Mawsynram both in Meghalaya take their turn recording some of the heaviest rainfall on the planet.
 
-Over the duration of this tour you will get an in-depth into this interesting regions wide mix of cultures, experience the lush environment and bio-diversity, indulge in some adventures and learn about the rich history of this little known corner of the sub-continent.
+On this tour of Meghalaya you will be travelling through the west Khasi and neighbouring Jaintia hills overlooking the plains of Bangladesh. Deep forested valleys, gushing rivers, innumerable waterfalls, natural root bridges, archery competitions, village markets etc will be the common sights. Short hikes, water based activities,Ziplines, caves and waterfall visits are in the cards on this tour.
 
-This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. 
+This  holiday can be tailored to your family’s personal preferences, be it the range of activities, duration or accommodation options. This trip can be driver driven or selfdriven depending on your preference and comfort.
 
 
 
-###### AT A GLANCE
+###### OVERVIEW
 ```
-> Level: Off the Grid
-> Total Days: 6 to 10
-> Experiences: Water based activities, walks, cultural insights, cuisine & cycling
-> Terrain: 85% Plains
-> Altitude variation: 150 to 800 mts
+> Level: Comfort
+> Total Days: 6 to 9
+> Experiences: Hikes, Water activities, Caves & Waterfall visits, Archery shows and more
+> Terrain: 100% Hilly 
+> Altitude variation: 150 to 1900 mts
 
-> Best Time: October to March
-> Airport in: Dibrugarh (Assam)
-> Airport out: Dibrugarh (Assam)
+> Best Time: September to April
+> Airport in: Guwahati (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 
@@ -74,12 +71,12 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### HIGHLIGHTS
 ```
-> Periphery of foothills of the Eastern most Himalayas
-> Land of the elephant tamers and birthplace of Assam Tea
-> One of the first oil producing regions of the world
-> The birthplace of the Mighty Brahmaputra Valley
+> The wettest place on Earth (during the monsoons)
+> The only matrilineal society in the region
+> The Living root bridges, Water activities and riverside picnic’s
+> Views, views and more views
+> Villages, Markets, Caves, waterfall and much more
 > Off the grid farms and Family run guest houses
-> Options of Cycling, Hiking and Rafting
 ```
 
 ###### INCLUSIONS
@@ -94,16 +91,16 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 ```
 ###### Acommodation and Meals on this tour
 ```
-> Accommodation: Tea Bungalows, Eco Lodges & Camping
-> Meals: All meals
-> Refreshments & Water: High energy snacks and Water during throughout
+> Accommodation: Hotels, Cottages, farmsteads & Camping
+> Meals: As per selected plan
+> Refreshments & Water: High energy snacks and Water during activities
 
 ```
 ``` ** Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/family/easternarunachalfamilyholidaygallery.jpg)
+![What is this](/images/background/family/meghalayafamilyholidaygallery.jpg)
 
 
 
@@ -112,13 +109,13 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ##### Terrain & Road Contitons
 
-The region is at the foot of the Mishmi hills, mostly flat river plains
+Though entirely hilly, Meghalaya has some of the best roads of the entire region and perhaps most of India. However due to it being entirely hills distances do seem farther and take more time.
 
 ##### Backup
 Sturdy SUV’s and sturdier driver will accompany you on every trip. the condition of roads do not allow for larger vehicles, however do our best to provide you the best in comfort in relation to the routes that we ply on. These vehicles are along right from your airport pick up to your drop back to the airport.
 
 ##### Permits
-Indian nationals require a Inner Line Permit (ILP) whereas foreign nationals require Restricted Area Permits (RAP), both of which have a certain fees applicable.
+No special permits required
 
 ##### Weather Pattern
 Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 18 C, in the evenings, however the days are still favourable for cycling.

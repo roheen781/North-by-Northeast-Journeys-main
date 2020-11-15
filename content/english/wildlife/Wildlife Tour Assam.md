@@ -1,7 +1,7 @@
 ---
-title: "Assam: Parks of the Brahmaputra Valley | WILDLIFE TOUR "
+title: "Wildlife Tour of Assam: Parks of the Brahmaputra Valley "
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "The Wildlife tour of Assam takes you to some of the better wildlife sancturies of India. Kaziranga, Manas, Nameri, Dibrusaikhowa and Namdapha National Parks"
 bg_image: images/background/wildlife/assamwildlifetour main.jpg
 image : images/background/wildlife/Wildlife tour of Assam.jpg
 live_demo : 
@@ -39,7 +39,7 @@ overview:
 type : project
 ---
 
-### Jewels of the east
+#### Wildlife Tour of Assam: Jewels of the east
 
 Brahmaputra valley of Assam, is the geographical heart of northeastern India. This region lying perched between Himalayan and Indo-Burmese biodiversity hotspots hosts a string of wildlife parks, home to several threatened mammal species, including the tiger, Asian elephant, greater one-horned rhinoceros, swamp deer , gaur , clouded leopard , hispid hare, pygmy hog, capped leaf monkey , Asiatic black bear, sloth bear and the Gangetic river dolphins among others . This wildlife tour of the Brahmaputra valley takes you to some of the better known wildlife sanctuaries along the Mighty Brahmaputra, indulging in Elephant back, Jeep, Walking and Boat safaris.
 

@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh: Tribes of the 'Dawn lit Mountains' | CULTURAL JOURNEYS"
+title: "Culture Tour of Arunachal Pradesh: Tribes of the 'Dawn lit Mountains'"
 date: 2018-09-24T14:48:03+06:00
 description : "Culture tour of Arunachal Pradesh"
 bg_image: images/background/culture/Festival hop of Eastern Arunachal.jpg

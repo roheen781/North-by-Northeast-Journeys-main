@@ -1,7 +1,7 @@
 ---
-title: "Meghalaya: Backroads of Meghalaya | MOTORCYCLE & OVERLAND"
+title: "Trans-Meghalaya Motorcycle & Overland Tour: Backroads of Meghalaya"
 date: 2018-09-24T14:48:03+06:00
-description : "Motorcycle & Overland Tour of Meghalaya"
+description : "Motorcycle & Overland Tour of Meghalaya. This Motorcycle and Overland tour takes you across the three Hills of Meghalaya"
 bg_image: images/background/motorcycle/Trans meghalaya motorcycle tour main.jpg
 image : images/background/motorcycle/Meghalaya motorcycle tour.jpg
 live_demo : 
@@ -46,7 +46,7 @@ overview:
 type : project
 ---
 
-### The abode of clouds explored
+#### Trans Meghalaya Motorcycle & Overland Tour: The abode of clouds explored
 
 Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya. Entering Meghalaya in the western end we make our way to its far eastern hills, enroute traversing through varying conditions and basking in the  vistas of the Meghalayan hills and the plains of Bangladesh while staying in charming locations all through settled by different tribes.
 

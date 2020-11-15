@@ -1,7 +1,7 @@
 ---
-title: "Arunachal Pradesh (West): High roads of the Monyul | MOTORCYCLE & OVERLAND"
+title: "Motorcycle & Overland Tour of Western Arunachal Pradesh: High roads of the Monyul"
 date: 2018-09-24T14:48:03+06:00
-description : "Motorcycle & Overland Tour of Western Arunachal Pradesh"
+description : "Motorcycle & Overland Tour of Western Arunachal Pradesh. This tour takes you across the tea fields of Assam to the high roads of western Arunachal Pradesh"
 bg_image: images/background/motorcycle/Motorcycle tour of Western Arunachal Pradesh main.jpg
 image : images/background/motorcycle/Tawang motorcycle tour.jpg
 live_demo :
@@ -45,7 +45,7 @@ overview:
 type : project
 ---
 
-### Riding along the Bhutan and Tibetian borders
+#### Motorcycle & Overland Tour of Western Arunachal Pradesh: Riding along the Bhutan and Tibetian borders
 
 This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas. This region is settled by the Tibetian Buddhism related tribes such as the Monpa, Sherdukpen and Brokpa. Historically this region has had close cultural and religious ties both to Bhutan and Tibet due to it being the tri-juncture between these three Kingdoms, infact it was under the protectorate of Tibet uptill 1945.
 

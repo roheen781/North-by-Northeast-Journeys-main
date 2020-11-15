@@ -1,5 +1,5 @@
 ---
-title: "Covid 19 Departures | NORTHEAST INDIA"
+title: "Tour Departures 2021 | NORTHEAST INDIA"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/departures/Covid 19 travel.jpg
 description : "Safe holiday options in Northeast India during Covid 19 times"

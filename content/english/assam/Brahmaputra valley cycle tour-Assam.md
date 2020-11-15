@@ -1,5 +1,5 @@
 ---
-title: "ASSAM & ARUNACHAL PRADESH: The Brahmaputra Valley explorer"
+title: "CYCLING IN  ASSAM & ARUNACHAL PRADESH: The Brahmaputra Valley explorer"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/cycling/Assam Cycle Tour.jpg

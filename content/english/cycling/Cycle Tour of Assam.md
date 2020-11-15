@@ -1,7 +1,7 @@
 ---
-title: "Assam & Arunachal Pradesh: The Brahmaputra explorer | CYCLE TOUR"
+title: "Cycle tour of Assam & Arunachal Pradesh: The Brahmaputra explorer"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle Tour of Assam & Arunachal Pradesh: Brahmaputra Valley"
+description : "This Cycle Tour takes you to the Brahmaputra valley of Assam & Arunachal Pradesh"
 bg_image: images/background/cycling/Assam Cycle Tour.jpg
 image : images/background/cycling/Cycle Tour of Assam and Arunachal Pradesh.jpg
 live_demo : 
@@ -44,9 +44,9 @@ overview:
 type : project
 ---
 
-### Cycling the physical heart of Northeastern India
+#### Cycle tour of Assam & Arunachal Pradesh: Cycling the physical heart of Northeastern India
 
-This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
+This cycle tour takes you along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
 
 Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. 
 

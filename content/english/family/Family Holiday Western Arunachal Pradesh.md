@@ -1,7 +1,7 @@
 ---
-title: "Arunachal Pradesh (West): Call of the Mountains | FAMILY HOLIDAY"
+title: "Family Holiday in Arunachal Pradesh (West): Call of the Mountains"
 date: 2018-09-24T14:48:03+06:00
-description : "Family adventure holiday in Western Arunachal Pradesh"
+description : "This family adventure holiday in Western Arunachal Pradesh takes you to the region bordering Bhutan and Tibet."
 bg_image: images/background/family/Western Arunachal family holiday main.jpg
 image : images/background/family/Family adventure holiday in Western Arunachal Pradesh.jpg
 live_demo : 
@@ -43,9 +43,9 @@ overview:
 type : project
 ---
 
-### Family adventures in the gateway of Tibet
+#### Family Holiday in Western Arunachal Pradesh:  Call of the mountains
 
-On this family adventure we take you to Western Arunachal Pradesh, a region bordering Bhutan and Tibet. A mountanious region speckled with gold-and-white gompas (Tibetan Buddhist monasteries), Shangri La  awaits at the end of a  spectacular route up from the Brahmaputra plains. The natural beauty and solitude of Gudpi and Chong-Chugmi ranges, Tawang chu River and Tawang valley are very mesmerizing. The inhabitants of the districts are all of Monpa tribes except Shyo village which is dominated by people of Tibetian origin.
+On this family adventure holiday we take you to Western Arunachal Pradesh, a region bordering Bhutan and Tibet. A mountanious region speckled with gold-and-white gompas (Tibetan Buddhist monasteries), Shangri La  awaits at the end of a  spectacular route up from the Brahmaputra plains. The natural beauty and solitude of Gudpi and Chong-Chugmi ranges, Tawang chu River and Tawang valley are very mesmerizing. The inhabitants of the districts are all of Monpa tribes except Shyo village which is dominated by people of Tibetian origin.
 
 There are two major religious festivals of the Monpas viz "LOSAR" and "TORGYA". Both festivals are celebrated once annually. The LOSAR s celebrated to the commencement of New year. Every third year of Torgya, the festival of Dungyur is celebrated. Both "Dungyur and Torgya" festivals are celebrated at the premises of the Tawang Monastery with traditional gaiety and enthusiasm. There are many beautiful grlacial lakes in and around Tawang with crystal blue waters such as Sela lake, P.T.Tso lake, Sangetser lake, Banggachang lake and many more. These remain frozen in winter while in summer they become haven for migratory birds.
 

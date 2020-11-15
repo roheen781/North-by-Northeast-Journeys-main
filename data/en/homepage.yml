@@ -6,7 +6,7 @@ slider:
     - bg_image : images/banner/Adventure holidays in Northeast India.jpg
       animation_from : left
       title : NORTHEAST INDIA
-      subtitle : Active adventures in
+      subtitle : Active adventure holidays in
       content : CYCLING, TREKS & WALKS, MULTI-ACTIVITY, MOTORCYCLE & OVERLAND, FAMILY ADVENTURES, RIVER JOURNEYS
       pagination_icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       pagination_name : Adventure
@@ -31,7 +31,7 @@ slider:
     # slider item loop
     - bg_image : images/banner/Wildlife safari in northeast india.jpg
       animation_from : down
-      subtitle : Nature Escapades in
+      subtitle : Nature holidays in
       title : NORTHEAST INDIA
       content : WILDLIFE SAFARIS, WILDFLOWER TRAILS
       pagination_icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
@@ -44,7 +44,7 @@ slider:
     # slider item loop
     - bg_image : images/banner/Leisure holidays in northeast india.jpg
       animation_from : right
-      subtitle : Leisurely Getaways in
+      subtitle : Leisurely getaways in
       title : NORTHEAST INDIA
       content : FAMILY GETAWAYS, QUIET OFF THE MAP ESCAPADES  `
       pagination_icon : ti-shine # themify icon pack : https://themify.me/themify-icons

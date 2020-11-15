@@ -1,7 +1,7 @@
 ---
-title: "Meghalaya: Walks in the clouds | WALKING HOLIDAY"
+title: "Walking Tour of Meghalaya: Walks in the clouds"
 date: 2018-09-24T14:48:03+06:00
-description : "Walking holiday in Meghalaya"
+description : "Walking Tour in Meghalaya"
 bg_image: images/background/treks/walking tour of meghalaya main.jpg
 image : images/background/treks/Walking tour of Meghalaya .jpg
 live_demo : 
@@ -46,7 +46,7 @@ overview:
 type : project
 ---
 
-### Explorations in the 'Abode of Clouds'
+#### Walking Tour of Meghalaya: Explorations in the 'Abode of Clouds'
 
 This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’.   Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush and verdant environment. 
 

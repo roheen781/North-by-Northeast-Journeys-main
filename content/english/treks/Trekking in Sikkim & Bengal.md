@@ -1,5 +1,5 @@
 ---
-title: "Sikkim & W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary | TREKKING HOLIDAY"
+title: "Trekking in Sikkim & W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary"
 date: 2018-09-24T14:48:03+06:00
 description : "Singalila Ride and Barsey Rhododendron Sanctuary trek: Sikkim & W Bengal"
 bg_image: images/background/treks/Goechalatrek.jpg
@@ -43,7 +43,7 @@ overview:
 type : project
 ---
 
-### A Trek amongst the giants
+#### Trekking in Sikkim and W Bengal: A Trek amongst the giants
 
 This trek takes you to the hills of Sikkim and North Bengal, a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains. Sikkim is home to the magnificant Kanchanjunga Massif, the third-highest mountain on earth. The pinnacle of this majestic mountain is perennially snowcapped and ever towering over the region like the deity that she is. The trek will take you across state and sometimes national borders, as we make our way south from the Barsey Rhodondren Sanctuary along the Nepalese frontier, walking the phenominal Singalila Ridge.
 

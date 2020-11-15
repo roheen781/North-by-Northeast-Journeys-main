@@ -1,11 +1,11 @@
 ---
-title: "River Journeys | NORTHEAST INDIA"
+title: "River Trips in Northeast India"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/rivertrips/riverjourneys in northeast india.jpg
 description : "Cycling holidays across the beautiful northeastern region of India"
 ---
 
-## River journeys in Northeastern India
+## River trips in Northeastern India
 
 Rivers, the great, ever-changing highways of water on the banks of which nearly all early civilizations were built. Nodi in Assamese, Nehir in Turkish, rio in Spanish -- the river's signifier in almost every language is beautiful, conjuring images of life and death, of settlement and flight, of the unstoppable flowing movement and renewal of all things. 
 

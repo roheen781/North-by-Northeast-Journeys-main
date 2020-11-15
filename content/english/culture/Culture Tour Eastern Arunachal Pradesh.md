@@ -1,5 +1,5 @@
 ---
-title: "Arunachal Pradesh (East): Theravada & Animist lands | CULTURAL JOURNEYS"
+title: "Cultural Tour of Eastern Arunachal Pradesh: Theravada & Animist lands"
 date: 2018-09-24T14:48:03+06:00
 description : "Cultural Tour of Eastern Arunachal Pradesh"
 bg_image: images/background/culture/Animist and Theravada country main.jpg
@@ -42,7 +42,7 @@ overview:
 type : project
 ---
 
-### Where the Hills meet the Brahmaputra valley
+#### Cultural Tour of Eastern Arunachal Pradesh: Theravada & Animist lands
 
 We take you to one of the least known part of Northeast India. The eastern bit of the region buffering Tibet and Myanmar lies in the state of Arunachal Pradesh. This is a region of giant rivers, uending forests and a ring of hills climbing ever higher till it becomes snowy peaks at the Chinese border. This region is home to the Theravada Buddhist tribes who live in the plains and the Animist ones who live in the hills.
 
