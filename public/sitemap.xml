@@ -13,13 +13,8 @@
   </url>
   
   <url>
-    <loc>/service/active-adventures/</loc>
+    <loc>/service/active-adventuretours/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/tawang-and-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
@@ -28,17 +23,7 @@
   </url>
   
   <url>
-    <loc>/cycling/easternarunachalcycletour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/assam-family-adventure/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wildlife/sanctuaries-of-the-brahmaputra-valley/</loc>
+    <loc>/family/assam-family-holiday/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -53,7 +38,17 @@
   </url>
   
   <url>
-    <loc>/multiactivity/assam-tea-wildlife-culture/</loc>
+    <loc>/culture/culture-tour-western-arunachal-pradesh/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cycling/eastern-arunachal-pradesh-cycle-tour/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rivertrips/river-trip-brahmaputra/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -63,17 +58,27 @@
   </url>
   
   <url>
-    <loc>/motorcycle/trans-meghalaya-moto/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/meghalaya/natures-amusement-park-meghalaya/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/treks/meghalaya-walks-in-the-khasi-hills/</loc>
+    <loc>/multiactivity/multiactivity-holiday-assam/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/motorcycle/trans-meghalaya-motorcycle-overland/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/treks/walking-tour-meghalaya/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/wildlife/wildlife-tour-assam/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -88,23 +93,8 @@
   </url>
   
   <url>
-    <loc>/service/wildlife-culture-copy/</loc>
+    <loc>/service/wildlife-culture-tours/</loc>
     <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/eastern-arunachal/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/walkers-tour-of-easternarunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
@@ -118,27 +108,42 @@
   </url>
   
   <url>
+    <loc>/culture/culture-tour-eastern-arunachal-pradesh/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/departures/river-trip-brahmaputra/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/multiactivity/meghalaya-hike-and-bike/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/meghalaya-natures-amusement-park/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/meghalaya-khasi-hills-cycle-tour/</loc>
+    <loc>/family/family-holiday-in-meghalaya/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
     <loc>/meghalaya/walks-in-the-clouds-meghalaya/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multiactivity/multi-activity-holiday-in-meghalaya/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/treks/walking-holiday-eastern-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -163,16 +168,6 @@
   </url>
   
   <url>
-    <loc>/multiactivity/hikebike-and-raft-easternarunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/easternarunachal/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/assam/motorcycle-assam-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
@@ -183,12 +178,17 @@
   </url>
   
   <url>
-    <loc>/motorcycle/assam-arunachal-pradesh/</loc>
+    <loc>/bhutan/brahmaputra-valley-cycle-tour-assam/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cycling/assam-brahmaputra-valley-cycle-tour/</loc>
+    <loc>/culture/cuclure-tour-of-nagaland-hornbill-festival/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cycling/cycle-tour-of-assam/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -198,12 +198,12 @@
   </url>
   
   <url>
-    <loc>/bhutan/brahmaputra-valley-cycle-tour-assam/</loc>
+    <loc>/arunachalpradesh/walkers-tour-of-eastern-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/arunachalpradesh/walkers-tour-of-eastern-arunachal-pradesh/</loc>
+    <loc>/family/family-holiday-eastern-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -213,7 +213,12 @@
   </url>
   
   <url>
-    <loc>/culture/hornbill/</loc>
+    <loc>/motorcycle/motorcycle-overland-assam-arunachal-pradesh/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -228,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/treks/singalila-and-barsey-trek/</loc>
+    <loc>/treks/trekking-in-sikkim-bengal/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -243,22 +248,17 @@
   </url>
   
   <url>
-    <loc>/family/western-arunachal/</loc>
+    <loc>/culture/culture-tour-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/multiactivity/western-arunachal-multiactivity/</loc>
+    <loc>/cycling/trans-meghalaya-cycle-tour/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/treks/high-lakes-trek-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/tribes-of-arunachal/</loc>
+    <loc>/family/family-holiday-western-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -268,7 +268,12 @@
   </url>
   
   <url>
-    <loc>/cycling/trans-meghalaya-cycle-tour/</loc>
+    <loc>/multiactivity/western-arunachal-multiactivity-holiday/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/treks/trekking-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -293,22 +298,12 @@
   </url>
   
   <url>
-    <loc>/motorcycle/4-states-moto-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/wildlife/dibang-valley/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/cycling/arunachal-pradesh-mishmi-hills-cycle-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/trans-bhutan/</loc>
+    <loc>/cycling/cycling-in-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -323,6 +318,16 @@
   </url>
   
   <url>
+    <loc>/motorcycle/motorcycle-overland-tour-of-ne-india/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/motorcycle/trans-bhutan-motorcycle-overland-tour/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/team/nongrum-kd/</loc>
     <lastmod>2018-09-29T12:58:30+06:00</lastmod>
   </url>
@@ -333,7 +338,7 @@
   </url>
   
   <url>
-    <loc>/cycling/sikkim-cycling-the-monastic-trail/</loc>
+    <loc>/cycling/cycle-tour-of-sikkim/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -358,7 +363,7 @@
   </url>
   
   <url>
-    <loc>/cycling/arunachal-pradesh-cycling-to-tawang/</loc>
+    <loc>/cycling/cycle-tour-of-western-arunachal-pradesh/</loc>
     <lastmod>2018-09-24T14:48:03+06:00</lastmod>
   </url>
   
@@ -463,27 +468,12 @@
   </url>
   
   <url>
-    <loc>/arunachalpradesh/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/bhutan/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
   <url>
     <loc>/contact/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/departures/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
@@ -504,6 +494,16 @@
   
   <url>
     <loc>/family/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/arunachalpradesh/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/assam/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   
@@ -549,6 +549,11 @@
   
   <url>
     <loc>/team/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/departures/</loc>
     <lastmod>2018-07-12T18:19:33+06:00</lastmod>
   </url>
   

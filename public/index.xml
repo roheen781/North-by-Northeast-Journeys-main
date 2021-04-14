@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</title>
+    <title>Adventure, Nature and Culture Tours in Northeast India</title>
     <link>/</link>
-    <description>Recent content on North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</description>
+    <description>Recent content on Adventure, Nature and Culture Tours in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Sep 2018 14:43:10 +0600</lastBuildDate>
@@ -30,21 +30,12 @@
     </item>
     
     <item>
-      <title>Active Adventures</title>
-      <link>/service/active-adventures/</link>
+      <title>Active Adventure Holidays in Northeast India</title>
+      <link>/service/active-adventuretours/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
-      <guid>/service/active-adventures/</guid>
+      <guid>/service/active-adventuretours/</guid>
       <description>We offer Active Adventure tours for the avid as well as novice, be it relaxed or a real test of determination and endurance.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh &amp; Assam: Monyul &amp; Brahmaputa Valley | CULTURAL JOURNEYS  </title>
-      <link>/culture/tawang-and-assam/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/culture/tawang-and-assam/</guid>
-      <description>Monyul and the Brahmaputra valley This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh.</description>
     </item>
     
     <item>
@@ -57,30 +48,12 @@
     </item>
     
     <item>
-      <title>Arunachal Pradesh (East): Watershed of the Brahmaputra | CYCLE TOUR</title>
-      <link>/cycling/easternarunachalcycletour/</link>
+      <title>Assam Family Holiday: Jewels of the Brahmaputra </title>
+      <link>/family/assam-family-holiday/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/cycling/easternarunachalcycletour/</guid>
-      <description>Birth of the Brahmaputra Valley This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) and Upper Assam takes you to the watershed of the mighty Brahmaputra River.</description>
-    </item>
-    
-    <item>
-      <title>Assam: Jewels of the Brahmaputra | FAMILY HOLIDAY </title>
-      <link>/family/assam-family-adventure/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/family/assam-family-adventure/</guid>
-      <description>Family exploration of the Brahmaputra Valley The setting for this family holiday is the lush Brahmaputra valley of Assam.</description>
-    </item>
-    
-    <item>
-      <title>Assam: Parks of the Brahmaputra Valley | WILDLIFE TOUR </title>
-      <link>/wildlife/sanctuaries-of-the-brahmaputra-valley/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/wildlife/sanctuaries-of-the-brahmaputra-valley/</guid>
-      <description>Jewels of the east Brahmaputra valley of Assam, is the geographical heart of northeastern India.</description>
+      <guid>/family/assam-family-holiday/</guid>
+      <description>Family Holiday in Assam: Jewels of the Brahmaputra Valley The setting for this family holiday is the lush Brahmaputra valley of Assam.</description>
     </item>
     
     <item>
@@ -102,12 +75,30 @@
     </item>
     
     <item>
-      <title>Assam: Tea, Wildlife &amp; Culture | MULTI ACTIVITY TOUR</title>
-      <link>/multiactivity/assam-tea-wildlife-culture/</link>
+      <title>Culture Tour of Arunachal Pradesh &amp; Assam: Monyul &amp; Brahmaputa Valley </title>
+      <link>/culture/culture-tour-western-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/multiactivity/assam-tea-wildlife-culture/</guid>
-      <description>Up close and personal in the Brahmaputra Valley This multi-activity tour takes us to the Brahmaputra valley of Assam.</description>
+      <guid>/culture/culture-tour-western-arunachal-pradesh/</guid>
+      <description>Culture Tour of Arunachal Pradesh &amp;amp; Assam: Monyul and the Brahmaputra valley This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh.</description>
+    </item>
+    
+    <item>
+      <title>Cycle tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra </title>
+      <link>/cycling/eastern-arunachal-pradesh-cycle-tour/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/cycling/eastern-arunachal-pradesh-cycle-tour/</guid>
+      <description>Cycle tour of Eastern Arunachal Pradesh: Birth of the Brahmaputra Valley This cycle tour of Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River.</description>
+    </item>
+    
+    <item>
+      <title>Eastern Arunachal Pradesh &amp; Upper Assam: Birth of the Brahmaputra | RIVER TRIP </title>
+      <link>/rivertrips/river-trip-brahmaputra/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/rivertrips/river-trip-brahmaputra/</guid>
+      <description>Birth of the Mighty Brahmaputra This river journey takes you to eastern Arunachal Pradesh and Upper Assam.</description>
     </item>
     
     <item>
@@ -120,15 +111,6 @@
     </item>
     
     <item>
-      <title>Meghalaya: Backroads of Meghalaya | MOTORCYCLE &amp; OVERLAND</title>
-      <link>/motorcycle/trans-meghalaya-moto/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/motorcycle/trans-meghalaya-moto/</guid>
-      <description>The abode of clouds explored Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya.</description>
-    </item>
-    
-    <item>
       <title>MEGHALAYA: Natures Amusement Park</title>
       <link>/meghalaya/natures-amusement-park-meghalaya/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -138,12 +120,39 @@
     </item>
     
     <item>
-      <title>Meghalaya: Walks in the clouds | WALKING HOLIDAY</title>
-      <link>/treks/meghalaya-walks-in-the-khasi-hills/</link>
+      <title>Multi-Activity Holiday in Assam: Tea, Wildlife &amp; Culture</title>
+      <link>/multiactivity/multiactivity-holiday-assam/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/treks/meghalaya-walks-in-the-khasi-hills/</guid>
-      <description>Explorations in the &amp;lsquo;Abode of Clouds&amp;rsquo; This Walking holiday takes you to beautiful Meghalaya, &amp;lsquo;The Abode of clouds’.</description>
+      <guid>/multiactivity/multiactivity-holiday-assam/</guid>
+      <description>Multi-Activity Holiday in Assam: The Brahmaputra Valley This multi-activity tour takes us to the Brahmaputra valley of Assam.</description>
+    </item>
+    
+    <item>
+      <title>Trans-Meghalaya Motorcycle &amp; Overland Tour: Backroads of Meghalaya</title>
+      <link>/motorcycle/trans-meghalaya-motorcycle-overland/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/motorcycle/trans-meghalaya-motorcycle-overland/</guid>
+      <description>Trans Meghalaya Motorcycle &amp;amp; Overland Tour: The abode of clouds explored Starting from Guwahati the capital of Assam, this motorcycle / overland tour takes you through little known secluded roads of Meghalaya.</description>
+    </item>
+    
+    <item>
+      <title>Walking Tour of Meghalaya: Walks in the clouds</title>
+      <link>/treks/walking-tour-meghalaya/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/treks/walking-tour-meghalaya/</guid>
+      <description>Walking Tour of Meghalaya: Explorations in the &amp;lsquo;Abode of Clouds&amp;rsquo; This Walking holiday takes you to beautiful Meghalaya, &amp;lsquo;The Abode of clouds’.</description>
+    </item>
+    
+    <item>
+      <title>Wildlife Tour of Assam: Parks of the Brahmaputra Valley </title>
+      <link>/wildlife/wildlife-tour-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/wildlife/wildlife-tour-assam/</guid>
+      <description>Wildlife Tour of Assam: Jewels of the east Brahmaputra valley of Assam, is the geographical heart of northeastern India.</description>
     </item>
     
     <item>
@@ -165,39 +174,12 @@
     </item>
     
     <item>
-      <title>Nature &amp; Culture</title>
-      <link>/service/wildlife-culture-copy/</link>
+      <title>Nature &amp; Culture tours of Northeast India</title>
+      <link>/service/wildlife-culture-tours/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
-      <guid>/service/wildlife-culture-copy/</guid>
+      <guid>/service/wildlife-culture-tours/</guid>
       <description>These 8 states lying in the Indo-Burmese and the Himalayan Bio-diversity hotspots are also home to over 150 unique and distinct ethinic groups.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (East): Theravada &amp; Animist lands | CULTURAL JOURNEYS</title>
-      <link>/culture/eastern-arunachal/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/culture/eastern-arunachal/</guid>
-      <description>Where the Hills meet the Brahmaputra valley We take you to one of the least known part of Northeast India.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (East): Walks in India&#39;s far east | WALKING HOLIDAY</title>
-      <link>/treks/walkers-tour-of-easternarunachal-pradesh/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/treks/walkers-tour-of-easternarunachal-pradesh/</guid>
-      <description>Walks in India&amp;rsquo;s far east Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (West): High roads of the Monyul | MOTORCYCLE &amp; OVERLAND</title>
-      <link>/motorcycle/western-arunachal-pradesh/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/motorcycle/western-arunachal-pradesh/</guid>
-      <description>Riding along the Bhutan and Tibetian borders This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas.</description>
     </item>
     
     <item>
@@ -219,6 +201,24 @@
     </item>
     
     <item>
+      <title>Cultural Tour of Eastern Arunachal Pradesh: Theravada &amp; Animist lands</title>
+      <link>/culture/culture-tour-eastern-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/culture/culture-tour-eastern-arunachal-pradesh/</guid>
+      <description>Cultural Tour of Eastern Arunachal Pradesh: Theravada &amp;amp; Animist lands We take you to one of the least known part of Northeast India.</description>
+    </item>
+    
+    <item>
+      <title>Cyle tour of Meghalaya: The Abode of clouds</title>
+      <link>/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/</guid>
+      <description>Cycle tour of Meghalaya: The hills and valleys of Khasi and Jaintia hills.</description>
+    </item>
+    
+    <item>
       <title>Eastern Arunachal Pradesh &amp; Upper Assam: Birth of the Brahmaputra | RIVER TRIP </title>
       <link>/departures/river-trip-brahmaputra/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -228,30 +228,12 @@
     </item>
     
     <item>
-      <title>Meghalaya: Hike, Bike &amp; Culture |  MULTI ACTIVITY TOUR</title>
-      <link>/multiactivity/meghalaya-hike-and-bike/</link>
+      <title>Family Holiday in Meghalaya: Natures Amusement Park</title>
+      <link>/family/family-holiday-in-meghalaya/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/multiactivity/meghalaya-hike-and-bike/</guid>
-      <description>Hike and bike in the land of the matriarchs This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya.</description>
-    </item>
-    
-    <item>
-      <title>Meghalaya: Natures Amusement Park | FAMILY HOLIDAY</title>
-      <link>/family/meghalaya-natures-amusement-park/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/family/meghalaya-natures-amusement-park/</guid>
-      <description>Family adventures in the Khasi &amp;amp; Jaintia hills This Adventure holiday for the family is set in hilly Meghalaya.</description>
-    </item>
-    
-    <item>
-      <title>Meghalaya: The Abode of clouds | CYCLE TOUR</title>
-      <link>/cycling/meghalaya-khasi-hills-cycle-tour/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/cycling/meghalaya-khasi-hills-cycle-tour/</guid>
-      <description>The Khasi and Jaintia hills explored on bicycles. This cycle tour takes you to picteresque Meghalaya.</description>
+      <guid>/family/family-holiday-in-meghalaya/</guid>
+      <description>Family adventure holiday in the Khasi &amp;amp; Jaintia hills of Meghalaya This Adventure holiday for the family is set in hilly Meghalaya.</description>
     </item>
     
     <item>
@@ -261,6 +243,33 @@
       
       <guid>/meghalaya/walks-in-the-clouds-meghalaya/</guid>
       <description>Explorations in the &amp;lsquo;Abode of Clouds&amp;rsquo; This Walking holiday takes you to beautiful Meghalaya, &amp;lsquo;The Abode of clouds’.</description>
+    </item>
+    
+    <item>
+      <title>Motorcycle &amp; Overland Tour of Western Arunachal Pradesh: High roads of the Monyul</title>
+      <link>/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/</guid>
+      <description>Motorcycle &amp;amp; Overland Tour of Western Arunachal Pradesh: Riding along the Bhutan and Tibetian borders This Motorcycle / Overland tour takes you to Western Arunachal Pradesh which includes some of the highest motorable roads of the eastern Himalayas.</description>
+    </item>
+    
+    <item>
+      <title>Multi-activity holiday in Meghalaya: Hike, Bike, Nature &amp; Culture</title>
+      <link>/multiactivity/multi-activity-holiday-in-meghalaya/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/multiactivity/multi-activity-holiday-in-meghalaya/</guid>
+      <description>Multi-Activity Holiday in Meghalaya: Land of the matriarchs This particular Multi-activity tour takes us on bicycles and on foot across the Khasi and Jaintia Hills of Meghalaya.</description>
+    </item>
+    
+    <item>
+      <title>Walking Holiday in Arunachal Pradesh (East): Walks in India&#39;s far east</title>
+      <link>/treks/walking-holiday-eastern-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/treks/walking-holiday-eastern-arunachal-pradesh/</guid>
+      <description>Walking Holiday in Eastern Arunachal Pradesh: Walks in India&amp;rsquo;s far east Arunachal Pradesh, ‘the dawn lit Mountains’ is the easternmost state of India.</description>
     </item>
     
     <item>
@@ -282,7 +291,7 @@
     </item>
     
     <item>
-      <title>Laidback Leisure</title>
+      <title>Laidback Leisure Tours in Northeast India</title>
       <link>/service/leisure/</link>
       <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
       
@@ -298,24 +307,6 @@
       <guid>/insights/permits/</guid>
       <description> Our Wildlife &amp;amp; Culture Tours
   Visa Special Permits  </description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (East): Hike, Bike, Raft &amp; Culture | MULTI ACTIVITY TOUR</title>
-      <link>/multiactivity/hikebike-and-raft-easternarunachal-pradesh/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/multiactivity/hikebike-and-raft-easternarunachal-pradesh/</guid>
-      <description>Birth of one of the greatest river valleys This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (East): India&#39;s far east | FAMILY HOLIDAY</title>
-      <link>/family/easternarunachal/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/family/easternarunachal/</guid>
-      <description>Far eastern explorations This active adventure holiday for the family is set in some of the only flatlands of Arunachal Pradesh.</description>
     </item>
     
     <item>
@@ -337,38 +328,38 @@
     </item>
     
     <item>
-      <title>Assam &amp; Arunachal Pradesh: Around the Brahmaputra | MOTORCYCLE &amp; OVERLAND</title>
-      <link>/motorcycle/assam-arunachal-pradesh/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/motorcycle/assam-arunachal-pradesh/</guid>
-      <description>Hills, Valleys, Forests, Rivers and Tribes Starting from central Assam we make our war east and north along the mighty Brahmaputra River.</description>
-    </item>
-    
-    <item>
-      <title>Assam &amp; Arunachal Pradesh: The Brahmaputra explorer | CYCLE TOUR</title>
-      <link>/cycling/assam-brahmaputra-valley-cycle-tour/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/cycling/assam-brahmaputra-valley-cycle-tour/</guid>
-      <description>Cycling the physical heart of Northeastern India This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
-    </item>
-    
-    <item>
-      <title>ASSAM &amp; ARUNACHAL PRADESH: The Brahmaputra Valley explorer</title>
-      <link>/assam/brahmaputra-valley-cycle-tour-assam/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/assam/brahmaputra-valley-cycle-tour-assam/</guid>
-      <description>Cycling the physical heart of Northeastern India This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
-    </item>
-    
-    <item>
       <title>ASSAM &amp; ARUNACHAL PRADESH: The Brahmaputra Valley explorer</title>
       <link>/bhutan/brahmaputra-valley-cycle-tour-assam/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
       <guid>/bhutan/brahmaputra-valley-cycle-tour-assam/</guid>
+      <description>Cycling the physical heart of Northeastern India This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
+    </item>
+    
+    <item>
+      <title>Culture Tour of Nagaland &amp; Assam: Hornbill Festival and beyond</title>
+      <link>/culture/cuclure-tour-of-nagaland-hornbill-festival/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/culture/cuclure-tour-of-nagaland-hornbill-festival/</guid>
+      <description>Culture Tour of Nagaland &amp;amp; Assam: Tribes &amp;amp; Wildlife, Nagaland &amp;amp; Assam This tour takes you to western Nagaland and central Assam.</description>
+    </item>
+    
+    <item>
+      <title>Cycle tour of Assam &amp; Arunachal Pradesh: The Brahmaputra explorer</title>
+      <link>/cycling/cycle-tour-of-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/cycling/cycle-tour-of-assam/</guid>
+      <description>Cycle tour of Assam &amp;amp; Arunachal Pradesh: Cycling the physical heart of Northeastern India This cycle tour takes you along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
+    </item>
+    
+    <item>
+      <title>CYCLING IN  ASSAM &amp; ARUNACHAL PRADESH: The Brahmaputra Valley explorer</title>
+      <link>/assam/brahmaputra-valley-cycle-tour-assam/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/assam/brahmaputra-valley-cycle-tour-assam/</guid>
       <description>Cycling the physical heart of Northeastern India This tour takes you cycling along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh.</description>
     </item>
     
@@ -382,6 +373,15 @@
     </item>
     
     <item>
+      <title>Family Holiday in Eastern Arunachal Pradesh: India&#39;s far east</title>
+      <link>/family/family-holiday-eastern-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/family/family-holiday-eastern-arunachal-pradesh/</guid>
+      <description>Family Holiday in Eastern Arunachal Pradesh: Far eastern explorations This active family holiday of Eastern Arunachal Pradesh is set in some of the only flatlands of the state lying at the foothills of the Mishmi Hills (Himalayas eastern flank).</description>
+    </item>
+    
+    <item>
       <title>MEGHALAYA: Hike and bike in the abode of clouds</title>
       <link>/meghalaya/hike-and-bike-meghalaya/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -391,12 +391,21 @@
     </item>
     
     <item>
-      <title>Nagaland &amp; Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS</title>
-      <link>/culture/hornbill/</link>
+      <title>Motorcycle &amp; Overland Tour of Assam &amp; Arunachal Pradesh: Around the Brahmaputra </title>
+      <link>/motorcycle/motorcycle-overland-assam-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/culture/hornbill/</guid>
-      <description>Tribes &amp;amp; Wildlife, Nagaland &amp;amp; Assam This tour takes you to western Nagaland and central Assam.</description>
+      <guid>/motorcycle/motorcycle-overland-assam-arunachal-pradesh/</guid>
+      <description>Motorcycle &amp;amp; Overland Tour of Assam and Arunachal Pradesh: Hills, Valleys, Forests, Rivers and Tribes Starting from central Assam we make our war east and north along the mighty Brahmaputra River.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft &amp; Culture</title>
+      <link>/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/</guid>
+      <description>Multi-activity tour of eastern Arunachal Pradesh: Birth of one of the greatest river valleys This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley.</description>
     </item>
     
     <item>
@@ -418,12 +427,12 @@
     </item>
     
     <item>
-      <title>Sikkim &amp; W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary | TREKKING HOLIDAY</title>
-      <link>/treks/singalila-and-barsey-trek/</link>
+      <title>Trekking in Sikkim &amp; W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary</title>
+      <link>/treks/trekking-in-sikkim-bengal/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/treks/singalila-and-barsey-trek/</guid>
-      <description>A Trek amongst the giants This trek takes you to the hills of Sikkim and North Bengal, a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains.</description>
+      <guid>/treks/trekking-in-sikkim-bengal/</guid>
+      <description>Trekking in Sikkim and W Bengal: A Trek amongst the giants This trek takes you to the hills of Sikkim and North Bengal, a mystical land of abundant natural beauty with verdant forests, quaint sub alpine villages and high towering mountains.</description>
     </item>
     
     <item>
@@ -445,39 +454,30 @@
     </item>
     
     <item>
-      <title>Arunachal Pradesh (West): Call of the Mountains | FAMILY HOLIDAY</title>
-      <link>/family/western-arunachal/</link>
+      <title>Culture Tour of Arunachal Pradesh: Tribes of the &#39;Dawn lit Mountains&#39;</title>
+      <link>/culture/culture-tour-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/family/western-arunachal/</guid>
-      <description>Family adventures in the gateway of Tibet On this family adventure we take you to Western Arunachal Pradesh, a region bordering Bhutan and Tibet.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (West): Hike, Bike &amp; Culture | MULTI ACTIVITY TOUR</title>
-      <link>/multiactivity/western-arunachal-multiactivity/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/multiactivity/western-arunachal-multiactivity/</guid>
-      <description>Active &amp;amp; Interactive in the High Himalayas This multi-activity tour is situated in Western Arunachal Pradesh, in the state&amp;rsquo;s Buddhist belt.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh (West): The high lakes trek | TREKKING HOLIDAY</title>
-      <link>/treks/high-lakes-trek-arunachal-pradesh/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/treks/high-lakes-trek-arunachal-pradesh/</guid>
-      <description>Ridge running along the Bhutanese frontier This particular trek is set in Western Arunachal Pradesh, in the states Buddhist belt close to the tri-junction between India, Tibet and Bhutan.</description>
-    </item>
-    
-    <item>
-      <title>Arunachal Pradesh: Tribes of the &#39;Dawn lit Mountains&#39; | CULTURAL JOURNEYS</title>
-      <link>/culture/tribes-of-arunachal/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/culture/tribes-of-arunachal/</guid>
+      <guid>/culture/culture-tour-arunachal-pradesh/</guid>
       <description>A cultural odyssey across Arunachal Pradesh. The origins of the tribes that are currently living in Arunachal Pradesh remain shrouded in mystery.</description>
+    </item>
+    
+    <item>
+      <title>Cycle Tour of Meghalaya: The Trans-Meghalaya Explorer</title>
+      <link>/cycling/trans-meghalaya-cycle-tour/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/cycling/trans-meghalaya-cycle-tour/</guid>
+      <description>Cycle Tour of Meghalaya: Cycling the Garo, Khasi and Jaintia hills The Trans Meghalaya cycling tour takes you across the three hill ranges of the state.</description>
+    </item>
+    
+    <item>
+      <title>Family Holiday in Arunachal Pradesh (West): Call of the Mountains</title>
+      <link>/family/family-holiday-western-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/family/family-holiday-western-arunachal-pradesh/</guid>
+      <description>Family Holiday in Western Arunachal Pradesh: Call of the mountains On this family adventure holiday we take you to Western Arunachal Pradesh, a region bordering Bhutan and Tibet.</description>
     </item>
     
     <item>
@@ -490,12 +490,21 @@
     </item>
     
     <item>
-      <title>Meghalaya: The Trans-Meghalaya Explorer | CYCLE TOUR</title>
-      <link>/cycling/trans-meghalaya-cycle-tour/</link>
+      <title>Multi-activity holiday in Western Arunachal Pradesh: Hike, Bike &amp; Culture </title>
+      <link>/multiactivity/western-arunachal-multiactivity-holiday/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/cycling/trans-meghalaya-cycle-tour/</guid>
-      <description>Cycling the Garo, Khasi and Jaintia hills The Trans Meghalaya cycling tour takes us across the three hill ranges of the state.</description>
+      <guid>/multiactivity/western-arunachal-multiactivity-holiday/</guid>
+      <description>Multi-activity holiday in western Arunachal Pradesh: Active &amp;amp; Interactive in the High Himalayas This multi-activity tour is situated in Western Arunachal Pradesh, in the state&amp;rsquo;s Buddhist belt.</description>
+    </item>
+    
+    <item>
+      <title>Trekking in Arunachal Pradesh (West): The high lakes trek</title>
+      <link>/treks/trekking-arunachal-pradesh/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/treks/trekking-arunachal-pradesh/</guid>
+      <description>Treking in Arunachal Pradesh: Ridge running along the Bhutanese frontier This particular trek is set in Western Arunachal Pradesh, in the states Buddhist belt close to the tri-junction between India, Tibet and Bhutan.</description>
     </item>
     
     <item>
@@ -535,15 +544,6 @@
     </item>
     
     <item>
-      <title>4 States North East India: The Eastern Arc | MOTORCYCLE &amp; OVERLAND </title>
-      <link>/motorcycle/4-states-moto-tour/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/motorcycle/4-states-moto-tour/</guid>
-      <description>The wildest of Northeast India This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya.</description>
-    </item>
-    
-    <item>
       <title>Arunachal Pradesh (East): Mishmi Hills Expedition | WILDLIFE TOUR </title>
       <link>/wildlife/dibang-valley/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
@@ -553,21 +553,12 @@
     </item>
     
     <item>
-      <title>Arunachal Pradesh (East): The Mishmi Hills Explorer | CYCLE TOUR </title>
-      <link>/cycling/arunachal-pradesh-mishmi-hills-cycle-tour/</link>
+      <title>Cycling in Eastern Arunachal Pradesh: The Mishmi Hills Explorer </title>
+      <link>/cycling/cycling-in-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/cycling/arunachal-pradesh-mishmi-hills-cycle-tour/</guid>
-      <description>Himalaya&amp;rsquo;s eastern flank on cycles The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts).</description>
-    </item>
-    
-    <item>
-      <title>Bhutan: The Thunder Dragon | MOTORCYCLE &amp; OVERLAND</title>
-      <link>/motorcycle/trans-bhutan/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/motorcycle/trans-bhutan/</guid>
-      <description>Gross national happiness experienced This trans-Bhutan motorcycle tour starts and ends in the Brahmaputra Valley of Assam.</description>
+      <guid>/cycling/cycling-in-arunachal-pradesh/</guid>
+      <description>Cycling in Eastern Arunachal Pradesh: Himalaya&amp;rsquo;s eastern flank The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts).</description>
     </item>
     
     <item>
@@ -589,6 +580,24 @@
     </item>
     
     <item>
+      <title>Motorcycle &amp; Overland Tour North East India: The Eastern Arc | 4 states</title>
+      <link>/motorcycle/motorcycle-overland-tour-of-ne-india/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/motorcycle/motorcycle-overland-tour-of-ne-india/</guid>
+      <description>Motorcyle &amp;amp; Overland Tour of Northeast India: The wildest of Northeast India This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya.</description>
+    </item>
+    
+    <item>
+      <title>Trans-Bhutan Motorcycle &amp; Overland Tour: The Thunder Dragon</title>
+      <link>/motorcycle/trans-bhutan-motorcycle-overland-tour/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>/motorcycle/trans-bhutan-motorcycle-overland-tour/</guid>
+      <description>Trans-Bhutan Motorcycle &amp;amp; Overland Tour: Gross national happiness experienced This trans-Bhutan motorcycle tour starts and ends in the Brahmaputra Valley of Assam.</description>
+    </item>
+    
+    <item>
       <title>Nongrum KD</title>
       <link>/team/nongrum-kd/</link>
       <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
@@ -607,12 +616,12 @@
     </item>
     
     <item>
-      <title>Sikkim &amp; W Bengal: Monastic Trail | CYCLE TOUR</title>
-      <link>/cycling/sikkim-cycling-the-monastic-trail/</link>
+      <title>Cycle Tour of Sikkim &amp; W Bengal: The Monastic Trail</title>
+      <link>/cycling/cycle-tour-of-sikkim/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/cycling/sikkim-cycling-the-monastic-trail/</guid>
-      <description>Of Mountains and Monastries This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal.</description>
+      <guid>/cycling/cycle-tour-of-sikkim/</guid>
+      <description>Cycle Tour of Sikkim &amp;amp; W Bengal: Of Mountains and Monastries This cycling tour of Sikkim and West Bengal takes us through East, South and Western districts of Sikkim and the Darjeeling district of West Bengal.</description>
     </item>
     
     <item>
@@ -652,12 +661,12 @@
     </item>
     
     <item>
-      <title>Arunachal Pradesh (West): The Himalayan High | CYCLE TOUR</title>
-      <link>/cycling/arunachal-pradesh-cycling-to-tawang/</link>
+      <title>Cycle tour of Western Arunachal Pradesh: The Himalayan High</title>
+      <link>/cycling/cycle-tour-of-western-arunachal-pradesh/</link>
       <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
       
-      <guid>/cycling/arunachal-pradesh-cycling-to-tawang/</guid>
-      <description>Retracing the Dalai Lama&amp;rsquo;s exodus from Tibet This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang, lying close to the trijuncture of India, Bhutan and Tibet.</description>
+      <guid>/cycling/cycle-tour-of-western-arunachal-pradesh/</guid>
+      <description>Cycle Tour of Western Arunachal Pradesh: The Himalayan High This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang, lying close to the trijuncture of India, Bhutan and Tibet.</description>
     </item>
     
     <item>
