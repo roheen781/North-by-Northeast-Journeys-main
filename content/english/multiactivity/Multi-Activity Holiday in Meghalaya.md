@@ -1,7 +1,7 @@
 ---
 title: "Multi-activity holiday in Meghalaya: Hike, Bike, Nature & Culture"
 date: 2018-09-24T14:48:03+06:00
-description : "Multi activity holiday in Meghalaya 'The Abode of Clouds'"
+description : "Multi activity holiday in Meghalaya 'The Abode of Clouds. A hike and bike adventure'"
 bg_image: images/background/multiactivity/Meghalaya Multiactivity tour main.jpg
 image : images/background/multiactivity/Meghalaya multiactivity tour.jpg
 live_demo : 
