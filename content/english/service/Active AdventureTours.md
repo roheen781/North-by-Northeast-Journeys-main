@@ -1,5 +1,5 @@
 ---
-title: "Active Adventure Holidays in Northeast India"
+title: "Active Adventure Holidays in Northeast India | North by Northeast Journeys"
 date: 2018-09-29T11:54:02+06:00
 description : "Active adventure holidays across Northeast India. Cycling, Trekking, Overland River trips and more."
 image: images/service/adventure.jpg
