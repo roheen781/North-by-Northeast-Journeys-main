@@ -1,8 +1,8 @@
 ---
-title: "Treks & Walks in Northeast India"
+title: "Treks & Walks in Northeast India | NORTH BY NORTHEAST JOURNEYS"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/treks/treks and walks in northeast india.jpg
-description : "Treks & Walks across the beautiful northeastern region of India. From the high eastern Himalayas to the lesser hill ranges of the regions."
+description : "Treks & Walks across the beautiful northeastern region of India. From the high eastern Himalayas to the lesser hill ranges of Northeast India."
 ---
 
 ## Treks and Walks across Northeastern India
