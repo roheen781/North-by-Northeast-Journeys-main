@@ -18,6 +18,6 @@ Perhaps the same reason that makes this region so rich in its natural diversity 
 
 [![What is this](/images/service/culture.jpg)](/culture/)
 [![What is this](/images/service/wildlife.jpg)](/wildlife/)
-[![What is this](/images/service/wildflowers.jpg)](/wildflowertrails/)
+
 
 
