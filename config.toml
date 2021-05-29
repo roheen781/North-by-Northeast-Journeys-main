@@ -153,11 +153,6 @@ disableLanguages = [] # desable language from here
     URL = "sikkim"
     weight = 5
 
-     [[menu.main]]
-    parent = "Destinations"
-    name = "Bhutan"
-    URL = "bhutan"
-    weight = 6
 
      
 
