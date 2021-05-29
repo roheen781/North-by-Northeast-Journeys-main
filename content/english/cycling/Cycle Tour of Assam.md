@@ -1,7 +1,7 @@
 ---
 title: "Cycle tour of Assam & Arunachal Pradesh: The Brahmaputra explorer"
 date: 2018-09-24T14:48:03+06:00
-description : "This Cycle Tour takes you to the Brahmaputra valley of Assam & Arunachal Pradesh"
+description : "This Cycle Tour takes you around the Brahmaputra valley of Assam & Arunachal Pradesh"
 bg_image: images/background/cycling/Assam Cycle Tour.jpg
 image : images/background/cycling/Cycle Tour of Assam and Arunachal Pradesh.jpg
 live_demo : 
