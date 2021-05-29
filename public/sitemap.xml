@@ -1,579 +1,774 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/team/roheenbe/</loc>
-    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/accomodation/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/service/active-adventuretours/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/departures/namdapha-trek/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/assam-family-holiday/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/sanctuaries-of-the-brahmaputra-valley-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bhutan/sanctuaries-of-the-brahmaputra-valley-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/culture-tour-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/eastern-arunachal-pradesh-cycle-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/rivertrips/river-trip-brahmaputra/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/family-adventure-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/natures-amusement-park-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/multiactivity/multiactivity-holiday-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/trans-meghalaya-motorcycle-overland/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/walking-tour-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wildlife/wildlife-tour-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/vasanth/</loc>
-    <lastmod>2018-09-29T14:42:51+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/food/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/service/wildlife-culture-tours/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/family-adventure-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bhutan/family-adventure-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/culture-tour-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/departures/river-trip-brahmaputra/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/family-holiday-in-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/walks-in-the-clouds-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/multiactivity/multi-activity-holiday-in-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/walking-holiday-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/family-adventure-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/manjit/</loc>
-    <lastmod>2018-09-29T14:42:31+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/service/leisure/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/permits/</loc>
-    <lastmod>2018-09-29T11:51:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/motorcycle-assam-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bhutan/motorcycle-assam-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bhutan/brahmaputra-valley-cycle-tour-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/cuclure-tour-of-nagaland-hornbill-festival/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/cycle-tour-of-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/brahmaputra-valley-cycle-tour-assam/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/walkers-tour-of-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/family-holiday-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/hike-and-bike-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/motorcycle-overland-assam-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nagaland/hornbill/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sikkim/singalila-and-barsey-trek/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/trekking-in-sikkim-bengal/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/iho/</loc>
-    <lastmod>2018-09-29T14:42:07+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/roads/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/culture-tour-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/trans-meghalaya-cycle-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/family-holiday-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/khasi-hills-cycle-tour-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/multiactivity/western-arunachal-multiactivity-holiday/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/trekking-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/high-lakes-trek-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/joho/</loc>
-    <lastmod>2018-09-29T14:41:38+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/safety/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nagaland/4-states-moto-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wildlife/dibang-valley/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/cycling-in-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/hikebike-and-raft-eastern-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/trans-meghalaya-cycle-tour-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/motorcycle-overland-tour-of-ne-india/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/trans-bhutan-motorcycle-overland-tour/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/nongrum-kd/</loc>
-    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/guides/</loc>
-    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/cycle-tour-of-sikkim/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sikkim/sikkim-cycling-the-monastic-trail/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/motorcycle-trans-meghalaya/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/multiactivity-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/ahonda/</loc>
-    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/cycle-tour-of-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/easternarunachalcycletour-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/jaantu/</loc>
-    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/mishmi-hills-cycle-tour-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/bora-da/</loc>
-    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/cycling-to-tawang-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/moto-assam-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/motorcycle-western-arunachal-pradesh/</loc>
-    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/adventure/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/multi-activity/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/hike-bikeculture-meghalaya/</loc>
-    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/cycle-tour-eastern-arunachal/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/cycle-tour-meghalaya/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/cycling/</loc>
-    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/motorcycle/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/motorcycle-tour-w-arunachal-copy/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/service/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bhutan/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cycling/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/culture/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/family/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/arunachalpradesh/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/assam/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/insights/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/meghalaya/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/motorcycle/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/multiactivity/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/nagaland/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/rivertrips/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/youth/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/sikkim/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/departures/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/treks/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wildflowertrails/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/wildlife/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/hikebike-raft-in-eastern-arunachal-pradesh/</loc>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.nnejourneys.com/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/treks/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/multiactivity/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/family/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/culture/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/wildlife/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/rivertrips/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/wildflowertrails/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/youth/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/nagaland/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/sikkim/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/departures/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/about/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/contact/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/pricing/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/service/active-adventuretours/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/service/wildlife-culture-tours/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/service/leisure/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/departures/namdapha-trek/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/family/assam-family-holiday/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/culture/culture-tour-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/eastern-arunachal-pradesh-cycle-tour/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/rivertrips/river-trip-brahmaputra/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/multiactivity/multiactivity-holiday-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/trans-meghalaya-motorcycle-overland/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/treks/walking-tour-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/wildlife/wildlife-tour-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/culture/culture-tour-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/departures/river-trip-brahmaputra/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/family/family-holiday-in-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/multiactivity/multi-activity-holiday-in-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/treks/walking-holiday-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/culture/cuclure-tour-of-nagaland-hornbill-festival/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/cycle-tour-of-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/family/family-holiday-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/motorcycle-overland-assam-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/treks/trekking-in-sikkim-bengal/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/culture/culture-tour-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/trans-meghalaya-cycle-tour/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/family/family-holiday-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/multiactivity/western-arunachal-multiactivity-holiday/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/treks/trekking-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/wildlife/dibang-valley/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/cycling-in-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/motorcycle-overland-tour-of-ne-india/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/motorcycle/trans-bhutan-motorcycle-overland-tour/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/cycle-tour-of-sikkim/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/cycling/cycle-tour-of-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/assam/sanctuaries-of-the-brahmaputra-valley-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/assam/family-adventure-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/assam/motorcycle-assam-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/assam/brahmaputra-valley-cycle-tour-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/natures-amusement-park-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/walks-in-the-clouds-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/hike-and-bike-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/khasi-hills-cycle-tour-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/trans-meghalaya-cycle-tour-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/meghalaya/motorcycle-trans-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/family-adventure-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/family-adventure-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/walkers-tour-of-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/high-lakes-trek-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/hikebike-and-raft-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/multiactivity-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/easternarunachalcycletour-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/mishmi-hills-cycle-tour-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/cycling-to-tawang-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/moto-assam-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/arunachalpradesh/motorcycle-western-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/nagaland/hornbill/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/nagaland/4-states-moto-tour/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/sikkim/singalila-and-barsey-trek/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/sikkim/page/2/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/categories/cycling/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/categories/motorcycle/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/categories/multi-activity/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/blog/hike-bikeculture-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/blog/cycle-tour-eastern-arunachal/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/blog/cycle-tour-meghalaya/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/tags/adventure/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/sanctuaries-of-the-brahmaputra-valley-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/page/2/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/page/3/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/page/4/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/roheenbe/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/vasanth/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/manjit/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/iho/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/joho/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/nongrum-kd/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/ahonda/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/jaantu/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/team/bora-da/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/accomodation/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/food/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/permits/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/roads/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/safety/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/insights/guides/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/service/active-adventures/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/service/wildlife-culture-copy/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/sikkim/sikkim-cycling-the-monastic-trail/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/categories/cycling/page/2/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/blog/motorcycle-tour-w-arunachal-copy/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/categories/multi-activity/page/2/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/author/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/tags/adventure/page/2/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/tags/adventure/page/3/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/tags/adventure/page/4/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/tags/adventure/page/5/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/family-adventure-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/motorcycle-assam-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/bhutan/brahmaputra-valley-cycle-tour-assam/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/blog/hikebike-raft-in-eastern-arunachal-pradesh/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/author/john-doe/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.nnejourneys.com/author/mark-dinn/</loc>
+  <lastmod>2021-05-29T09:30:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
