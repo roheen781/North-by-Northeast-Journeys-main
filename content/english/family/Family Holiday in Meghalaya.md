@@ -1,5 +1,5 @@
 ---
-title: "Family Holiday in Meghalaya: Natures Amusement Park"
+title: "Family Adventure Holiday in Meghalaya: Natures Amusement Park"
 date: 2018-09-24T14:48:03+06:00
 description : "Family adventure holiday in Meghalaya. An active adventure holiday for the entire family in prestine Meghalaya"
 bg_image: images/background/family/Meghalaya Family Holiday main.jpg

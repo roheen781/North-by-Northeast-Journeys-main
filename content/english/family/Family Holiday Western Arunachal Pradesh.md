@@ -1,5 +1,5 @@
 ---
-title: "Family Holiday in Arunachal Pradesh (West): Call of the Mountains"
+title: "Family Holiday in Western Arunachal Pradesh: Call of the Mountains"
 date: 2018-09-24T14:48:03+06:00
 description : "This family adventure holiday in Western Arunachal Pradesh takes you to the region bordering Bhutan and Tibet."
 bg_image: images/background/family/Western Arunachal family holiday main.jpg
