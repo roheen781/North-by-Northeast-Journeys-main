@@ -106,7 +106,7 @@ disableLanguages = [] # desable language from here
 
     [[menu.main]]
     parent = "Activities"
-    name = "Wild Flower Trails"
+    name = ""
     URL = "wildflowertrails"
     weight = 9
 
