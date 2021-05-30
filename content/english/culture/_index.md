@@ -1,8 +1,8 @@
 ---
-title: "Ethno-Cultural Tours of Northeast India: A cauldron of cultures"
+title: "Ethno-Cultural Tours of Northeast India | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/culture/Culture tours of northeast india.jpg
-description : " Culture tours of Northeast India, land of the tribes"
+description : " Culture tours of Northeast India, land of the tribes. This region is home to some of the densest cultural, ethenic and lingual "
 ---
 
 ## Ethno-Cultural Immersions across Northeastern India
