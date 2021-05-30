@@ -1,7 +1,7 @@
 ---
 title: "Cycle Tour of Sikkim & W Bengal: The Monastic Trail"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour takes you through the best of Sikkim and Bengal"
+description : "Cycle tour takes you through the best of Sikkim and West Bengal"
 bg_image: images/background/cycling/Sikkim cycle tour main.jpg
 image : images/background/cycling/Sikkim cycle tour.jpg
 live_demo : 
