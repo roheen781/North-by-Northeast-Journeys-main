@@ -142,6 +142,6 @@ We have a very experienced team which is also local. This reflects in the overal
 | [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) | 
 [**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) | 
 [**Eastern Arunachal Pradesh** (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) |
-[**Assam & Arunachal Pradesh** (The Brahmaputra Explorer)](/cycling/cycle-tour-of-assam/) |
+[**Meghalaya** (Trans-Meghalaya)](/cycling/cycle-tour-of-assam/) |
 [**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
 
