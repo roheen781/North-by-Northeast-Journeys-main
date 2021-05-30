@@ -102,19 +102,12 @@ disableLanguages = [] # desable language from here
     name = "River Journeys"
     URL = "rivertrips"
     weight = 8
-   
-
-    [[menu.main]]
-    parent = "Activities"
-    name = ""
-    URL = "wildflowertrails"
-    weight = 9
 
     [[menu.main]]
     parent = "Activities"
     name = "Youth Travels"
     URL = "youth"
-    weight = 10
+    weight = 9
 
     
 
