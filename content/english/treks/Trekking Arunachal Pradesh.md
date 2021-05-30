@@ -1,5 +1,5 @@
 ---
-title: "Trekking in Arunachal Pradesh (West): The high lakes trek"
+title: "Trekking in Western Arunachal Pradesh: The high lakes trek"
 date: 2018-09-24T14:48:03+06:00
 description : "Trekking holiday in western Arunachal Pradesh. This high altitude trek takes you walking along the Bhutanese border between prestine high altitude lakes"
 bg_image: images/background/treks/western arunachal pradesh trek main.jpg

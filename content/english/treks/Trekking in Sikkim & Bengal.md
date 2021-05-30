@@ -1,7 +1,7 @@
 ---
 title: "Trekking in Sikkim & W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary"
 date: 2018-09-24T14:48:03+06:00
-description : "Singalila Ride and Barsey Rhododendron Sanctuary trek: Sikkim & W Bengal"
+description : "A trek along the Indo-Nepalese border in the states of Sikkim and West Bengal.This trek takes you to the Singalila Ridge and Barsey Rhododendron Sanctuary"
 bg_image: images/background/treks/Goechalatrek.jpg
 image : images/background/treks/Singalila and Barsey Trek.jpg
 live_demo : 

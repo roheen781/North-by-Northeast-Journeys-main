@@ -1,7 +1,7 @@
 ---
-title: "Walking Holiday in Arunachal Pradesh (East): Walks in India's far east"
+title: "Walking Holiday in Eastern Arunachal Pradesh: Walks in India's far east"
 date: 2018-09-24T14:48:03+06:00
-description : "Walking holiday in Eastern Arunachal Pradesh"
+description : "Walking holiday in Eastern Arunachal Pradesh. Tribes, Wildlife Parks, Culture, Cuisine and more to be explored in this walking holiday."
 bg_image: images/background/treks/walks in eastern arunachal pradesh.jpg
 image : images/background/treks/Walking tour of eastern Arunachal Pradesh.jpg
 live_demo : 
