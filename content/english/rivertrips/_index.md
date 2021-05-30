@@ -1,5 +1,5 @@
 ---
-title: "River Trips in Northeast India | NORTH BY NORTHEAST JOURNEYS"
+title: "River Trips in Northeast India | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/rivertrips/riverjourneys in northeast india.jpg
 description : "River trips in Northeast India. We offer exciting river journeys for the novice to the avid."

@@ -1,5 +1,5 @@
 ---
-title: "School Trips & Youth Expeditions in Northeast India"
+title: "School Trips & Youth Expeditions in Northeast India North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/youth/youth travel main.jpg
 description : "Cycling holidays across the beautiful northeastern region of India"

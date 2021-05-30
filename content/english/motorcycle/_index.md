@@ -1,5 +1,5 @@
 ---
-title: "Motorcycle & Overland Tours in Northeast India | NORTH BY NORTHEAST JOURNEYS"
+title: "Motorcycle & Overland Tours in Northeast India | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/motorcycle/Motorcycle and Overland tours of northeast india.jpg
 description : "Motorcycle & Overland tours across Northeast India and the Eastern Himalayas. Our motorcycle & overland tours take you on some of the most interior and remote parts of northeast India"

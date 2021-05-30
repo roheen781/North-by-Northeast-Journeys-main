@@ -1,5 +1,5 @@
 ---
-title: "Wildlife Holidays in Northeast India"
+title: "Wildlife Holidays in Northeast India | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/wildlife/wildlife main.jpg
 description : "Wildlife Holidays in the northeastern region of India"
