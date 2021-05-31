@@ -7,7 +7,7 @@ image : images/background/treks/Singalila and Barsey Trek.jpg
 live_demo : 
 case_study :
 category: Moderate to Strenuous
-Weight: 3
+Weight: 4
 
 # overview
 overview:
@@ -129,5 +129,10 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[Back to TREKS & WALKS    ](/treks/) | [INSIGHTS](/insights/)**
+##### Other Treks & Walks
+
+[**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
+| [**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) | 
+[**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/) | 
+[**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/)
  
