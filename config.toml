@@ -189,8 +189,6 @@ disableLanguages = [] # desable language from here
     weight = 4
   
    
-  
-  
   [[menu.main]]
   name = "Contact"
   URL = "contact"
@@ -253,7 +251,7 @@ preloader = "images/preloader.gif"
 icon = "ti-mobile"
 
   [[params.contacts.contact]]
-  contact_item = "+91 99404 16065"
+  contact_item = "+91 99404 16065 / 84861 83666"
 
   [[params.contacts.contact]]
   contact_item = ""
