@@ -4,8 +4,8 @@
 <section class="about section-sm overlay" style="background-image: url('{{ .bg_image | absURL }}');">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-6 ml-auto">
-				<div class="rounded p-sm-5 px-3 py-5 bg-secondary">
+			<div class="col-lg-7 ml-auto">
+				<div class="rounded p-sm-3 px-2 py-4 bg-secondary">
 					<h3 class="section-title section-title-border-half text-white">{{ .title | markdownify }}</h3>
 					<p class="text-white mb-40">{{ .content | markdownify }}</p>
 					<ul class="list-unstyled" style="columns: 2;">
@@ -15,7 +15,7 @@
 					</ul>
 					{{ if .button.enable }}
 					{{ with .button }}
-					<a href="{{ .link | relLangURL }}" class="btn btn-primary mt-4">{{ .label }}</a>
+					<a href="{{ .link | relLangURL }}" class="btn btn-primary mt-3">{{ .label }}</a>
 					{{ end }}
 					{{ end }}
 				</div>

@@ -8,11 +8,11 @@
 				<h5 class="section-title-sm">{{ .subtitle | markdownify }}</h5>
 				<h2 class="section-title section-title-border"> {{ .title | markdownify }} </h2>
 			</div>
-			<div class="col-lg-5 col-md-5 pr-0 align-self-center">
+			<div class="col-lg-6 col-md-3 pr-0 align-self-center">
 				<img class="img-fluid w-100" src="{{ .image | absURL }}" alt="clients-image">
 			</div>
-			<div class="col-lg-7 col-md-7 align-self-center pl-0">
-				<div class="testimonial-slider p-5">
+			<div class="col-lg-6 col-md-3 align-self-center pl-0">
+				<div class="testimonial-slider p-4">
 					{{ "<!-- slider item -->" | safeHTML }}
 					{{ range .testimonial_item }}
 					<div>

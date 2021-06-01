@@ -11,9 +11,9 @@
       <div class="col-lg-6">
         <p class="mb-40">{{ .content | markdownify }}</p>
         {{ "<!-- accordion -->" | safeHTML }}
-        <div id="accordion" class="mb-md-50">
+        <div id="accordion" class="mb-md-40">
           {{ range $index, $element := .accordion }}
-          <div class="card border-0 mb-4">
+          <div class="card border-0 mb-1">
             <div class="card-header bg-gray border p-0">
               <a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#collapse{{ add $index 1 }}">
                 <i class="{{if eq $index 0}}ti-minus{{else}}ti-plus{{end}} text-primary mr-2"></i> {{ .title }}
