@@ -8,14 +8,14 @@
 		<div class="row">
 			<aside class="col-lg-4 order-lg-1 order-2">
 				{{ "<!-- Overview-->" | safeHTML }}
-				<div class="p-4 rounded border mb-50">
+				<div class="p-3 rounded border mb-50">
 					<h4 class="text-color mb-20">{{ i18n "overview" }}</h4>
-					<ul class="pl-0 mb-20">
+					<ul class="pl-0 mb-10">
 						{{ range .Params.Overview }}
-						<div class="py-3 border-bottom-not-last">
+						<div class="py-2 border-bottom-not-last">
 							<p class="d-inline-block font-primary m-0">
 							  <i class="mr-2 {{ .icon }}"></i>{{ .label }}</p>
-							<span class="font-weight-bold text-dark float-right">{{ .data }}</span>
+							<span class="font-weight-normal text-dark float-right">{{ .data }}</span>
 						  </div>
 						  {{ end }}
 					</ul>
