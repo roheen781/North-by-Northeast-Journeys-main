@@ -188,20 +188,8 @@ disableLanguages = [] # desable language from here
     URL = "insights"
     weight = 4
   
-  [[menu.main]]
-  name = ""
-  URL = "about"
-  weight = 4
    
-  [[menu.main]]
-  name = ""
-  URL = "team"
-  weight = 5
   
-  [[menu.main]]
-  name = ""
-  URL = "pricing"
-  weight = 56
   
   [[menu.main]]
   name = "Contact"
@@ -252,6 +240,7 @@ google_analitycs_id = "UA-180443036-1"
 [params.nav_button]
 enable = true
 link = "contact"
+
 
 
 # preloader
