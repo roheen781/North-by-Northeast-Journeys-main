@@ -10,12 +10,12 @@
 					<p class="text-white mb-40">{{ .content | markdownify }}</p>
 					<ul class="list-unstyled" style="columns: 2;">
 						{{ range .bullet_point }}
-						<li class="font-secondary mb-10 text-white"><i class="text-primary mr-2 ti-arrow-circle-right"></i>{{ . }}</li>
+						<li class="font-secondary mb-8 text-white"><i class="text-primary mr-2 ti-arrow-circle-right"></i>{{ . }}</li>
 						{{ end }}
 					</ul>
 					{{ if .button.enable }}
 					{{ with .button }}
-					<a href="{{ .link | relLangURL }}" class="btn btn-primary mt-3">{{ .label }}</a>
+					<a href="{{ .link | relLangURL }}" class="btn btn-primary mt-2">{{ .label }}</a>
 					{{ end }}
 					{{ end }}
 				</div>

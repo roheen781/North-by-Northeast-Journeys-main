@@ -7,11 +7,11 @@
 	<div class="container">
 		<div class="row">
 			{{ "<!-- sidebar -->" | safeHTML }}
-			<aside class="col-lg-4 order-lg-1 order-2">
-				<ul class="service-menu pl-0 border rounded mb-50 overflow-hidden">
+			<aside class="col-lg-4 order-lg-2 order-2">
+				<ul class="service-menu pl-0 border rounded mb-40 overflow-hidden">
 					{{ range (where .Site.RegularPages "Type" "service")}}
 					<li class="border-bottom-not-last">
-						<a class="d-block font-primary text-dark p-4" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+						<a class="d-block font-primary text-dark p-3" href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
 					</li>
 					{{ end }}
 				</ul>
@@ -80,7 +80,7 @@
 			</aside>
 			{{ "<!-- service single content -->" | safeHTML }}
 			<div class="col-lg-8 order-lg-2 order-1">
-				<img class="img-fluid w-100 mb-60 rounded-top" src="{{ .Params.Image | absURL }}" alt="service">
+				<img class="img-fluid w-100 mb-40 rounded-top" src="{{ .Params.Image | absURL }}" alt="service">
 				<div class="post-content">
 					{{ .Content }}
 				</div>
