@@ -144,9 +144,10 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Cycle Tours
 
-[**Assam & Arunachal Pradesh** (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) | [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) |
-[**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) | 
-[**Eastern Arunachal Pradesh** (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) |
-[**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) |
-[**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
+###### [**Assam & Arunachal Pradesh** (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) 
+###### [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) 
+###### [**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/)  
+###### [**Eastern Arunachal Pradesh** (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
+###### [**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
+###### [**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
 

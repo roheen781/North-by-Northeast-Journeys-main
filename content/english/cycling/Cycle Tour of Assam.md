@@ -99,7 +99,7 @@ The Tour is flexible and will be designed around the duration you have in hand.
 > Activities as mentioned in the itinerary
 > All permits
 ```
-###### ACCOMMODATION AND MEALS ON THIS TOUR
+###### ACCOMMODATION
 
 ```
  > Accommodation: Tea bungalows, Safari Lodges, Eco Cottages & Camping
@@ -138,11 +138,11 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 ##### Other Cycle Tours
-
-[**Meghalaya** (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-| [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) | 
-[**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) | 
-[**Eastern Arunachal Pradesh** (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) |
-[**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) |
-[**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
+``
+###### [**Meghalaya** (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
+###### [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
+###### [**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/)  
+###### [**Eastern Arunachal Pradesh** (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
+###### [**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
+###### [**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
 

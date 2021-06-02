@@ -5,9 +5,14 @@ bg_image: images/North by Northeast Journeys Tours.jpg
 description : "North by Northeast Journeys. Cycling, Trekking, Motorcycling, Overlanding, Multi-Activity, Culture and Wildlife Tours of Northeast India"
 ---
 
-###### OVERVIEW
+##### SITEMAP
+
+###### [About Us](/about/)
+###### [Team](/team/)
+###### [Insights](/insights/)
+###### [About Us](/about/)
 ```
-. Level: Moderate to Strenuous
+. [**Meghalaya** (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
 . Total Days: 12 to 15
 . Riding Distance: 6Upto 2000 Km
 . Terrain: 50% Mountanious
