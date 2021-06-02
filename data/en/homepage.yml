@@ -126,11 +126,12 @@ mission:
 
 ##################################### Promo video ####################################
 promo_video:
-  enable : false
-  title : "Active, Interactive, Authentic Journeys"
-  bg_image : "images/vidpic.jpg"
-  video_URL : "https://www.youtube.com/watch?v=AV5-Chp6p14&t=5s&ab_channel=NorthBynortheast"
-  video_title : ""
+  enable : true
+
+  title : "Travel with locals"
+  bg_image : "images/mow.jpg"
+  video_URL : "https://www.youtube.com/watch?v=Si-JjDGr1os&t=13s"
+  video_title : "Authentic adventures, insights and experiences"
 
 
 ##################################### call to action #################################
