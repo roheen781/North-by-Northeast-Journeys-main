@@ -126,4 +126,4 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Family Tours
 
-**[Meghalaya  ](/family/family-holiday-in-meghalaya/) | [Assam](/family/assam-family-holiday/) | [Eastern Arunachal Pradesh](/family/family-holiday-eastern-arunachal-pradesh/)**
+[**Meghalaya** (Natures Amusement Park)](/family/family-holiday-in-meghalaya/) | [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/)  | [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/)
