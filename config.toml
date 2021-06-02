@@ -209,7 +209,7 @@ disableLanguages = [] # desable language from here
   
   [[menu.footer]]
   name = "Sitemap"
-  URL = "#"
+  URL = "sitemap"
   weight = 3
   
 
