@@ -135,7 +135,7 @@ promo_video:
 
 ##################################### call to action #################################
 cta:
-  enable : false
+  enable : true
   bg_image : "images/CTA.jpg"
   title : ""
   button:

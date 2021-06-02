@@ -2,8 +2,10 @@
   translation: Enquire
 - id: service_title
   translation: Adventure, Nature & Culture Tours in Northeast India
-- id: project_title
+- id: project_subtitle
   translation: Our Tours
+- id: project_title
+  translation: Active, Interactive & Authentic travel across the 7 sisters
 - id: blog_subtitle
   translation: Upcoming Trips
 - id: blog_title
@@ -15,7 +17,7 @@
 - id: contact_us
   translation: Contact Us
 - id: contact_form
-  translation: Contact Form
+  translation: Get in touch
 - id: submit
   translation: Submit
 - id: buy_now
@@ -37,8 +39,7 @@
 
 - id: case_study
   translation: Tour Brochure
-- id: free_consultation
-  translation: Enquire
+
 - id: all
   translation: All
 - id: share

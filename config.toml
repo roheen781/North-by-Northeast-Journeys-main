@@ -198,24 +198,21 @@ disableLanguages = [] # desable language from here
 
   # footer menu
   [[menu.footer]]
-  name = "Legal"
+  name = "Responsible Tourism"
   URL = "#"
   weight = 1
   
   [[menu.footer]]
-  name = "Sitemap"
+  name = "Terms & Conditions"
   URL = "#"
   weight = 2
   
   [[menu.footer]]
-  name = "Privacy Policy"
+  name = "Sitemap"
   URL = "#"
   weight = 3
   
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "#"
-  weight = 4
+
 
 
 ########################### default parameters #################################
@@ -348,7 +345,7 @@ link = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
 
   
   # copyright
-  copyright = "Copyright&copy; 20120 ,  North by Northeast Journeys" 
+  copyright = "Copyright&copy; 2019 ,  North by Northeast Journeys" 
 
 
 
