@@ -6,7 +6,7 @@ bg_image: images/background/motorcycle/Motorcycle Tour of Assam and Arunachal Pr
 image : images/background/motorcycle/Assam Arunachal Pradesh mototrcycle tour.jpg
 live_demo : 
 case_study : 
-category: Strenous
+category: Moderate to Strenous
 Weight: 3
 
 # overview
@@ -17,7 +17,7 @@ overview:
 
   - label : LEVEL
     icon : ti-dashboard
-    data : Strenous
+    data : Moderate to Strenous
     
   - label : DURATION
     icon : ti-flag-alt
@@ -56,7 +56,7 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 
 ###### OVERVIEW
 ```
-. Level: Strenuous
+. Level: Moderate to Strenuous
 . Total Days: 12 to 15
 . Riding Distance: 6Upto 2000 Km
 . Terrain: 50% Mountanious
@@ -132,4 +132,9 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[Back to MOTORCYCLE & OVERLAND  ](/motorcycle/) | [INSIGHTS](/insights/)**
+##### Other Motorcycle & Overland Tours
+
+[**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
+| [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/) | 
+[**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/) | 
+[**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 

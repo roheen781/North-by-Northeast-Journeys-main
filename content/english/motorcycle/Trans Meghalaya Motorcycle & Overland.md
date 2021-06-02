@@ -1,7 +1,7 @@
 ---
 title: "Trans-Meghalaya Motorcycle & Overland Tour: Backroads of Meghalaya"
 date: 2018-09-24T14:48:03+06:00
-description : "Motorcycle & Overland Tour of Meghalaya. This Motorcycle and Overland tour takes you across the three Hills of Meghalaya"
+description : "Motorcycle & Overland Tour of Meghalaya. This Motorcycle and Overland tour takes you across the three Hills of Meghalaya, essentially covering the best of the state"
 bg_image: images/background/motorcycle/Trans meghalaya motorcycle tour main.jpg
 image : images/background/motorcycle/Meghalaya motorcycle tour.jpg
 live_demo : 
@@ -137,4 +137,9 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-**[Back to MOTORCYCLE & OVERLAND  ](/motorcycle/) | [INSIGHTS](/insights/)**
+##### Other Motorcycle & Overland Tours
+
+[**Assam & Arunachal Pradesh** (Around the Brahmaputra)](/motorcycle/motorcycle-overland-assam-arunachal-pradesh/) 
+| [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/) | 
+[**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/) | 
+[**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 
