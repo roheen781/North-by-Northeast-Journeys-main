@@ -1,7 +1,7 @@
 ---
 title: "Culture Tour of Arunachal Pradesh: Tribes of the 'Dawn lit Mountains'"
 date: 2018-09-24T14:48:03+06:00
-description : "Culture tour of Arunachal Pradesh"
+description : "Culture tour of Arunachal Pradesh. The Tribes of Arunachal Pradesh."
 bg_image: images/background/culture/Festival hop of Eastern Arunachal.jpg
 image : images/background/culture/Tribes of Arunachal Pradesh.jpg
 live_demo : 
@@ -54,8 +54,8 @@ On this cultural journey of Arunachal Pradesh, we travel across territories of 1
 
 ``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
-###### TOUR IMAGES
+#### Other Ethno-Cultural Tours
 
-![What is this](/images/background/culture/tribesofarunachalgallery.jpg)
-
-**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**
+[**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) 
+| [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/) | 
+[**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 

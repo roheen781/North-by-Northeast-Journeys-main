@@ -1,7 +1,7 @@
 ---
 title: "Culture Tour of Nagaland & Assam: Hornbill Festival and beyond"
 date: 2018-09-24T14:48:03+06:00
-description : "Hornbill Festival Tour, Nagaland and Assam"
+description : "Hornbill Festival Tour, Nagaland and Assam. Culture, Cuisine and Wildlife of Assam and Nagaland"
 bg_image: images/background/culture/Hornbill festival tour main.jpg
 image : images/background/culture/Hornbill festival culture tour of nagaland and assam.jpg
 live_demo : 
@@ -56,4 +56,8 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
 
 ![What is this](/images/background/culture/hornbillfestivalgallery.jpg)
 
-**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**
+#### Other Ethno-Cultural Tours
+
+[**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
+| [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) | 
+[**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 

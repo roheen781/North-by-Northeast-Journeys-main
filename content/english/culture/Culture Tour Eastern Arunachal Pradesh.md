@@ -1,7 +1,7 @@
 ---
 title: "Cultural Tour of Eastern Arunachal Pradesh: Theravada & Animist lands"
 date: 2018-09-24T14:48:03+06:00
-description : "Cultural Tour of Eastern Arunachal Pradesh"
+description : "Cultural Tour of Eastern Arunachal Pradesh. Land of the Animist and Theravada tribes"
 bg_image: images/background/culture/Animist and Theravada country main.jpg
 image : images/background/culture/Culture tour of Eastern Arunachal Pradesh.jpg
 live_demo : 
@@ -54,4 +54,8 @@ We take you to one of the least known part of Northeast India. The eastern bit o
 
  
 
-**[Back to ETHNO-CULTURAL MAIN  ](/culture/) | [INSIGHTS](/insights/)**
+#### Other Ethno-Cultural Tours
+
+[**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
+| [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/) | 
+[**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 
