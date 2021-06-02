@@ -66,4 +66,4 @@ Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks 
 
 [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) 
 | [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/) | 
-[**Arunachal Pradesh** (Tribes of Arunachal)](/multiactivity/culture/culture-tour-arunachal-pradesh/) 
+[**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
