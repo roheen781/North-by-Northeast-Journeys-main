@@ -128,10 +128,10 @@ mission:
 promo_video:
   enable : true
 
-  title : "Travel with locals"
+  title : "Authentic experiences, Unique insights, Real adventures in the Other India"
   bg_image : "images/mow.jpg"
   video_URL : "https://www.youtube.com/watch?v=Si-JjDGr1os&t=13s"
-  video_title : "Authentic adventures, insights and experiences"
+  video_title : "Travel with locals"
 
 
 ##################################### call to action #################################
