@@ -137,5 +137,9 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Cycle Tours
 
-[**Meghalaya** (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)) | [**Assam & Arunachal Pradesh** (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) | [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/) | 
-[**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) | [**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) | [**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/) 
+###### [**Meghalaya** (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
+###### [**Assam & Arunachal Pradesh** (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) 
+###### [**Eastern Arunachal Pradesh** (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
+###### [**Meghalaya** (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
+###### [**Western Arunachal Pradesh** (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
+###### [**Sikkim & W Bengal** (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/) 
