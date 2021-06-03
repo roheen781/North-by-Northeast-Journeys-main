@@ -135,7 +135,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Treks & Walks
 
-[**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) | 
-[**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/) | 
-[**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/) | 
-[**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
+###### [**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/)  
+###### [**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/)  
+###### [**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/)  
+###### [**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)

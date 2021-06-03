@@ -130,6 +130,6 @@ We have a very experienced team which is also local. This reflects in the overal
 
 #### Other Multi-activity Tours
 
-[**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
-| [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/) | 
-[**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
+###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
+###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
+###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 

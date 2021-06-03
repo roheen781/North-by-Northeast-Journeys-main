@@ -1,7 +1,7 @@
 ---
 title: "The Rainforest Trek: Trekking in Namdapha National Park of eastern Arunachal Pradesh "
 date: 2018-09-24T14:48:03+06:00
-description : "Trekking & Wildlife Expedition in Eastern Arunachal Pradesh"
+description : "Trekking & Wildlife Expedition in Eastern Arunachal Pradesh. A unique trek in the worlds northernmost rainforest"
 bg_image: images/background/treks/Namdapha rainforest trek.jpg
 image : images/background/treks/Namdapha trek main.jpg
 live_demo : 
@@ -136,7 +136,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Treks & Walks
 
-[**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
-| [**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) | 
-[**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/) | 
-[**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
+###### [**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
+###### [**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/)  
+###### [**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/)  
+###### [**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)

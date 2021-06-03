@@ -131,7 +131,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Treks & Walks
 
-[**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/) | 
-[**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/) | 
-[**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/) | 
-[**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/)
+###### [**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/)  
+###### [**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/)  
+###### [**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)  
+###### [**Western Arunachal Pradesh** (The high lakes trek)](/treks/trekking-arunachal-pradesh/)
