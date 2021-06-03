@@ -106,7 +106,7 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/multiactivity/easternarunachalmultiactivitygallery.jpg)
+![Multi activity tour of eastern Arunachal Pradesh](/images/background/multiactivity/easternarunachalmultiactivitygallery.jpg)
 
 ### FAQ
 

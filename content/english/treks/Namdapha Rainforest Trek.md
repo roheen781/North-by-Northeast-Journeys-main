@@ -112,7 +112,7 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/treks/namdaphatrekgallery.jpg)
+![NAmdapha Rainforest trek Arunachal Pradesh](/images/background/treks/namdaphatrekgallery.jpg)
 
 
 ### FAQ

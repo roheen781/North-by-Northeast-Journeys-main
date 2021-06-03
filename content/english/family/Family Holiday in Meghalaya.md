@@ -100,7 +100,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/family/meghalayafamilyholidaygallery.jpg)
+![Meghalaya Family Holiday](/images/background/family/meghalayafamilyholidaygallery.jpg)
 
 
 

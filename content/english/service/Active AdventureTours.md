@@ -15,10 +15,10 @@ We offer Active Adventure tours for the avid as well as novice, be it relaxed or
 
 
 
-[![What is this](/images/service/cycling.jpg)](/cycling/)
-[![What is this](/images/service/walking.jpg)](/treks/)
-[![What is this](/images/service/multiactivity.jpg)](/multiactivity/)
-[![What is this](/images/service/family.jpg)](/family/)
-[![What is this](/images/service/motorcycle.jpg)](/motorcycle/)
-[![What is this](/images/service/river.jpg)](/rivertrips/)
-[![What is this](/images/service/youth.jpg)](/youth/)
+[![Cycling trips in Northeast India](/images/service/cycling.jpg)](/cycling/)
+[![Treks and Walks of Northeast India](/images/service/walking.jpg)](/treks/)
+[![Multi activity holidays in Northeast India](/images/service/multiactivity.jpg)](/multiactivity/)
+[![Family holidays in northeast India](/images/service/family.jpg)](/family/)
+[![Motorcycle tours of Northeast India](/images/service/motorcycle.jpg)](/motorcycle/)
+[![River trips in Northeast India](/images/service/river.jpg)](/rivertrips/)
+[![Youth and School travel in Northeast India](/images/service/youth.jpg)](/youth/)

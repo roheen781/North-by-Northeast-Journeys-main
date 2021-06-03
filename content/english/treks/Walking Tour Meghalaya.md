@@ -108,7 +108,7 @@ This tour includes multiple day walks to some of the most beautiful trails and i
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/treks/meghalayahikegallery.jpg)
+![Walking tour of Meghalaya](/images/background/treks/meghalayahikegallery.jpg)
 
 
 

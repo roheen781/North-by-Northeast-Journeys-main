@@ -102,7 +102,7 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
+![Motorcycle Tour of 4 states Northeast India](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
 
 
 

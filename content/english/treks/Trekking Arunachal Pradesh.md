@@ -99,7 +99,7 @@ This region is known as the eastern gateway to Tibet, an age old trading route b
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/treks/westernarunachaltrekgallery.jpg)
+![Trekking in Arunachal Pradesh](/images/background/treks/westernarunachaltrekgallery.jpg)
 
 
 

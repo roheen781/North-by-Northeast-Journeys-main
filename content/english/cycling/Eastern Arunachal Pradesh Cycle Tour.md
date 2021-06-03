@@ -54,7 +54,7 @@ Exciting experiences right from crossing one of the largest rivers of India in A
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/project/WatershedOFtheBRAHMAPUTRA.jpg)
+![Arunachal Pradesh cycle tour topology](/images/project/WatershedOFtheBRAHMAPUTRA.jpg)
 
 ###### AT A GLANCE
 ```
@@ -109,7 +109,7 @@ Exciting experiences right from crossing one of the largest rivers of India in A
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/cycling/easternarunachalcycletourgallery.jpg)
+![Cycle tour of eastern arunachal pradesh](/images/background/cycling/easternarunachalcycletourgallery.jpg)
 
 
 

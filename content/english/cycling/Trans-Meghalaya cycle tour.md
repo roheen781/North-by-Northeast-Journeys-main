@@ -54,7 +54,7 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/project/Full-route-topo-Trans-Meghalaya.jpg)
+![Trans Meghalaya cycle tour topology](/images/project/Full-route-topo-Trans-Meghalaya.jpg)
 
 ###### OVERVIEW
 ```
@@ -107,7 +107,7 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/cycling/transmeghalayacycletourgallery.jpg)
+![Trans Meghalaya Cycle Tour](/images/background/cycling/transmeghalayacycletourgallery.jpg)
 
 
 

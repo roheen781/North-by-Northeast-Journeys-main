@@ -105,7 +105,7 @@ The route is quite flexible depending the duration you have in hand, level of in
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
+![Trans Meghalaya Motorcycle Tour](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
 
 
 

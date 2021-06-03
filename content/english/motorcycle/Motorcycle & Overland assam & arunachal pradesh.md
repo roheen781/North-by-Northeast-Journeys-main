@@ -103,7 +103,7 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/assamarunachalmotorcycletourgallery.jpg)
+![Motorcycle Tour of Assam and Arunachal Pradesh](/images/background/motorcycle/assamarunachalmotorcycletourgallery.jpg)
 
 ### FAQ
 

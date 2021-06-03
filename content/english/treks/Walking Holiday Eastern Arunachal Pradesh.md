@@ -104,7 +104,7 @@ The tour is quite flexible and can be worked out around the duration that you ha
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/treks/easternarunachalhikegallery.jpg)
+![Walking tour of Eastern Arunachal Pradesh](/images/background/treks/easternarunachalhikegallery.jpg)
 
 
 
