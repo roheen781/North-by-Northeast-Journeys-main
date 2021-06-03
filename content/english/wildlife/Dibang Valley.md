@@ -100,4 +100,6 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 #### MEALS
 As far as possible we would prefer local fare when it comes to meals, however we understand the need for comfort food when multiple days of intense exertion is required. Nutritious and palatable foot is always freshly cooked with fresh local ingredients. We provide potable packaged water which we carry in large 20lt cans so as keep plastic to the minimum. Reusable water bottles are provided at the onset of each journey.
 
-**[WILDLIFE  ](http://localhost:61734/wildlife/)       |  [INSIGHTS |](http://localhost:60325/insights/) |  [HOME |](http://localhost:60325/)**  
+##### Other Wildlife Tours
+
+###### [**Assam** (Parks of the Brahmaputra Valley)](/wildlife/wildlife-tour-assam/)   
