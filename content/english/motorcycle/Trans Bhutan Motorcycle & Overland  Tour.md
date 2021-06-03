@@ -51,7 +51,7 @@ Riding out of the Brahmaputra plains we enter Bhutan through its main western ga
 
 ###### ROUTE TOPOLOGY
 
-![Trans Bhutan Motorcycle Tour](/images/background/motorcycle/transbhutanmotottopo.jpg)
+![Trans-Bhutan-Motorcycle-Tour-topology](/images/background/motorcycle/transbhutanmotottopo.jpg)
 
 ###### OVERVIEW
 ```
@@ -101,7 +101,7 @@ Riding out of the Brahmaputra plains we enter Bhutan through its main western ga
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/motorcycle/Bhutangallery.jpg)
+![Trans-Bhutan-Motorcycle-Tour](/images/background/motorcycle/Bhutangallery.jpg)
 
 
 

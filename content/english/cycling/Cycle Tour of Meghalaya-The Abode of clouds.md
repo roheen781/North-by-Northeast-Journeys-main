@@ -61,7 +61,7 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 
 ###### ROUTE TOPOLOGY
 
-![Meghalaya Cycling Topology](/images/project/Meghalayatopo.jpg)
+![Meghalaya-Cycling-Topology](/images/project/Meghalayatopo.jpg)
 
 ###### AT A GLANCE
 ```
@@ -113,7 +113,7 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 
 ###### TOUR IMAGES
 
-![Meghalaya Cycle Tour](/images/background/cycling/meghalayacycletourgallery.jpg)
+![Meghalaya-Cycle-Tour](/images/background/cycling/meghalayacycletourgallery.jpg)
 
 
 

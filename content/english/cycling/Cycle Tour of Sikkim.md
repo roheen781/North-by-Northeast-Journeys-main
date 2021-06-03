@@ -52,7 +52,7 @@ This cycling tour of Sikkim and West Bengal takes us through East, South and Wes
 
 ###### ROUTE TOPOLOGY
 
-![Sikkim Cycle Tour Topology](/images/project/Sikkim-full-topo.jpg)
+![Sikkim-Cycle-Tour-Topology](/images/project/Sikkim-full-topo.jpg)
 
 ###### OVERVIEW
 ```
@@ -107,7 +107,7 @@ This cycling tour of Sikkim and West Bengal takes us through East, South and Wes
 
 ###### TOUR IMAGES
 
-![Sikkim Cycle Tour](/images/background/cycling/sikkimcyclegallery.jpg)
+![Sikkim-Cycle-Tour](/images/background/cycling/sikkimcyclegallery.jpg)
 
 ### FAQ
 

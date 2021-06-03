@@ -103,7 +103,7 @@ This tour includes some of the important aspects of this region such as the Rive
 
 ###### TOUR IMAGES
 
-![Western Arunachal Pradesh multi activity holiday](/images/background/multiactivity/Westernarunachalmultiactivitygallery.jpg)
+![Western-Arunachal-Pradesh-multi-activity-holiday](/images/background/multiactivity/Westernarunachalmultiactivitygallery.jpg)
 
 ### FAQ
 

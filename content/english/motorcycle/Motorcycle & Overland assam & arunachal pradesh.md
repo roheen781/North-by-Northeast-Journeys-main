@@ -52,7 +52,7 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/background/motorcycle/aroundthebrahmaputravalleymototopo.jpg)
+![Motorcycle-tour-of-assam-and-arunachal-pradesh-topology](/images/background/motorcycle/aroundthebrahmaputravalleymototopo.jpg)
 
 ###### OVERVIEW
 ```
@@ -103,7 +103,7 @@ The ride offers a wide mix of riding /driving conditions, from well tarred highw
 
 ###### TOUR IMAGES
 
-![Motorcycle Tour of Assam and Arunachal Pradesh](/images/background/motorcycle/assamarunachalmotorcycletourgallery.jpg)
+![Motorcycle-Tour-of-Assam-and-Arunachal-Pradesh](/images/background/motorcycle/assamarunachalmotorcycletourgallery.jpg)
 
 ### FAQ
 

@@ -56,7 +56,7 @@ The route is quite flexible depending the duration you have in hand, level of in
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/background/motorcycle/Transmeghalayatopo.jpg)
+![Motorcycle-tour-of-meghalaya-topology](/images/background/motorcycle/Transmeghalayatopo.jpg)
 
 ###### AT A GLANCE
 ```
@@ -105,7 +105,7 @@ The route is quite flexible depending the duration you have in hand, level of in
 
 ###### TOUR IMAGES
 
-![Trans Meghalaya Motorcycle Tour](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
+![Trans-Meghalaya-Motorcycle-Tour](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
 
 
 

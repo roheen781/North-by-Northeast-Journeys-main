@@ -109,7 +109,7 @@ The tour is quite flexible, we can mould the entire proceeding looking at your p
 
 ###### TOUR IMAGES
 
-![Multi activity tour of Meghalaya](/images/background/multiactivity/meghalayamultiactivitygallery.jpg)
+![Multi-activity-tour-of-Meghalaya](/images/background/multiactivity/meghalayamultiactivitygallery.jpg)
 
 
 ### FAQ

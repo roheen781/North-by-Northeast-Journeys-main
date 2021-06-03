@@ -54,7 +54,7 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
 
 ###### TOUR IMAGES
 
-![Hornbill festival tour Nagaland and Assam](/images/background/culture/hornbillfestivalgallery.jpg)
+![Hornbill-festival-tour-Nagaland-and-Assam](/images/background/culture/hornbillfestivalgallery.jpg)
 
 #### Other Ethno-Cultural Tours
 

@@ -51,7 +51,7 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/background/motorcycle/4stetsmotottopo.jpg)
+![Motorcycle-Tour-of-Northeast-India-topology](/images/background/motorcycle/4stetsmotottopo.jpg)
 
 ###### OVERVIEW
 ```
@@ -102,7 +102,7 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 
 ###### TOUR IMAGES
 
-![Motorcycle Tour of 4 states Northeast India](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
+![Motorcycle-Tour-of-4-states-Northeast-India](/images/background/motorcycle/4statesnemotorcyclegallery.jpg)
 
 
 

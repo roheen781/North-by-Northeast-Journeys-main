@@ -53,7 +53,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 ###### ROUTE TOPOLOGY
 
-![Mishmi Hills cycle Tour Topology](/images/project/mishmihillstopo.jpg)
+![Mishmi-Hills-cycle-Tour-Topology](/images/project/mishmihillstopo.jpg)
 
 ###### OVERVIEW
 ```
@@ -108,7 +108,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 ###### TOUR IMAGES
 
-![Mishmi hills cycle tour Arunachal Pradesh](/images/background/cycling/mishmihillscycletourgallery.jpg)
+![Mishmi-hills-cycle-tour-Arunachal-Pradesh](/images/background/cycling/mishmihillscycletourgallery.jpg)
 
 
 

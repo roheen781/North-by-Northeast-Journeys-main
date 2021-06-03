@@ -49,7 +49,7 @@ We take you to one of the least known part of Northeast India. The eastern bit o
 
 ###### TOUR IMAGES
 
-![Culture Tour of Eastern Arunachal Pradesh](/images/background/culture/easternarunachalculturetourgallery.jpg)
+![Culture-Tour-of-Eastern-Arunachal-Pradesh](/images/background/culture/easternarunachalculturetourgallery.jpg)
 
 
  

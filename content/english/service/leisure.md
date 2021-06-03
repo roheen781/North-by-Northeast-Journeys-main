@@ -14,8 +14,8 @@ Holidays that take you away from the maddening crowds, kick off your shoes, dest
 
 
 
-![Tea estate stays in Assam](/images/links/teastay.jpg)
-![Ecolodges of Northeast India](/images/links/ecolodges.jpg)
-![Camping getaways in Northeast India](/images/links/camping.jpg)
+![Tea-estate-stays-in-Assam](/images/links/teastay.jpg)
+![Ecolodges-of-Northeast-India](/images/links/ecolodges.jpg)
+![Camping-getaways-in-Northeast-India](/images/links/camping.jpg)
 
 

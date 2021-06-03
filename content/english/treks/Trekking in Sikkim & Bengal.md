@@ -105,7 +105,7 @@ This trek can be quite flexible in duration without losing its charms. Please wr
 
 ###### TOUR IMAGES
 
-![Trekking in Sikkim and West Bengal](/images/background/treks/sikkimhikegallery.jpg)
+![Trekking-in-Sikkim-and-West-Bengal](/images/background/treks/sikkimhikegallery.jpg)
 
 
 

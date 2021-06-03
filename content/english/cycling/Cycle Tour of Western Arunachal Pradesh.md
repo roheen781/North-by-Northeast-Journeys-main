@@ -53,7 +53,7 @@ This region has some of the highest motorable roads of the eastern Himalayas, at
 
 ###### ROUTE TOPOLOGY
 
-![Tawang cycle Tour Topology](/images/project/tawang-topo.jpg)
+![Tawang-cycle-Tour-Topology](/images/project/tawang-topo.jpg)
 
 
 
@@ -108,7 +108,7 @@ This region has some of the highest motorable roads of the eastern Himalayas, at
 
 ###### TOUR IMAGES
 
-![Tawang Cycle Tour Arunachal Pradesh](/images/background/cycling/tawangcycletourgallery.jpg)
+![Tawang-Cycle-Tour-ArunachalPradesh](/images/background/cycling/tawangcycletourgallery.jpg)
 
 
 

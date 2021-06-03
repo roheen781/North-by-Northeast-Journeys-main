@@ -53,7 +53,7 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 
 ###### ROUTE TOPOLOGY
 
-![What is this](/images/background/motorcycle/tawangmototopo.jpg)
+![Motorcycle-tour-of-arunachal-pradesh-topology](/images/background/motorcycle/tawangmototopo.jpg)
 
 
 
@@ -103,7 +103,7 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 
 ###### TOUR IMAGES
 
-![WMotorcycle Tour of Arunachal Pradesh Tawang](/images/background/motorcycle/tawangmotorcycletourgallery.jpg)
+![Motorcycle-Tour-of-Arunachal-Pradesh-Tawang](/images/background/motorcycle/tawangmotorcycletourgallery.jpg)
 
 
 

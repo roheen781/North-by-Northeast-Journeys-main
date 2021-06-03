@@ -93,7 +93,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Assam family holiday](/images/background/family/assamfamilyholidaygallery.jpg)
+![Assam-family-holiday](/images/background/family/assamfamilyholidaygallery.jpg)
 
 
 

@@ -100,7 +100,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Tawang Family Holiday Arunachal Pradesh](/images/background/family/tawangfamilytourgallery.jpg)
+![Tawang-Family-Holiday-Arunachal-Pradesh](/images/background/family/tawangfamilytourgallery.jpg)
 
 ### FAQ
 

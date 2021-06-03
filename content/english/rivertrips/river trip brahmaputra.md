@@ -100,7 +100,7 @@ Mail us at info.northbynortheast@gmail.com
 
 ###### TOUR IMAGES
 
-![River Trip in Arunachal Pradesh and Assam](/images/background/departures/rivertripgallery.jpg)
+![River-Trip-in-Arunachal-Pradesh-and-Assam](/images/background/departures/rivertripgallery.jpg)
 
 ###### Mail us at info.northbynortheast@gmail.com
 

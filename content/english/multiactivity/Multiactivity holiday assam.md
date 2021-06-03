@@ -101,7 +101,7 @@ On this tour we will indulge in short day cycling and hiking forays. Explore the
 
 ###### TOUR IMAGES
 
-![Multi activity tour of Assam](/images/background/multiactivity/Assammultiactivitygallery.jpg)
+![Multi-activity-tour-of-Assam](/images/background/multiactivity/Assammultiactivitygallery.jpg)
 
 ### FAQ
 

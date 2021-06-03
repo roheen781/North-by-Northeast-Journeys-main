@@ -56,7 +56,7 @@ Beached amid the mighty Brahmaputra River’s ever-shifting puzzle of sandbanks 
 
 ###### TOUR IMAGES
 
-![What is this](/images/background/culture/westernarunachalculturegallery.jpg)
+![Culture-tour-of-Assam-and-Arunachal-Pradesh](/images/background/culture/westernarunachalculturegallery.jpg)
 
 
 

@@ -56,7 +56,7 @@ The Tour is flexible and will be designed around the duration you have in hand.
 
 ###### ROUTE TOPOLOGY
 
-![Assam Cycle Tour Topology](/images/project/Brahmaputra-valley-topo.jpg)
+![Assam-Cycle-Tour-Topology](/images/project/Brahmaputra-valley-topo.jpg)
 
 ###### OVERVIEW
 ```
@@ -111,7 +111,7 @@ The Tour is flexible and will be designed around the duration you have in hand.
 
 ###### TOUR IMAGES
 
-![Cycle Tour of Assam](/images/background/cycling/assamcycletourgallery.jpg)
+![Cycle-Tour-of-Assam](/images/background/cycling/assamcycletourgallery.jpg)
 
 
 
