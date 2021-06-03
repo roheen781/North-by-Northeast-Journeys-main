@@ -30,16 +30,7 @@ Releases page has an [Atom feed](https://github.com/dimsemenov/PhotoSwipe/releas
 Altervatively, you can follow [@PhotoSwipe on Twitter](http://twitter.com/photoswipe), or join my tiny email newsletter:
 
 <div>
-	<div id="mc_embed_signup" class="embed-form">
-	  <form action="http://dimsemenov.us1.list-manage.com/subscribe/post?u=ef6026d946a7b5d41d92c02e4&amp;id=54fae727da" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-	    <p>Get notified about important update or new release.</p>
-	    <div class="mc-field-group">
-	      <input type="email" value="" name="EMAIL" placeholder="Your email" class="required email" id="mce-EMAIL">
-	      <input type="hidden" id="group_2" name="group[2065][2]" value="true">
-	      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-	    </div>
-	    <p style="font-size: 12px; margin: 4px 0 0 0;">Newsletter is sent 3 times a year at max. Powered by Mailchimp.</p>
-	  </form>
+	
 	 </div> 
  </div>
 
