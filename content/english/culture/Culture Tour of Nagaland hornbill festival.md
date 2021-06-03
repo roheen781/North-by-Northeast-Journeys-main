@@ -58,6 +58,6 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
 
 #### Other Ethno-Cultural Tours
 
-[**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
-| [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) | 
-[**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 
+###### [**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
+###### [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/)  
+###### [**Arunachal Pradesh & Assam** (Monyul & The Brahmaputra)](/culture/culture-tour-western-arunachal-pradesh/) 

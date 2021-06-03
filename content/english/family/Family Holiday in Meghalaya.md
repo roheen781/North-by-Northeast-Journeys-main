@@ -128,4 +128,6 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Family Tours
 
-[**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/)  | [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/) | [**Western Arunachal Pradesh**  (Call of the Mountains)](/family/family-holiday-western-arunachal-pradesh/)
+###### [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/)  
+###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/) 
+###### [**Western Arunachal Pradesh**  (Call of the Mountains)](/family/family-holiday-western-arunachal-pradesh/)

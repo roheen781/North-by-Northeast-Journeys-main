@@ -134,7 +134,7 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Motorcycle & Overland Tours
 
-[**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
-| [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/) | 
-[**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/) | 
-[**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 
+###### [**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
+###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/)  
+###### [**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/)  
+###### [**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 

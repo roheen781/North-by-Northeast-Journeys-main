@@ -131,4 +131,6 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Family Tours
 
-[**Meghalaya** (Natures Amusement Park)](/family/family-holiday-in-meghalaya/)  | [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/) | [**Western Arunachal Pradesh**  (Call of the Mountains)](/family/family-holiday-western-arunachal-pradesh/)
+###### [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/) 
+###### [**Meghalaya**(Natures Amusement Park)](/family/family-holiday-in-meghalaya/)  
+###### [**Western Arunachal Pradesh**  (Call of the Mountains)](/family/family-holiday-western-arunachal-pradesh/)
