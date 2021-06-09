@@ -125,12 +125,26 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 
-##### Other Treks & Walks
+#### Other Treks & Walks
+---
 
-###### [**Meghalaya** (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
-###### [**Eastern Arunachal Pradesh** (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/)  
-###### [**Eastern Arunachal Pradesh** (The Rainforest trek)](/treks/namdapha-rainforest-trek/)  
-###### [**Sikkim & W Bengal** (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
+###### *Meghalaya*
+
++ [Meghalaya (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
+
+---
+###### *Arunachal Pradesh*
+
++ [Eastern Arunachal Pradesh (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
++ [Eastern Arunachal Pradesh (The Rainforest trek)](/treks/namdapha-rainforest-trek/)   
+
+
+---
+###### *Sikkim & W Bengal*
+
++ [Sikkim & W Bengal (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
+
+---
  
 
         
