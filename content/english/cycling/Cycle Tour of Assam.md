@@ -139,21 +139,25 @@ We have a very experienced team which is also local. This reflects in the overal
 
 #### Other Cycle Tours
 ---
+
 ###### *Meghalaya*
 
 + [Meghalaya (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
 + [Meghalaya (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
+
 ---
 ###### *Arunachal Pradesh*
 
 + [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
 + [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
 + [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
+
 ---
 ###### *Sikkim & W Bengal*
 
 + [Sikkim & W Bengal (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
 
+---
 
 
 
