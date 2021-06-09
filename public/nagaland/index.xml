@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAGALAND on Adventure, Nature and Culture Tours in Northeast India</title>
+    <title>NAGALAND on North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</title>
     <link>/nagaland/</link>
-    <description>Recent content in NAGALAND on Adventure, Nature and Culture Tours in Northeast India</description>
+    <description>Recent content in NAGALAND on North by Northeast Journeys | Adventure, Nature and Culture Tours in Northeast India</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
     
 	<atom:link href="/nagaland/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Nagaland &amp; Assam: Hornbill Festival and beyond | CULTURAL JOURNEYS</title>
-      <link>/nagaland/hornbill/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/nagaland/hornbill/</guid>
-      <description>Tribes &amp;amp; Wildlife, Nagaland &amp;amp; Assam This tour takes you to western Nagaland and central Assam.</description>
-    </item>
-    
-    <item>
-      <title>4 States NE India: The Eastern Arc | MOTORCYCLE &amp; OVERLAND </title>
-      <link>/nagaland/4-states-moto-tour/</link>
-      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
-      
-      <guid>/nagaland/4-states-moto-tour/</guid>
-      <description>The wildest of Northeast India This particular ride takes us through the backroads of some of India’s easternmost states namely Arunachal Pradesh, Nagaland, Assam and Meghalaya.</description>
-    </item>
     
   </channel>
 </rss>
