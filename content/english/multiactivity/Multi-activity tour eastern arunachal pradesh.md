@@ -136,6 +136,6 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
 ###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
-###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 
+
 
 

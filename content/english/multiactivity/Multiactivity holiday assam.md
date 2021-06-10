@@ -133,4 +133,3 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
 ###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
-###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 

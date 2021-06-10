@@ -142,4 +142,3 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
 ###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)  
-###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 
