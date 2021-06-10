@@ -7,7 +7,7 @@ image : images/background/culture/Hornbill festival culture tour of nagaland and
 live_demo : 
 case_study : 
 category: December
-Weight: 3
+Weight: 5
 
 # overview
 overview:

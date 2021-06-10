@@ -7,7 +7,7 @@ image : images/background/culture/Culture tour of western arunachal pradesh and 
 live_demo : 
 case_study : 
 category: Febuary
-Weight: 1
+Weight: 3
 
 # overview
 overview:
