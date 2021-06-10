@@ -2,8 +2,8 @@
 title: "The Rainforest Trek: Trekking in Namdapha National Park of eastern Arunachal Pradesh "
 date: 2018-09-24T14:48:03+06:00
 description : "Trekking & Wildlife Expedition in Eastern Arunachal Pradesh. A unique trek in the worlds northernmost rainforest"
-bg_image: images/background/treks/Namdapha rainforest trek.jpg
-image : images/background/treks/Namdapha trek main.jpg
+bg_image: images/background/treks/Namdapha-rainforest-trek.jpg
+image : images/background/treks/Namdapha-trek-arunachal-pradesh.jpg
 live_demo : 
 case_study : 
 category: Easy to Moderate
@@ -112,7 +112,7 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 
 ###### TOUR IMAGES
 
-![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/treks/namdaphatrekgallery.jpg)
+![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/treks/namdapha-trek-gallery.jpg)
 
 
 ### FAQ

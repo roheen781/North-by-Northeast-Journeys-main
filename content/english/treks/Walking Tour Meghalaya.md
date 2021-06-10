@@ -2,8 +2,8 @@
 title: "Walking Tour of Meghalaya: Walks in the clouds"
 date: 2018-09-24T14:48:03+06:00
 description : "Walking Tour of Meghalaya. A series of day walks across the Khasi and Jaintia hills of Meghalaya"
-bg_image: images/background/treks/walking tour of meghalaya main.jpg
-image : images/background/treks/Walking tour of Meghalaya .jpg
+bg_image: images/background/treks/walking-tour-of-meghalaya.jpg
+image : images/background/treks/Walking-tour-of-Meghalaya .jpg
 live_demo : 
 case_study : 
 category: Easy to moderate
@@ -108,7 +108,7 @@ This tour includes multiple day walks to some of the most beautiful trails and i
 
 ###### TOUR IMAGES
 
-![Walking-tour-of-Meghalaya](/images/background/treks/meghalayahikegallery.jpg)
+![Walking-tour-of-Meghalaya](/images/background/treks/hiking-tour-of-meghalaya.jpg)
 
 
 

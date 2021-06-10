@@ -2,8 +2,8 @@
 title: "Trekking in Western Arunachal Pradesh: The high lakes trek"
 date: 2018-09-24T14:48:03+06:00
 description : "Trekking holiday in western Arunachal Pradesh. This high altitude trek takes you walking along the Bhutanese border between prestine high altitude lakes"
-bg_image: images/background/treks/western arunachal pradesh trek main.jpg
-image : images/background/treks/Western Arunachal Pradesh Trek.jpg
+bg_image: images/background/treks/trekking-in-western-arunachal-pradesh.jpg
+image : images/background/treks/Western-Arunachal-Pradesh-Trek.jpg
 live_demo : 
 case_study : 
 category: Strenuous
@@ -99,7 +99,7 @@ This region is known as the eastern gateway to Tibet, an age old trading route b
 
 ###### TOUR IMAGES
 
-![Trekking-in-Arunachal-Pradesh](/images/background/treks/westernarunachaltrekgallery.jpg)
+![Trekking-in-Arunachal-Pradesh](/images/background/treks/western-arunachal-trek-gallery.jpg)
 
 
 
