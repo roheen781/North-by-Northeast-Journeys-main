@@ -1,7 +1,7 @@
 ---
 title: " Cycling Holidays in Northeast India | Cycle Tours | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/cycling/Northeast India cycle tours.jpg
+bg_image: images/background/cycling/Northeast-India-cycle-tours.jpg
 description : " Cycle Tours in Northeast India. Over 8 unique Cycling Holidays across the beautiful and untouched states of northeast India"
 ---
 
