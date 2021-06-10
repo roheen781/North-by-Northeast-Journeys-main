@@ -2,7 +2,7 @@
 title: "Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft & Culture"
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi activity holiday takes you to Eastern Arunachal Pradesh. Hike, bike, Raft and more in the land of the 'Dawn lit Mountains'"
-bg_image: images/background/multiactivity/Eastern arunachal multiactivity tour main.jpg
+bg_image: images/background/multiactivity/Multi-activity-tour-in-eastern-arunachal-pradesh.jpg
 image : images/background/multiactivity/Eastern Arunachal Pradesh multiactivity tour.jpg
 live_demo : 
 case_study : 
@@ -106,7 +106,7 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 
 ###### TOUR IMAGES
 
-![Multi-activity-tour-of-eastern-Arunachal-Pradesh](/images/background/multiactivity/easternarunachalmultiactivitygallery.jpg)
+![Multi-activity-tour-of-eastern-Arunachal-Pradesh](/images/background/multiactivity/eastern-arunachal-multi-activity-gallery.jpg)
 
 ### FAQ
 

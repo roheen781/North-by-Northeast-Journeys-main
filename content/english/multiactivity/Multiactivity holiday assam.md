@@ -2,8 +2,8 @@
 title: "Multi-Activity Holiday in Assam: Tea, Wildlife & Culture"
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi-Activity holiday shows you the best of Assam. Tea plantations, Wildlife Sanctuaries, River Islands and more"
-bg_image: images/background/multiactivity/Assam multiactivity tour main.jpg
-image : images/background/multiactivity/Assam multiactivity tour.jpg
+bg_image: images/background/multiactivity/Multi-activity-tour-of-Assam.jpg
+image : images/background/multiactivity/Assam-multiactivity-tour.jpg
 live_demo : 
 case_study : 
 category: Easy
@@ -101,7 +101,7 @@ On this tour we will indulge in short day cycling and hiking forays. Explore the
 
 ###### TOUR IMAGES
 
-![Multi-activity-tour-of-Assam](/images/background/multiactivity/Assammultiactivitygallery.jpg)
+![Multi-activity-tour-of-Assam](/images/background/multiactivity/Assam-multi-activity-tour-gallery.jpg)
 
 ### FAQ
 
@@ -129,6 +129,8 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Multi-activity Tours
 
-###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
-###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
-###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 
+---
+
++ ###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/) 
++ ###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
++ ###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 

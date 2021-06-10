@@ -2,8 +2,8 @@
 title: "Multi-activity holiday in Meghalaya: Hike, Bike, Nature & Culture"
 date: 2018-09-24T14:48:03+06:00
 description : "Multi activity holiday takes you to prestine Meghalaya 'The Abode of Clouds'. This hike and bike tour gives you a window into beautiful state "
-bg_image: images/background/multiactivity/Meghalaya Multiactivity tour main.jpg
-image : images/background/multiactivity/Meghalaya multiactivity tour.jpg
+bg_image: images/background/multiactivity/Multi-Activity-tour-of-Meghalaya.jpg
+image : images/background/multiactivity/Meghalaya-multi-activity-tour.jpg
 live_demo : 
 case_study : 
 category: Moderate
@@ -109,7 +109,7 @@ The tour is quite flexible, we can mould the entire proceeding looking at your p
 
 ###### TOUR IMAGES
 
-![Multi-activity-tour-of-Meghalaya](/images/background/multiactivity/meghalayamultiactivitygallery.jpg)
+![Multi-activity-tour-of-Meghalaya](/images/background/multiactivity/meghalaya-multi-activity-tour-gallery.jpg)
 
 
 ### FAQ
@@ -138,7 +138,8 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 ##### Other Multi-activity Tours
+---
 
-###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
-###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)  
-###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 
++ ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
++ ###### [**Eastern Arunachal Pradesh** (Hike, Bike, Raft & Culture)](/multiactivity/multi-activity-tour-eastern-arunachal-pradesh/)  
++ ###### [**Western Arunachal Pradesh** (Hike, Bike & Culture)](/multiactivity/western-arunachal-multiactivity-holiday/) 
