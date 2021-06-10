@@ -107,7 +107,7 @@ This cycling tour of Sikkim and West Bengal takes us through East, South and Wes
 
 ###### TOUR IMAGES
 
-![Sikkim-Cycle-Tour](/images/background/cycling/sikkimcyclegallery.jpg)
+![Sikkim-Cycle-Tour](/images/background/cycling/sikkim-cycle-tour-gallery.jpg)
 
 ### FAQ
 

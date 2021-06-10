@@ -111,7 +111,7 @@ The Tour is flexible and will be designed around the duration you have in hand.
 
 ###### TOUR IMAGES
 
-![Cycle-Tour-of-Assam](/images/background/cycling/assamcycletourgallery.jpg)
+![Cycle-Tour-of-Assam](/images/background/cycling/assam-cycle-tour-gallery.jpg)
 
 
 
