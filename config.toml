@@ -87,27 +87,22 @@ disableLanguages = [] # desable language from here
 
     [[menu.main]]
     parent = "Activities"
-    name = "Ethno-Cultural"
+    name = "Culture & Wildlife"
     URL = "culture"
     weight = 6
 
-    [[menu.main]]
-    parent = "Activities"
-    name = "Wildlife"
-    URL = "wildlife"
-    weight = 7
 
-     [[menu.main]]
+    [[menu.main]]
     parent = "Activities"
     name = "River Journeys"
     URL = "rivertrips"
-    weight = 8
+    weight = 7
 
     [[menu.main]]
     parent = "Activities"
     name = "Youth Travels"
     URL = "youth"
-    weight = 9
+    weight = 8
 
     
 
