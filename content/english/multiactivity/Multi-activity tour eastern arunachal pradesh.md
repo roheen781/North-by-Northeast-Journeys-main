@@ -3,7 +3,7 @@ title: "Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft & Cul
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi activity holiday takes you to Eastern Arunachal Pradesh. Hike, bike, Raft and more in the land of the 'Dawn lit Mountains'"
 bg_image: images/background/multiactivity/Multi-activity-tour-in-eastern-arunachal-pradesh.jpg
-image : images/background/multiactivity/Eastern Arunachal Pradesh multiactivity tour.jpg
+image : images/background/multiactivity/Eastern-Arunachal-Pradesh-multi-activity-tour.jpg
 live_demo : 
 case_study : 
 category: Moderate
@@ -132,6 +132,7 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 ##### Other Multi-activity Tours
+---
 
 ###### [**Assam** (Tea, Wildlife & Culture)](/multiactivity/multiactivity-holiday-assam/) 
 ###### [**Meghalaya** (Hike, Bike, Nature & Culture)](/multiactivity/multi-activity-holiday-in-meghalaya/)  
