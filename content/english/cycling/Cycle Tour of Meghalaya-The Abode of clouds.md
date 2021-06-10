@@ -2,8 +2,8 @@
 title: "Cyle tour of Meghalaya: The Abode of clouds"
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle tour of Meghalaya takes you cycling across the Khasi and Jaintia Hills"
-bg_image: images/background/cycling/Meghalaya cycle tour main.jpg
-image : images/background/cycling/Cycle tour of Meghalaya.jpg
+bg_image: images/background/cycling/Meghalaya-cycle-tour.jpg
+image : images/background/cycling/Cycle-tour-of-Meghalaya.jpg
 live_demo : 
 case_study : 
 category: Moderate to Strenuous

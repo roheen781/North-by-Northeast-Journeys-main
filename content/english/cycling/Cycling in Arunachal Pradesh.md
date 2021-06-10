@@ -2,8 +2,8 @@
 title: "Cycling in Eastern Arunachal Pradesh: The Mishmi Hills Explorer "
 date: 2018-09-24T14:48:03+06:00
 description : "This tour takes you cycling to the Mishmi Hills of Arunachal Pradesh, the easternmost flank of Himalayan chain"
-bg_image: images/background/cycling/Mishmi hills cycle tour main.jpg
-image : images/background/cycling/Mishmi hills cycle tour.jpg
+bg_image: images/background/cycling/Mishmi-hills-cycle-tour-Arunachal-Pradesh.jpg
+image : images/background/cycling/Mishmi-hills-cycle-tour.jpg
 live_demo : 
 case_study : 
 category: Strenuous

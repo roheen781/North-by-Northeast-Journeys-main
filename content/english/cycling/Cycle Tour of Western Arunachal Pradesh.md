@@ -2,8 +2,8 @@
 title: "Cycle tour of Western Arunachal Pradesh: The Himalayan High"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Western Arunachal Pradesh. This Cycling holiday takes you riding along the Bhutan and Tibet borders of Arynachal Pradesh"
-bg_image: images/background/cycling/Tawang cycle tour.jpg
-image : images/background/cycling/Western Arunachal Pradesh cycle tour.jpg
+bg_image: images/background/cycling/Arunachal-pradesh-Tawang-cycle-tour.jpg
+image : images/background/cycling/Western-Arunachal-Pradesh-cycle-tour.jpg
 live_demo : 
 case_study : 
 category: Strenuous

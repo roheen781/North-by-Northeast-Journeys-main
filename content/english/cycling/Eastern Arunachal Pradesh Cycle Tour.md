@@ -2,8 +2,8 @@
 title: "Cycle tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra "
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle tour takes you to Eastern Arunachal Pradesh. Ride across the watershed of the Mighty Brahmaputra River"
-bg_image: images/background/cycling/Eastern Arunachal cycle tour main.jpg
-image : images/background/cycling/Eastern Arunachal Pradesh cycle tour.jpg
+bg_image: images/background/cycling/Eastern-Arunachal-cycle-tour.jpg
+image : images/background/cycling/Eastern-Arunachal-Pradesh-cycle-tour.jpg
 live_demo : 
 case_study : 
 category: Easy to Moderate
