@@ -2,8 +2,8 @@
 title: "Assam Family Holiday: Jewels of the Brahmaputra "
 date: 2018-09-24T14:48:03+06:00
 description : "This Family Holiday in Assam takes you across the best that the state has to offer. Wildlife, Adventure, Tea, Culture and more."
-bg_image: images/background/family/Family holiday in Assam main.jpg
-image : images/background/family/Family holiday in Assam.jpg
+bg_image: images/background/family/Assam-family-tour.jpg
+image : images/background/family/Family-holiday-in-Assam.jpg
 live_demo : 
 case_study : 
 category: Comfort
@@ -93,7 +93,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Assam-family-holiday](/images/background/family/assamfamilyholidaygallery.jpg)
+![Assam-family-holiday](/images/background/family/assam-family-holiday-gallery.jpg)
 
 
 

@@ -2,8 +2,8 @@
 title: "Family Adventure Holiday in Meghalaya: Natures Amusement Park"
 date: 2018-09-24T14:48:03+06:00
 description : "Family adventure holiday in Meghalaya. An active adventure holiday for the entire family in prestine Meghalaya"
-bg_image: images/background/family/Meghalaya Family Holiday main.jpg
-image : images/background/family/Family adventure holiday in Meghalaya.jpg
+bg_image: images/background/family/Family-holiday-in-Meghalaya.jpg
+image : images/background/family/Family-adventure-holiday-in-Meghalaya.jpg
 live_demo : 
 case_study : 
 category: Comfort
@@ -100,7 +100,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Meghalaya-Family-Holiday](/images/background/family/meghalayafamilyholidaygallery.jpg)
+![Meghalaya-Family-Holiday](/images/background/family/meghalaya-family-holiday-gallery.jpg)
 
 
 
@@ -129,5 +129,5 @@ We have a very experienced team which is also local. This reflects in the overal
 ##### Other Family Tours
 ---
 
-###### [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/)  
-###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights)](/family/family-holiday-eastern-arunachal-pradesh/) 
+###### [**Assam**  ( Jewels of the Brahmaputra )](/family/assam-family-holiday/)  
+###### [**Eastern Arunachal Pradesh** ( Far Eastern Delights )](/family/family-holiday-eastern-arunachal-pradesh/) 

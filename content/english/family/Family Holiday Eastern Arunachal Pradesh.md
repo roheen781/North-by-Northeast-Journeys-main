@@ -2,8 +2,8 @@
 title: "Family Holiday in Eastern Arunachal Pradesh: India's far east"
 date: 2018-09-24T14:48:03+06:00
 description : "Family holiday in Eastern Arunachal Pradesh. We take you to some of the easternmost regions of India. Wildlife, Adventure, Culture and more."
-bg_image: images/background/family/Family holiday in Eastern Arunachal Pradesh main.jpg
-image : images/background/family/Family Holiday in Eastern Arunachal Pradesh.jpg
+bg_image: images/background/family/Eastern-Arunachal-Pradesh-family-holiday.jpg
+image : images/background/family/Family-Holiday-in-Eastern-Arunachal-Pradesh.jpg
 live_demo :
 case_study : 
 category: Off the grid
@@ -103,7 +103,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Eastern-Arunachal-Pradesh-family-holiday](/images/background/family/easternarunachalfamilyholidaygallery.jpg)
+![Eastern-Arunachal-Pradesh-family-holiday](/images/background/family/eastern-arunachal-family-holidaygallery.jpg)
 
 
 
@@ -132,5 +132,5 @@ We have a very experienced team which is also local. This reflects in the overal
 ##### Other Family Tours
 ---
 
-###### [**Assam**  (Jewels of the Brahmaputra)](/family/assam-family-holiday/) 
-###### [**Meghalaya**(Natures Amusement Park)](/family/family-holiday-in-meghalaya/)  
+###### [**Assam**  ( Jewels of the Brahmaputra )](/family/assam-family-holiday/) 
+###### [**Meghalaya**(Natures Amusement Park )](/family/family-holiday-in-meghalaya/)  
