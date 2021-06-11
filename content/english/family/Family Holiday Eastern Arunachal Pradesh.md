@@ -103,7 +103,7 @@ This  holiday can be tailored to your family’s personal preferences, be it the
 
 ###### TOUR IMAGES
 
-![Eastern-Arunachal-Pradesh-family-holiday](/images/background/family/eastern-arunachal-family-holidaygallery.jpg)
+![Eastern-Arunachal-Pradesh-family-holiday](/images/background/family/eastern-arunachal-family-holiday-gallery.jpg)
 
 
 
