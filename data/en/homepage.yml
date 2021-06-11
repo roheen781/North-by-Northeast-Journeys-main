@@ -179,7 +179,7 @@ testimonial:
       
 ########################################## blog ####################################
 blog:
-  enable : false
+  enable : true
   # blog item comes from "content/departures" folder
   
 ################################ clints logo slider ################################
