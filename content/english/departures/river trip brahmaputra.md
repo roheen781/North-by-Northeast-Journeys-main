@@ -6,7 +6,7 @@ bg_image: images/background/departures/river trip.jpg
 image : images/background/departures/River trip main.jpg
 live_demo : 
 case_study : 
-category: River Journey (New Year)
+category: To be decided
 Weight: 2
 
 # overview
@@ -33,7 +33,7 @@ overview:
     
   - label : Dates
     icon : ti-shine
-    data : 28 Dec - 2 Jan 2021
+    data : xxx
 
   - label : COST
     icon : ti-wallet

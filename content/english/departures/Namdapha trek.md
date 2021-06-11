@@ -6,7 +6,7 @@ bg_image: images/background/departures/namdapha trek.jpg
 image : images/background/departures/Namdapha trek main.jpg
 live_demo : 
 case_study : 
-category: Trekking & Wildlife (Christmas)
+category: to be decided
 Weight: 1
 
 # overview
@@ -33,7 +33,7 @@ overview:
     
   - label : Dates
     icon : ti-shine
-    data : 21 - 27 Dec 2020
+    data : xxx
 
   - label : COST
     icon : ti-wallet
