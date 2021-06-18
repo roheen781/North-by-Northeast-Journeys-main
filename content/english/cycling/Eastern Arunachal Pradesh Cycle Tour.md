@@ -7,7 +7,7 @@ image : images/background/cycling/Eastern-Arunachal-Pradesh-cycle-tour.jpg
 live_demo : 
 case_study : 
 category: Easy to Moderate
-Weight: 1
+Weight: 2
 
 # overview
 overview:

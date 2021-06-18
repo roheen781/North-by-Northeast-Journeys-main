@@ -1,13 +1,13 @@
 ---
-title: "Cycle tour of Assam & Arunachal Pradesh: The Brahmaputra explorer"
+title: "Cycle tour of Assam: The Brahmaputra explorer"
 date: 2018-09-24T14:48:03+06:00
-description : "This Cycle Tour takes you around the Brahmaputra valley of Assam & Arunachal Pradesh"
+description : "This Cycle Tour takes you around the Brahmaputra valley of Assam, the physical heart of Northeast India."
 bg_image: images/background/cycling/Assam-Cycle-Tour.jpg
-image : images/background/cycling/Cycle-Tour-of-Assam-and-Arunachal-Pradesh.jpg
+image : images/background/cycling/Cycling-tour-Assam.jpg
 live_demo : 
 case_study :
-category: Moderate to Strenuous
-Weight: 3
+category: Easy to Moderate
+Weight: 1
 
 # overview
 overview:
@@ -29,7 +29,7 @@ overview:
 
   - label : AIRPORT OUT
     icon : ti-location-pin
-    data : Dibrugarh (Assam)
+    data : Guwahati (Assam)
     
   - label : BEST TIME
     icon : ti-shine
@@ -44,9 +44,9 @@ overview:
 type : project
 ---
 
-#### Cycle tour of Assam & Arunachal Pradesh: Cycling the physical heart of Northeastern India
+#### Cycle tour of Assam: Cycling the heart of Northeastern India
 
-This cycle tour takes you along the length of the Brahmaputra River, across parts of Assam and Arunachal Pradesh. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
+The cycle tour of Assam takes you to the length of the Brahmaputra Valley. This is the physical heart of Northeast India, a verdant region fed by a network of mighty rivers coming down from the mountains on three sides. As the tour progresses you will interact and observe diverse cultures. Starting from Guwahati at the heart of the Brahmaputra Valley you will come across the settled and relatively more sophisticated people of the plains including the Assamese, Bodo and Mishing in particular. You will also come across smaller groups including the Tea tribes of the region. As you make your way east you will cover territories of the Animist tribes and then the Theravada Buddhist tribes of eastern Arunachal Pradesh.
 
 Enroute you will ride across and visit wildlife parks, cross rivers on ferries, experience life in the largest river island of the world, learn the process and life of tea, meet a plethora of ethinic, lingual and religiously diverse groups that call this region their home. In comparison to the hills around this region is more settled, with rich written history and traditions. In fact some of the only written scripts of the entire northeastern region can be found here. 
 
@@ -62,14 +62,14 @@ The Tour is flexible and will be designed around the duration you have in hand.
 ```
 > Level: Moderate to Strenuous
 > Total Days: 7 to 15
-> Max. Cycling distance: Upto 650 Km
+> Max. Cycling distance: Upto 600 Km
 > Avg. Cycling Distance: 65 Km
 > Terrain: 90% Plains
 > Altitude variation: 50 to 800 mts
 
 > Best Time: October to March
 > Airport in: Guwahati (Assam)
-> Airport out: Dibrugarh (Assam)
+> Airport out: Guwahati (Assam)
 ```
 
 

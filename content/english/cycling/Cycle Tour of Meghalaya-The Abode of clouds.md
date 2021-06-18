@@ -7,7 +7,7 @@ image : images/background/cycling/Cycle-tour-of-Meghalaya.jpg
 live_demo : 
 case_study : 
 category: Moderate to Strenuous
-Weight: 2
+Weight: 3
 
 
 
