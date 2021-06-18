@@ -14,3 +14,6 @@ Brahmaputra River flows some 1,800 miles (2,900 km) from its source in the Himal
 The Siang, winding out of the mountains, turns toward the southeast and descends into a low-lying basin as it enters northeastern state of Assam. Just west of the town of Sadiya, the river again turns to the southwest and is joined by two other mighty mountain rivers, the Lohit and the Dibang. Below that confluence, about 900 miles (1,450 km) from the Bay of Bengal, the river becomes known conventionally as the Brahmaputra (“Son of Brahma”). In Assam the river is mighty, even in the dry season, and during the rains its banks are more than 5 miles (8 km) apart. As the river follows its braided 450-mile (700-km) course through the valley, it receives several rapidly rushing Himalayan streams, including the Subansiri, Kameng, Bhareli, Dhansiri, Manas, Champamati, Saralbhanga, and Sankosh rivers. The main tributaries from the hills and from the plateau to the south are the Burhi Dihing, the Disang, the Dikhu, and the Kopili.
 
 The setting of our river journeys is the Mighty Brahmaputra and it tributaries.
+
+
+---

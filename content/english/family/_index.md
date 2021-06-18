@@ -11,3 +11,5 @@ Active Adventures for the whole family. Our Family holidays in northeast India h
 
 The given packages are a few examples, these  can be further modified to suit your taste and requirements or we can just start a new itinerary right from scratch. These trips can be guided, unguided , driver driven or selfdriven depending on your preference.
 
+---
+
