@@ -1,7 +1,7 @@
 ---
-title: "Cycle tour of Western Arunachal Pradesh: The Himalayan High"
+title: "Cycle tour of Western Arunachal Pradesh: The Himalayan High | 9 to 15 days"
 date: 2018-09-24T14:48:03+06:00
-description : "Cycle tour of Western Arunachal Pradesh. This Cycling holiday takes you riding along the Bhutan and Tibet borders of Arynachal Pradesh"
+description : "Cycle tour of Western Arunachal Pradesh. This Cycling holiday takes you riding along the Bhutan and Tibet borders of western Arunachal Pradesh"
 bg_image: images/background/cycling/Arunachal-pradesh-Tawang-cycle-tour.jpg
 image : images/background/cycling/Western-Arunachal-Pradesh-cycle-tour.jpg
 live_demo : 
@@ -44,6 +44,8 @@ type : project
 ---
 
 #### Cycle Tour of Western Arunachal Pradesh: The Himalayan High
+
+---
 
 This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang, lying close to the trijuncture of India, Bhutan and Tibet. This is  the Buddhist belt, home to the Monpa, Sherdukpen and to an extent the Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India.
 
@@ -108,7 +110,7 @@ This region has some of the highest motorable roads of the eastern Himalayas, at
 
 ###### TOUR IMAGES
 
-![Tawang-Cycle-Tour-ArunachalPradesh](/images/background/cycling/tawang-cycle-tour-arunachal-pradesh.jpg)
+![Tawang Cycle Tour-Arunachal Pradesh](/images/background/cycling/tawang-cycle-tour-arunachal-pradesh.jpg)
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: "Cycle tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra "
+title: "Eastern Arunachal Pradesh cycle tour: Watershed of the Brahmaputra | 6 to 12 days "
 date: 2018-09-24T14:48:03+06:00
-description : "This Cycle tour takes you to Eastern Arunachal Pradesh. Ride across the watershed of the Mighty Brahmaputra River"
+description : "The Cycle tour of Eastern Arunachal Pradesh, takes you riding across the watershed of the Mighty Brahmaputra Valley"
 bg_image: images/background/cycling/Eastern-Arunachal-cycle-tour.jpg
 image : images/background/cycling/Eastern-Arunachal-Pradesh-cycle-tour.jpg
 live_demo : 
@@ -13,7 +13,7 @@ Weight: 2
 overview:
   - label : STATES
     icon : ti-world
-    data : Assam, Arunachal Pradesh 
+    data : Arunachal Pradesh 
 
   - label : LEVEL
     icon : ti-dashboard
@@ -45,6 +45,8 @@ type : project
 ---
 
 #### Cycle tour of Eastern Arunachal Pradesh: Birth of the Brahmaputra Valley
+
+---
 
 This cycle tour of  Eastern Arunachal Pradesh (the eastern most state of India) takes you to the watershed of the mighty Brahmaputra River. This is where the three easternmost tributaries come together to form one of the mightiest river valleys of the world.
 

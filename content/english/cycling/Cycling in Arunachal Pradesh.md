@@ -1,7 +1,7 @@
 ---
-title: "Cycling in Eastern Arunachal Pradesh: The Mishmi Hills Explorer "
+title: "Cycling in Arunachal Pradesh: The Mishmi Hills Explorer | 11 to 15 days "
 date: 2018-09-24T14:48:03+06:00
-description : "This tour takes you cycling to the Mishmi Hills of Arunachal Pradesh, the easternmost flank of Himalayan chain"
+description : "This cycle tour of Arunachal Pradesh takes you to the Mishmi Hills, the easternmost flank of Himalayan chain"
 bg_image: images/background/cycling/Mishmi-hills-cycle-tour-Arunachal-Pradesh.jpg
 image : images/background/cycling/Mishmi-hills-cycle-tour.jpg
 live_demo : 
@@ -21,7 +21,7 @@ overview:
     
   - label : DURATION
     icon : ti-flag-alt
-    data : 13 to 15 days
+    data : 11 to 15 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -43,7 +43,8 @@ overview:
 type : project
 ---
 
-#### Cycling in Eastern Arunachal Pradesh: Himalaya's eastern flank
+#### Cycling in the Mishmi Hills of Arunachal Pradesh: Himalaya's eastern flank
+---
 
 The cycle tour of Mishmi Hills takes you to the far eastern flank of the Himalayas, this is where the mighty Himalayan chain ends (or starts). Lying in the eastern Arunachal Pradesh, the Mishmi hills is an untouched wonderland of undending swathes of prestine nature. This is home to the animist Mishmi tribes, some of the smallest linguistic groups of the subcontinent. For most parts we will come in contact with the Idu Mishmi who worship several benevolent and malevolent spirits. Nani-Intaya and Masello Zino are worshipped as creators of mankind and universe as a whole. Mythological characters like SINE-RU a first IGU (Idu Priest) still holds high place and reverence in the minds of the people. The prints of his palm on the huge rocks at Athu Popu near Keyala Pass on the Chinese border, is considered as their shrine. 
 
@@ -58,7 +59,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 ###### OVERVIEW
 ```
 > Level: Tough
-> Total Days: 13 to 15
+> Total Days: 11 to 15
 > Max. Cycling distance: Upto 650 Km
 > Avg. Cycling Distance: 60 Km
 > Terrain: 70% Hilly / Mountanious
@@ -108,7 +109,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 ###### TOUR IMAGES
 
-![Mishmi-hills-cycle-tour-Arunachal-Pradesh](/images/background/cycling/mishmi-hills-cycle-tour-gallery.jpg)
+![Mishmi hills cycle tour-Arunachal Pradesh](/images/background/cycling/mishmi-hills-cycle-tour-gallery.jpg)
 
 
 
