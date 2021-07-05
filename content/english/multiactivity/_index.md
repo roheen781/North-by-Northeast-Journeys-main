@@ -2,7 +2,7 @@
 title: "Multi-Activity Holidays in Northeast India | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/multiactivity/Multiactivity-tours-of-northeast-india-main.jpg
-description : "We offer Multi-activity tours across the untouched northeastern states of India. These tours are a combination of various activities, such as cycling, hiking, rafting, etc.."
+description : "We offer Multi-activity tours across the beautiful states of northeast India. These tours are a combination of various activities, such as cycling, hiking, rafting, etc.."
 ---
 
 ## Multi-Activity holidays across Northeastern India

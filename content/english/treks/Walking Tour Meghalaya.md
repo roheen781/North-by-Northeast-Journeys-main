@@ -1,5 +1,5 @@
 ---
-title: "Walking Tour of Meghalaya: Walks in the clouds"
+title: "Walking Tour of Meghalaya: Walks in the clouds | 6 to 9 days "
 date: 2018-09-24T14:48:03+06:00
 description : "Walking Tour of Meghalaya. A series of day walks across the Khasi and Jaintia hills of Meghalaya"
 bg_image: images/background/treks/walking-tour-of-meghalaya.jpg
@@ -47,6 +47,8 @@ type : project
 ---
 
 #### Walking Tour of Meghalaya: Explorations in the 'Abode of Clouds'
+
+---
 
 This Walking holiday takes you to beautiful Meghalaya, 'The Abode of clouds’.   Meghalaya is a hilly state jutting out between the vast plains of the Brahmaputra valley and that of Bangladesh. Due to its unique geographical location this region records some of the heaviest rainfall on earth, which in turn leads to this state having such a lush and verdant environment. 
 

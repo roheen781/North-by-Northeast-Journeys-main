@@ -1,7 +1,7 @@
 ---
-title: "Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft & Culture"
+title: "Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft & Culture | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
-description : "This Multi activity holiday takes you to Eastern Arunachal Pradesh. Hike, bike, Raft and more in the land of the 'Dawn lit Mountains'"
+description : "This Multi activity holiday of Eastern Arunachal Pradesh, takes you hiking, cycling, and rafting in the land of the 'Dawn lit Mountains'"
 bg_image: images/background/multiactivity/Multi-activity-tour-in-eastern-arunachal-pradesh.jpg
 image : images/background/multiactivity/Eastern-Arunachal-Pradesh-multi-activity-tour.jpg
 live_demo : 
@@ -44,7 +44,8 @@ overview:
 type : project
 ---
 
-#### Multi-activity tour of eastern Arunachal Pradesh: Birth of one of the Brahmaputra Valley
+#### Multi-activity tour of eastern Arunachal Pradesh: Eastern tributaries of the Brahmaputra explored
+---
 
 This multi-activity tour of eastern Arunachal Pradesh takes us on bicycles, rafts and on foot across the watershed area of the Brahmaputra River valley. This region situated at the foothills of the Mishmi hills the eastern flank to the Himalayan chain, is the land of the Animist and Theravada Buddhist tribes. 
 

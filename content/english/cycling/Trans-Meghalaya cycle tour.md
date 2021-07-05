@@ -1,7 +1,7 @@
 ---
-title: "Cycling Holiday in Meghalaya: The Trans-Meghalaya Explorer"
+title: "Cycling Holiday in Meghalaya: The Trans-Meghalaya Explorer | 10 to 15 days"
 date: 2018-09-24T14:48:03+06:00
-description : "This cycling holiday takes you riding across the Garo, Khasi and Jaintia hills of Meghalaya, in essence covering the best of this state  "
+description : "This cycling holiday og Meghalaya takes you across the Garo, Khasi and Jaintia hills, in essence covering the best of the state  "
 bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
 image : images/background/cycling/Trans meghalaya cycle tour.jpg
 live_demo : 
@@ -45,6 +45,8 @@ type : project
 ---
 
 #### Cycle Tour of Meghalaya: Cycling the Garo, Khasi and Jaintia hills
+
+---
 
 The Trans Meghalaya cycling tour takes you across the three hill ranges of the state. Starting from the west in the Garo Hills, we ride eastewards across the Khasi and Jaintia hills, in essence taking in the best that the state has to offer. The state of Meghalaya is the first line of hills that the Monsoon clouds touch upon crossing peninsular India, hence it receives some of the highest rainfall anywhere on earth. The state has three distinct major tribes after whom the hills are known for.
 
