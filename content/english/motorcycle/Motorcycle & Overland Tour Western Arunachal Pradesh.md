@@ -105,7 +105,11 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 
 ![Motorcycle-Tour-of-Arunachal-Pradesh-Tawang](/images/background/motorcycle/tawangmotorcycletourgallery.jpg)
 
+---
 
+###### [**Click link for Video** ](https://www.youtube.com/watch?v=LmAOHJLz5sE&t=105s&ab_channel=NorthBynortheast)
+
+---
 
 ### FAQ
 

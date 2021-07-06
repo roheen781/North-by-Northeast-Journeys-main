@@ -107,7 +107,11 @@ The route is quite flexible depending the duration you have in hand, level of in
 
 ![Trans-Meghalaya-Motorcycle-Tour](/images/background/motorcycle/meghalayamotorcycletourgallery.jpg)
 
+---
 
+###### [**Click link for Video** ](https://www.youtube.com/watch?v=0tmwryioB5E&ab_channel=NorthBynortheast)
+
+---
 
 
 
