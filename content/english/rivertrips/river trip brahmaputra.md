@@ -102,7 +102,7 @@ Mail us at info.northbynortheast@gmail.com
 
 ![River-Trip-in-Arunachal-Pradesh-and-Assam](/images/background/departures/rivertripgallery.jpg)
 
-###### Mail us at info.northbynortheast@gmail.com
+###### [**Click link for Video** ](https://www.youtube.com/watch?v=wrkph7qbqEs&ab_channel=NorthBynortheast)
 
 ### FAQ
 
