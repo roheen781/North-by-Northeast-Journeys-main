@@ -104,6 +104,8 @@ Mail us at info.northbynortheast@gmail.com
 
 ###### [**Click link for Video** ](https://www.youtube.com/watch?v=wrkph7qbqEs&ab_channel=NorthBynortheast)
 
+---
+
 ### FAQ
 
 ##### River conditions 
