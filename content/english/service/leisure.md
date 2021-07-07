@@ -9,8 +9,13 @@ brochure:
 type : service
 Weight: 3
 ---
+##### **LEISURE HOLIDAYS**
 
-Holidays that take you away from the maddening crowds, kick off your shoes, destress and enjoy the serenity while we take care of the rest. Be its a Tea Bungalow set amidst a verdant plantation, quaint Eco lodges set amidst a rural scape or camping on the white sands of a torquoise river, we know the best palces to unwind from the hurryburry of life. **Please write in to us to plan your holiday**
+---
+Holidays that take you away from the maddening crowds, kick off your shoes, destress and enjoy the serenity while we take care of the rest. Be its a Tea Bungalow set amidst a verdant plantation, quaint Eco lodges set amidst a rural scape or camping on the white sands of a torquoise river, we know the best palces to unwind from the hurryburry of life. 
+
+---
+
 
 
 
@@ -18,4 +23,6 @@ Holidays that take you away from the maddening crowds, kick off your shoes, dest
 ![Ecolodges-of-Northeast-India](/images/links/ecolodges.jpg)
 ![Camping-getaways-in-Northeast-India](/images/links/camping.jpg)
 
+---
 
+###### **>> Please write in to us to plan your holiday**
