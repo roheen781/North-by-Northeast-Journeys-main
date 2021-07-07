@@ -47,7 +47,7 @@ type : project
 
 ---
 
-This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang, lying close to the trijuncture of India, Bhutan and Tibet. This is  the Buddhist belt, home to the Monpa, Sherdukpen and to an extent the Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India.
+This cycling tour of western Arunachal Pradesh takes you all the way to the periphery of beautiful Tawang. Lying close to the tri-juncture of India, Bhutan and Tibet, this is  the Buddhist belt, home to the Monpa, Sherdukpen and Brokpa people. Up till 1935 this region was administered and taxed by the Tibetian authorities. In 1938 Capt. GS Lightfoot was sent to demonstrate British sovereignty over the region. It was only in 1944 that the Tibetian authorities accepted the proposed Mcmohan line (1914 line) as the defacto border and hence it becoming a part of British India.
 
 This region has some of the highest motorable roads of the eastern Himalayas, at places taking you to an altitude of 4600 mts. We start cycling from the lush tea fields of the Brahmaputra valley, making our way through the sub-tropial broad leaf forest at the foothills to the alpine forest and finally crossing beyond the tree line. Enroute you will pass through small settlements and towns giving you a first hand view into the life in these mountanious regions. The cycling phase covers between 300 to 650 Kms depending on the duration you choose, for most parts riding on little used backroads of this region historically known as the Monyul. Incidentally, in a rough manner we mirror the same route the Dalai Lama used in his exodus from Tibet in the year 1959. 
 
@@ -64,7 +64,7 @@ This region has some of the highest motorable roads of the eastern Himalayas, at
 > Level: Tough
 > Total Days: 9 to 15
 > Max. Cycling distance: Upto 650 Km
-> Avg. Cycling Distance: 70 Km (Plains), 50Km (Mountains)
+> Avg. Cycling Distance: 70 Km (Plains), 55Km (Mountains)
 > Terrain: 85% Hilly / Mountanious
 > Altitude variation: 50 to 4200 mts
 
@@ -79,8 +79,8 @@ This region has some of the highest motorable roads of the eastern Himalayas, at
 ###### HIGHLIGHTS
 ```
 > Some of the highest motorable roads in the Eastern Himalayas
-> Region of the Buddhist tribes of Arunachal Pradesh
-> Little used back roads deep in the eastern Himalayas
+> Meet yhe Monpa, Sherdukpen and Brokpa people
+> Little used back roads with negligable traffic
 > Tea Plantations, River Valleys, Remote Villages
 > Wildlife at Kaziranga National Park
 > Spot the endangered River Dolphins of the Brahmaputra

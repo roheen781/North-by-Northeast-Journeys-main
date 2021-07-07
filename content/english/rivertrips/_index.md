@@ -7,6 +7,8 @@ description : "River trips in Northeast India. We offer exciting river journeys 
 
 ## River trips in Northeastern India
 
+---
+
 Rivers, the great, ever-changing highways of water on the banks of which nearly all early civilizations were built. Nodi in Assamese, Nehir in Turkish, rio in Spanish -- the river's signifier in almost every language is beautiful, conjuring images of life and death, of settlement and flight, of the unstoppable flowing movement and renewal of all things. 
 
 Brahmaputra River flows some 1,800 miles (2,900 km) from its source in the Himalayas to its confluence with the Ganges (Ganga) River, after which the mingled waters of the two rivers empty into the Bay of Bengal. Along its course the Brahmaputra passes through the Tibet Autonomous Region of China, the Indian states of Arunachal Pradesh and Assam, and finally Bangladesh.In its lower course the river is both a creator and a destroyer—depositing huge quantities of fertile alluvial soil but also causing disastrous and frequent floods.
@@ -16,4 +18,3 @@ The Siang, winding out of the mountains, turns toward the southeast and descends
 The setting of our river journeys is the Mighty Brahmaputra and it tributaries.
 
 
----

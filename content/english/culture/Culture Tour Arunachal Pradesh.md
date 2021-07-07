@@ -1,7 +1,7 @@
 ---
-title: "Culture Tour of Arunachal Pradesh: Tribes of the 'Dawn lit Mountains'"
+title: "Culture Tour of Arunachal Pradesh: Tribes of the 'Dawn lit Mountains' | 8 to 15 days"
 date: 2018-09-24T14:48:03+06:00
-description : "Culture tour of Arunachal Pradesh. The Tribes of Arunachal Pradesh."
+description : "Culture tour of eastern Arunachal Pradesh. The Tribes of Arunachal Pradesh."
 bg_image: images/background/culture/Festival hop of Eastern Arunachal.jpg
 image : images/background/culture/Tribes of Arunachal Pradesh.jpg
 live_demo : 
@@ -40,7 +40,9 @@ overview:
 type : project
 ---
 
-### A cultural odyssey across Arunachal Pradesh.
+### A cultural odyssey across Arunachal Pradesh
+
+---
 
 The origins of the tribes that are currently living in Arunachal Pradesh remain shrouded in mystery. Whatever little is known has been passed down from generation to generation via oral traditions. It is widely believed that the tribes who inhabit this land now, came from Burma (present day Myanmar) and Tibet, where Mongoloid tribal groups with similar cultures still live.
 
@@ -54,7 +56,14 @@ On this cultural journey of Arunachal Pradesh, we travel across territories of 1
 
 ``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
 
+###### TOUR IMAGES
+
+![Culture-tour-of-Assam-and-Arunachal-Pradesh](/images/background/culture/culture-tour-Arunachal-Pradesh.jpg)
+
+
 #### Other Ethno-Cultural Tours
+
+---
 
 ###### [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/) 
 ###### [**Nagaland & Assam** (The Hornbill Festival)](/culture/culture-tour-of-nagaland-hornbill-festival/)  

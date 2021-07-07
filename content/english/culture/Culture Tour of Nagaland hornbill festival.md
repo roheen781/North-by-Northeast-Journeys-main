@@ -1,5 +1,5 @@
 ---
-title: "Culture Tour of Nagaland & Assam: Hornbill Festival and beyond"
+title: "Culture Tour of Nagaland & Assam: Hornbill Festival and beyond | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "Hornbill Festival Tour, Nagaland and Assam. Culture, Cuisine and Wildlife of Assam and Nagaland"
 bg_image: images/background/culture/Hornbill festival tour main.jpg
@@ -42,6 +42,8 @@ type : project
 
 #### Culture Tour of Nagaland & Assam: Tribes & Wildlife, Nagaland & Assam
 
+---
+
 This tour takes you to western Nagaland and central Assam.In Nagaland we get deep insights to the tribes of the region and their rich culture, Where as in Assam we indulge in a bit of wildlife safari's and Tea plantation stays.
 
  Often cited as “festival of all festivals”, The Hornbill Festival is a grand celebration that is brought to life each year in Nagaland. It is named after a bird, who is a symbol of ‘‘Respect’’ and ‘‘Folklore’’ among the Nagas. The festival is a powerful representation of the Naga culture through splendid traditional music, dance, traditional games and performances. For a  visitor it means a closer understanding of the people and diverse culture of Nagaland, and an opportunity to experience Naga food which is no less varied, as are the songs, dances and customs of the place. This colourful festival is a certain paradise for a foodie, particularly if one happens to be a non- vegetarian. Nagas love to feast and feed, and at Kisama one can try all kinds of Naga traditional food and also watch them being made during the Hornbill Festival days. Travellers are welcomed warmly to the traditional huts of each tribe showcasing respective traditions. For those interested, one may seat with the youths and elderly people of the tribes alike and interact with them. One can also take part in various contests such as Naga chilly eating, pork eating besides traditional games and other traditional competitions.
@@ -54,9 +56,11 @@ This tour takes you to western Nagaland and central Assam.In Nagaland we get dee
 
 ###### TOUR IMAGES
 
-![Hornbill-festival-tour-Nagaland-and-Assam](/images/background/culture/hornbillfestivalgallery.jpg)
+![Hornbill-festival-tour-Nagaland-and-Assam](/images/background/culture/hornbill-festival-gallery.jpg)
 
 #### Other Ethno-Cultural Tours
+
+---
 
 ###### [**Arunachal Pradesh** (Tribes of Arunachal)](/culture/culture-tour-arunachal-pradesh/) 
 ###### [**Eastern Arunachal Pradesh** (Theravada & Animist Lands)](/culture/culture-tour-eastern-arunachal-pradesh/)  
