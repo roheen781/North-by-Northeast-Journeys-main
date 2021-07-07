@@ -9,16 +9,16 @@ brochure:
 type : service
 Weight: 1
 ---
-##### **ACTIVE ADVENTURES**
 
----
 We offer Active Adventure tours for the avid as well as novice, be it relaxed or a real test of determination and endurance. Our Cycling, Treks & Walks, Multi-Activity, Motorcycle & Overland, River Journeys and Youth Expeditions are unparalleled in this region, be it from the prospective of the experience itself, the choice of remote destinations or the seamless backup that we provide.
 
  We have spent a decade perfecting and innovating these adventures. Though we offer quite a variety to choose from on the site itself, rest assured with our knowledge of the region we can customize tours per your requirements.
 
-
-
 ---
+##### **ACTIVE ADVENTURES**
+---
+
+
 + [**CYCLING >>**](/cycling/)
 + [**TREKS & WALKS >>**](/treks/)
 + [**MULTI-ACTIVITY >>**](/multiactivity/)
