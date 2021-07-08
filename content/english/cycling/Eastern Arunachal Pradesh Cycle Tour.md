@@ -111,7 +111,7 @@ Exciting experiences right from crossing one of the largest rivers of India in A
 
 ###### TOUR IMAGES
 
-![Cycle-tour-of-eastern-arunachal-pradesh](/images/background/cycling/eastern-arunachal-pradesh-cycle-tour-gallery.jpg)
+![Cycle-tour-of-eastern-arunachal-pradesh-North-East-India](/images/background/cycling/eastern-arunachal-pradesh-cycle-tour-gallery.jpg)
 
 ---
 

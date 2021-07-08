@@ -109,7 +109,7 @@ Over the duration of this tour you will be cycling across the best that Meghalay
 
 ###### TOUR IMAGES
 
-![Trans-Meghalaya-Cycle-Tour](/images/background/cycling/trans-meghalaya-cycle-tour-gallery.jpg)
+![Trans-Meghalaya-Cycle-Tour-North-East-India](/images/background/cycling/trans-meghalaya-cycle-tour-gallery.jpg)
 
 
 

@@ -114,7 +114,7 @@ On this bicycle tour of Meghalaya we will be riding through the west Khasi and n
 
 ###### TOUR IMAGES
 
-![Meghalaya-Cycle-Tour](/images/background/cycling/meghalaya-cycle-tour-gallery.jpg)
+![Meghalaya-Cycle-Tour-North-East-India](/images/background/cycling/meghalaya-cycle-tour-gallery.jpg)
 
 
 

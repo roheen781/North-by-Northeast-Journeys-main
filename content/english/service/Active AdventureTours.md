@@ -1,7 +1,7 @@
 ---
 title: "Active Adventure Holidays in Northeast India"
 date: 2018-09-29T11:54:02+06:00
-description : "Active adventure holidays across Northeast India. North by Northeast journeys offers Cycling, Trekking, Overland, River trips and more."
+description : "Active adventure holidays across Northeast India. North by Northeast journeys offers Cycling, Trekking, Overland, River trips, Youth travel and more."
 image: images/service/adventure.jpg
 bg_image: images/service/adventure_main.jpg
 icon: ti-arrow-circle-down

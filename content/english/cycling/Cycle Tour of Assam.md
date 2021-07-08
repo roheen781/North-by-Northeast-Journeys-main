@@ -113,7 +113,7 @@ Starting from Guwahati at the heart of the Brahmaputra Valley you will come acro
 
 ###### TOUR IMAGES
 
-![Cycle-Tour-of-Assam](/images/background/cycling/assam-cycle-tour-gallery.jpg)
+![Cycle-Tour-of-Assam-North-East-India](/images/background/cycling/assam-cycle-tour-gallery.jpg)
 
 
 

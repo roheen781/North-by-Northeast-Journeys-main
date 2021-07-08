@@ -109,7 +109,7 @@ This cycle tour you will take you riding across diverse conditions on little use
 
 ###### TOUR IMAGES
 
-![Mishmi hills cycle tour-Arunachal Pradesh](/images/background/cycling/mishmi-hills-cycle-tour-gallery.jpg)
+![Mishmi hills cycle tour-Arunachal Pradesh-North-East-India](/images/background/cycling/mishmi-hills-cycle-tour-gallery.jpg)
 
 ---
 
