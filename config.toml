@@ -223,6 +223,8 @@ author = "North by Northeast Journeys"
 contact_form_action = "https://formspree.io/f/mvovqgwd"
 # Google Analitycs
 google_analitycs_id = "UA-180443036-1"
+# Google Search console
+google-site-verification = "google530e349ffa662ad8.html"
 
 
 
