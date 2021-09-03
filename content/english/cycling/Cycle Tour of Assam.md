@@ -142,10 +142,10 @@ We have a very experienced team which is also local. This reflects in the overal
 #### Other Cycle Tours
 ---
 
-###### *Meghalaya*
+###### **Meghalaya**
 
-+ [Meghalaya (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
-+ [Meghalaya (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
++ [The Abode of clouds ](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/) 
++ [Trans-Meghalaya ](/cycling/trans-meghalaya-cycle-tour/) 
 
 ---
 ###### *Arunachal Pradesh*
@@ -157,7 +157,7 @@ We have a very experienced team which is also local. This reflects in the overal
 ---
 ###### *Sikkim & W Bengal*
 
-+ [Sikkim & W Bengal (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
++ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
 
 ---
 

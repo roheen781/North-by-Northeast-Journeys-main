@@ -45,17 +45,6 @@ sections:
   match: "**/*"
   templates:
   - project
-  
-- type: heading
-  label: motorcycle
-- type: directory
-  path: trial/content/english/Motorcycle
-  label: Motorcycle (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - motorcycle
-
 - type: directory
   path: trial/content/french/project
   label: Project (fr)

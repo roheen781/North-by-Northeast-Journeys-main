@@ -135,19 +135,19 @@ We have a very experienced team which is also local. This reflects in the overal
 #### Other Cycle Tours
 ---
 
-###### *Assam*
+###### **Assam**
 
-+ [Assam & Arunachal Pradesh (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) 
-
----
-
-###### *Meghalaya*
-
-+ [Meghalaya (The Abode of clouds)](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
-+ [Meghalaya (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
++ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
 
 ---
-###### *Arunachal Pradesh*
+
+###### **Meghalaya**
+
++ [The Abode of clouds](/cycling/cycle-tour-of-meghalaya-the-abode-of-clouds/)
++ [Trans-Meghalaya](/cycling/trans-meghalaya-cycle-tour/) 
+
+---
+###### **Arunachal Pradesh**
 
 + [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
 + [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 

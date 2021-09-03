@@ -1,5 +1,5 @@
 ---
-title: "Cyle tour of Meghalaya: The Abode of clouds | 6 to 12 days"
+title: "Cycle tour of Meghalaya: The Abode of clouds | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle tour of Meghalaya takes you riding across the Khasi and Jaintia Hills."
 bg_image: images/background/cycling/Meghalaya-cycle-tour.jpg
@@ -145,27 +145,27 @@ We have a very experienced team which is also local. This reflects in the overal
 
 #### Other Cycle Tours
 ---
-###### *Assam*
+###### **Assam**
 
-+ [Assam & Arunachal Pradesh (Brahmaputra Valley Explorer)](/cycling/cycle-tour-of-assam/) 
++ [Brahmaputra Valley Explorer](/cycling/cycle-tour-of-assam/) 
 
 ---
 
-###### *Meghalaya*
+###### **Meghalaya**
  
-+ [Meghalaya (Trans-Meghalaya)](/cycling/trans-meghalaya-cycle-tour/) 
++ [Trans-Meghalaya](/cycling/trans-meghalaya-cycle-tour/) 
 
 ---
-###### *Arunachal Pradesh*
+###### **Arunachal Pradesh**
 
 + [Eastern Arunachal Pradesh (Watershed of the Brahmaputra)](/cycling/eastern-arunachal-pradesh-cycle-tour/)  
 + [Eastern Arunachal Pradesh (The Mishmi Hills)](/cycling/cycling-in-arunachal-pradesh/) 
 + [Western Arunachal Pradesh (The Himalayan High)](/cycling/cycle-tour-of-western-arunachal-pradesh/) 
 
 ---
-###### *Sikkim & W Bengal*
+###### **Sikkim & W Bengal**
 
-+ [Sikkim & W Bengal (The Monastic Trail)](/cycling/cycle-tour-of-sikkim/)
++ [The Monastic Trail](/cycling/cycle-tour-of-sikkim/)
 
 ---
 

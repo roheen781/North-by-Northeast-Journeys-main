@@ -1,7 +1,7 @@
 ---
 title: "Motorcycle & Overland Tour of Assam & Arunachal Pradesh: Around the Brahmaputra "
 date: 2018-09-24T14:48:03+06:00
-description : "Motorcycle & Overland Tour of Assam & Arunachal Pradesh. This Motorcycle & Overland tour takes us around the Brahmaputra Valley and its surrponding hills."
+description : "Motorcycle & Overland Tour of Assam & Arunachal Pradesh. This Motorcycle & Overland tour takes us around the Brahmaputra Valley and its surrounding hills."
 bg_image: images/background/motorcycle/Motorcycle Tour of Assam and Arunachal Pradesh main.jpg
 image : images/background/motorcycle/Assam Arunachal Pradesh mototrcycle tour.jpg
 live_demo : 
