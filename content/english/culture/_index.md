@@ -1,11 +1,11 @@
 ---
-title: "Ethno-Cultural Tours of Northeast India | North by Northeast Journeys"
+title: "CULTURE & WILDLIFE | Culture and wildlife holidays in Northeast India "
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/culture/Culture tours of northeast india.jpg
-description : " Culture tours of Northeast India, land of the tribes. This region is home to some of the densest cultural, ethenic and lingual "
+description : " Culture and wildlife tours of Northeast India."
 ---
 
-## Cultural Immersions and Wildlife holidays across Northeastern India
+## Cultural Immersions and Wildlife escapades across Northeastern India
  
 ---
 

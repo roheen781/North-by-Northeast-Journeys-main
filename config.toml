@@ -94,15 +94,9 @@ disableLanguages = [] # desable language from here
 
     [[menu.main]]
     parent = "Activities"
-    name = "River Journeys"
-    URL = "rivertrips"
-    weight = 7
-
-    [[menu.main]]
-    parent = "Activities"
     name = "Youth Travels"
     URL = "youth"
-    weight = 8
+    weight = 7
 
     
 
@@ -149,13 +143,13 @@ disableLanguages = [] # desable language from here
 
  [[menu.main]]
   weight = 3
-  name = "Fixed Departures"
+  name = "Upcoming Trips"
   hasChildren = true
    
 
    [[menu.main]]
-    parent = "Fixed Departures"
-    name = " Upcoming Departures 2021/22"
+    parent = "Upcoming Trips"
+    name = "Departures 2022/23"
     URL = "departures"
     weight = 1
  

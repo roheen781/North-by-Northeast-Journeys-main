@@ -1,6 +1,6 @@
 ################################## Satisfied clients ###############################
 satisfied_clients:
-  enable : false
+  enable : true
   bg_image : images/background/clients-bg.jpg
   subtitle : Our Some
   title : Satisfied Clients

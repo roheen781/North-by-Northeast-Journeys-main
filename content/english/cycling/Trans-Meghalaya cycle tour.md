@@ -1,7 +1,7 @@
 ---
-title: "Cycling Holiday in Meghalaya: The Trans-Meghalaya Explorer | 10 to 15 days"
+title: "CYCLING HOLIDAY IN MEGHALAYA: The Trans-Meghalaya Explorer | 10 to 15 days"
 date: 2018-09-24T14:48:03+06:00
-description : "This cycling holiday og Meghalaya takes you across the Garo, Khasi and Jaintia hills, in essence covering the best of the state  "
+description : "This cycling holiday of Meghalaya takes you across the Garo, Khasi and Jaintia hills, in essence covering the best of the state  "
 bg_image: images/background/cycling/trans meghalaya cycle tour main.jpg
 image : images/background/cycling/Trans meghalaya cycle tour.jpg
 live_demo : 

@@ -6,7 +6,7 @@ bg_image: images/background/departures/Multi-activity-tour-Arunachal-Pradesh-dep
 image : images/background/departures/active holiday Arunachal Pradesh.jpg
 live_demo : 
 case_study : 
-category: October / November
+category: March
 Weight: 2
 
 

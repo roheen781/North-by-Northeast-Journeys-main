@@ -1,5 +1,5 @@
 ---
-title: "Fixed Departures Tours  |  2021 - 2022 season | NORTHEAST INDIA"
+title: "FIXED DEPARTURES | NORTHEAST INDIA 2022 - 23 season "
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/departures/Covid 19 travel.jpg
 description : "Safe holiday options in Northeast India during Covid 19 times"

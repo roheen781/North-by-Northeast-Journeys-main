@@ -1,5 +1,5 @@
 ---
-title: "Cycle tour of Meghalaya: The Abode of clouds | 6 to 12 days"
+title: "CYCLE TOUR OF MEGHALAYA: The Abode of clouds | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle tour of Meghalaya takes you riding across the Khasi and Jaintia Hills."
 bg_image: images/background/cycling/Meghalaya-cycle-tour.jpg

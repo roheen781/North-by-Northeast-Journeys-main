@@ -6,7 +6,7 @@ bg_image: images/background/treks/walking-tour-of-meghalaya.jpg
 image : images/background/treks/Walking-tour-of-Meghalaya .jpg
 live_demo : 
 case_study : 
-category: Easy to moderate
+category: Easy to Moderate
 Weight: 1
 
 # overview

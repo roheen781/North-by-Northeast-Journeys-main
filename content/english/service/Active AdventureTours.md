@@ -1,7 +1,7 @@
 ---
-title: "Active Adventure Holidays in Northeast India"
+title: "Active Adventure Holidays"
 date: 2018-09-29T11:54:02+06:00
-description : "Active adventure holidays across Northeast India. North by Northeast journeys offers Cycling, Trekking, Overland, River trips, Youth travel and more."
+description : "North by Northeast journeys offers active adventure holidays across Northeast India. Cycling, Trekking, Overland, River trips, Youth travel and more."
 image: images/service/adventure.jpg
 bg_image: images/service/adventure_main.jpg
 icon: ti-arrow-circle-down
@@ -19,13 +19,13 @@ We offer Active Adventure tours for the avid as well as novice, be it relaxed or
 ---
 
 
-+ [**CYCLING >>**](/cycling/)
-+ [**TREKS & WALKS >>**](/treks/)
-+ [**MULTI-ACTIVITY >>**](/multiactivity/)
-+ [**FAMILY ADVENTURES >>**](/family/)
-+ [**OVERLAND & MOTORCYCLE >>**](/motorcycle/)
-+ [**RIVER JOURNEYS >>**](/rivertrips/)
-+ [**YOUTH TRAVEL >>**](/youth/)
++ [![CYCLING HOLIDAYS IN NE INDIA](/images/links/cycling-in-NE-India.jpg)](/cycling/)
++ [![TREKS & WALKS IN NE INDIA](/images/links/treks&walks-in-NE-India.jpg)](/treks/)
++ [![MULTI-ACTIVITY TOURSIN NE INDIA ](/images/links/active-tours-NE-India.jpg)](/multiactivity/)
++ [![FAMILY ADVENTURES IN NE INDIA](/images/links/FAMILY-HOLIDAYS-in-NE-India.jpg)](/family/)
++ [![MOTORCYCLE & OVERLAND TOURS IN NE INDIA](/images/links/MOTORCYCLE&OVERLAND-in-NE-India.jpg)](/motorcycle/)
++ [![YOUTH TRAVEL IN NE INDIA](/images/links/youth-travel-in-NE-India.jpg)](/youth/)
+
 
 ---
 

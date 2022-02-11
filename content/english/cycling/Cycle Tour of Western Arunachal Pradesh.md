@@ -1,5 +1,5 @@
 ---
-title: "Cycle tour of Western Arunachal Pradesh: The Himalayan High | 9 to 15 days"
+title: "CYCLE TOUR OF WESTERN ARUNACHAL PRADESH: The Himalayan High | 9 to 15 days"
 date: 2018-09-24T14:48:03+06:00
 description : "Cycle tour of Western Arunachal Pradesh. This Cycling holiday takes you riding along the Bhutan and Tibet borders of western Arunachal Pradesh"
 bg_image: images/background/cycling/Arunachal-pradesh-Tawang-cycle-tour.jpg

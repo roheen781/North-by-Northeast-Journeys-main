@@ -1,5 +1,5 @@
 ---
-title: "Laidback Leisure Tours in Northeast India"
+title: "Laidback Leisure Tours"
 date: 2018-09-29T11:54:02+06:00
 description : "Leisure tours across Northeast India"
 image: images/service/leisure.jpg

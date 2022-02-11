@@ -5,6 +5,7 @@
 {{ if $data.homepage.slider.enable }}
 {{ partial "hero-slider.html" . }}
 {{ end }}
+
 {{ if $data.homepage.service.enable }}
 {{ "<!-- service -->" | safeHTML }}
 <section class="section">
@@ -22,18 +23,12 @@
 			{{ .Render "service" }}
 			{{ end }}
 			{{ end }}
+
 		</div>
 	</div>
 </section>
 {{ "<!-- /service -->" | safeHTML }}
 {{ end }}
-
-{{ if $data.homepage.about.enable }}
-{{ partial "about.html" . }}
-{{ end }}
-
-
-
 {{ if $data.homepage.project.enable }}
 {{ "<!-- work -->" | safeHTML }}
 <section class="section bg-gray">
@@ -49,11 +44,19 @@
 			{{ range $index, $element:= where .Site.RegularPages "Type" "project"}}
 			{{ .Render "project" }}
 			{{ end }}
+
+			
 		</div>
 	</div>
 </section>
 {{ end }}
-{{ "<!-- /work -->" | safeHTML }}
+
+
+
+
+{{ if $data.homepage.about.enable }}
+{{ partial "about.html" . }}
+{{ end }}
 
 
 {{ if $data.homepage.mission.enable }}
@@ -66,6 +69,10 @@
 
 {{ if $data.homepage.promo_video.enable }}
 {{ partial "promoVideo.html" . }}
+{{ end }}
+
+{{ if $data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
 {{ end }}
 
 {{ if $data.homepage.testimonial.enable }}
@@ -104,8 +111,6 @@
 {{ partial "clientsLogoSlider.html" . }}
 {{ end }}
 
-{{ if $data.homepage.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
+
 
 {{ end }}

@@ -1,5 +1,5 @@
 ---
-title: "Nature & Culture tours of Northeast India"
+title: "Nature & Culture tours"
 date: 2018-09-29T11:54:02+06:00
 description : "Wildlife Safari's, Birding Tours, Culture tours across Northeast India"
 image: images/service/wildlifenculture.jpg

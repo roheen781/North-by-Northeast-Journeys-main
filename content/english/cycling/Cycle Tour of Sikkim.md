@@ -1,5 +1,5 @@
 ---
-title: "Cycle Tour of Sikkim & W Bengal: The Monastic Trail"
+title: "CYCLE TOUR OF SIKKIM & W BENGAL: The Monastic Trail | 9 - 14 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle tour takes you through the best of Sikkim and West Bengal"
 bg_image: images/background/cycling/Sikkim-and-Bengal-cycle-tour.jpg

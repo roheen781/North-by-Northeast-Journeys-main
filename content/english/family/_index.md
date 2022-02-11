@@ -1,5 +1,5 @@
 ---
-title: "Family Adventure Holidays in Northeast India | North by Northeast Journeys "
+title: "FAMILY ADVENTURES | Family Holidays in Northeast India  "
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/family/Family holidays in Northeast India.jpg
 description : "Family Adventure holidays in northeast India. Wildlife, culture, adventure for the entire family in the prestine Northeast"

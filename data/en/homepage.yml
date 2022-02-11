@@ -5,9 +5,9 @@ slider:
     # slider item loop
     - bg_image : images/banner/Adventure holidays in Northeast India.jpg
       animation_from : left
-      title : NORTHEAST INDIA
-      subtitle : Active adventure holidays
-      content : CYCLING, TREKS & WALKS, MULTI-ACTIVITY, MOTORCYCLE & OVERLAND, FAMILY ADVENTURES, RIVER JOURNEYS
+      title : ACTIVE HOLIDAYS IN NORTHEAST INDIA
+      subtitle : North by Northeast Journeys
+      content : Cycling, Treks & Walks, Multi-Activity, Motorcycle & Overland, Family Adventures, Youth Travel
       pagination_icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       pagination_name : Adventure
       button:
@@ -18,8 +18,8 @@ slider:
     # slider item loop
     - bg_image : images/banner/Culture tours in Northeast India.jpg
       animation_from : up
-      subtitle : Cultural immersion
-      title : NORTHEAST INDIA
+      subtitle : North by Northeast Journeys
+      title : CULTURAL IMMERSIONS IN NORTHEAST INDIA
       content : TRIBES, FESTIVALS, CRAFT, CUISINE, HISTORY
       pagination_icon : ti-eye # themify icon pack : https://themify.me/themify-icons
       pagination_name : Culture
@@ -31,8 +31,8 @@ slider:
     # slider item loop
     - bg_image : images/banner/Wildlife safari in northeast india.jpg
       animation_from : down
-      subtitle : Nature holidays
-      title : NORTHEAST INDIA
+      subtitle : North by Northeast Journeys
+      title : NATURE HOLIDAYS IN NORTHEAST INDIA
       content : WILDLIFE SAFARIS, WILDFLOWER TRAILS
       pagination_icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
       pagination_name : Nature
@@ -44,8 +44,8 @@ slider:
     # slider item loop
     - bg_image : images/banner/Leisure holidays in northeast india.jpg
       animation_from : right
-      subtitle : Leisurely getaways
-      title : NORTHEAST INDIA
+      subtitle : North by Northeast Journeys
+      title : LEISURELY GETAWAYS IN NORTHEAST INDIA
       content : FAMILY GETAWAYS, QUIET OFF THE MAP ESCAPADES  `
       pagination_icon : ti-shine # themify icon pack : https://themify.me/themify-icons
       pagination_name : Leisure
@@ -59,9 +59,7 @@ slider:
 service:
   enable : true
   # service item comes from "content/service" folder
-
-
-
+  
 
         ########################################## project ####################################
 project:
@@ -75,7 +73,7 @@ about:
   enable : true
   bg_image : "images/banner/Travels in the Other India.jpg"
   title : "Welcome to India's far East"
-  content : "We at North by Northeast Journeys have over the years actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India include Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventures, Wildlife, Culture and Youth travel , all of which have local history, culture, interactions and the environment as their centerpiece."
+  content : "Over the years, we have actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India include Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventures, Wildlife, Culture and Youth travel , all of which have local history, culture, interactions and the environment as their centerpiece."
   # bullet point
   bullet_point:
     
@@ -126,7 +124,7 @@ mission:
 
 ##################################### Promo video ####################################
 promo_video:
-  enable : true
+  enable : false
 
   title : "Unique experiences, Authentic insights, Real adventures in the Other India"
   bg_image : "images/mow.jpg"

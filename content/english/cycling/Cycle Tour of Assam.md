@@ -1,5 +1,5 @@
 ---
-title: "Cycle tour of Assam: The Brahmaputra explorer | 7 to 15 days"
+title: "CYCLE TOUR OF ASSAM: The Brahmaputra explorer | 7 to 15 days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Cycle Tour of Assam takes you along the Brahmaputra valley, the physical heart of Northeast India."
 bg_image: images/background/cycling/Assam-Cycle-Tour.jpg

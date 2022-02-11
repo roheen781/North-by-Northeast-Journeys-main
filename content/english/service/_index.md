@@ -1,8 +1,8 @@
 ---
-title: "Active, Interactive and Authentic journeys across Northeastern India"
+title: "Active, Interactive and Authentic travels across Northeastern India"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/cycling.jpg
-description : "Active, Interactive and Authentic journeys across Northeastern India"
+description : "Adventure, culture and nature tours across Northeast India"
 ---
 
 ## Northeast India Tours

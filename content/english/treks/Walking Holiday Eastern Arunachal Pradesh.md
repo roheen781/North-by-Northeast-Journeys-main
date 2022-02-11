@@ -6,7 +6,7 @@ bg_image: images/background/treks/walks-in-eastern-arunachal-pradesh.jpg
 image : images/background/treks/Walking-tour-of-eastern-Arunachal-Pradesh.jpg
 live_demo : 
 case_study : 
-category: Easy to moderate
+category: Easy to Moderate
 Weight: 2
 
 # overview

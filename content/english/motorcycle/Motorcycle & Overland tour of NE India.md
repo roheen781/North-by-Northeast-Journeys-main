@@ -7,7 +7,7 @@ image : images/background/motorcycle/4 states northeast india motorcycle tour.jp
 live_demo : 
 case_study : 
 category: Strenous
-Weight: 5
+Weight: 3
 
 # overview
 overview:
