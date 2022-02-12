@@ -1,5 +1,5 @@
 ---
-title: "Cycle Tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra | 7 days "
+title: "EXPEDITION MEGHALAYA: Adventure, Culture, Nature | 7 days "
 date: 2018-09-24T14:48:03+06:00
 description : "This cycle tour takes you to eastern Arunachal Pradesh on a multiday cycling journey"
 bg_image: images/background/cycling/Eastern-Arunachal-cycle-tour.jpg
