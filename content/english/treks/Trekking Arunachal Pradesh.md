@@ -1,5 +1,5 @@
 ---
-title: "Trekking in Western Arunachal Pradesh: The high lakes trek"
+title: "TREKKING IN WESTERN ARUNACHAL PRADESH: The High Lakes Trail | 10 - 12 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "Trekking holiday in western Arunachal Pradesh. This high altitude trek takes you walking along the Bhutanese border between prestine high altitude lakes"
 bg_image: images/background/treks/trekking-in-western-arunachal-pradesh.jpg
@@ -128,19 +128,19 @@ We have a very experienced team which is also local. This reflects in the overal
 #### Other Treks & Walks
 ---
 
-###### *Meghalaya*
+###### Meghalaya
 
 + [Meghalaya (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
 
 ---
-###### *Arunachal Pradesh*
+###### Arunachal Pradesh
 
 + [Eastern Arunachal Pradesh (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
 + [Eastern Arunachal Pradesh (The Rainforest trek)](/treks/namdapha-rainforest-trek/)   
 
 
 ---
-###### *Sikkim & W Bengal*
+###### Sikkim & W Bengal
 
 + [Sikkim & W Bengal (Singalila & Barsey trek)](/treks/trekking-in-sikkim-bengal/)
 

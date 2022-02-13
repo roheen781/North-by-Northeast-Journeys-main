@@ -1,5 +1,5 @@
 ---
-title: "Cultural Tour of Eastern Arunachal Pradesh: Theravada & Animist lands | 6 to 12 days"
+title: "CULTURAL TOUR OF EASTERN ARUNACHAL PRADESH: Theravada & Animist lands | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "Cultural Tour of Eastern Arunachal Pradesh. Land of the Animist and Theravada tribes"
 bg_image: images/background/culture/Animist and Theravada country main.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Activity Holiday in Assam: Adventure, Wildlife & Culture | 6 to 12 days"
+title: "MULTI-ACTIVITY TOUR OF ASSAM: Adventure, Wildlife & Culture | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi-Activity holiday of Assam takes you to its reknowned, Tea plantations, Wildlife Sanctuaries, River Islands whicke cycling, hiking, rafting in prestine surroundings"
 bg_image: images/background/multiactivity/Multi-activity-tour-of-Assam.jpg

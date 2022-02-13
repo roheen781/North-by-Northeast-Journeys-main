@@ -1,5 +1,5 @@
 ---
-title: "Family Holiday in Eastern Arunachal Pradesh: India's far east"
+title: "FAMILY HOLIDAY IN EASTERN ARUNACHAL PRADESH: India's Far East | 6-10 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "Family holiday in Eastern Arunachal Pradesh. We take you to some of the easternmost regions of India. Wildlife, Adventure, Culture and more."
 bg_image: images/background/family/Eastern-Arunachal-Pradesh-family-holiday.jpg

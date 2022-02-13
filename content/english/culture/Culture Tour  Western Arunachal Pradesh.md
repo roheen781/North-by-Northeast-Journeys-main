@@ -1,5 +1,5 @@
 ---
-title: "Culture Tour of Arunachal Pradesh & Assam: Monyul & Brahmaputa Valley | 8 to 12 days "
+title: "CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM: Monyul & Brahmaputa Valley | 8 to 12 days "
 date: 2018-09-24T14:48:03+06:00
 description : "Culture tour of Western Arunachal Pradesh and Assam"
 bg_image: images/background/culture/Culture tour of Western Arunachal Pradesh and Assam main.jpg

@@ -1,5 +1,5 @@
 ---
-title: "CULTURE & WILDLIFE | Culture and wildlife holidays in Northeast India "
+title: "CULTURE & WILDLIFE | Culture and Wildlife Holidays in Northeast India "
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/culture/Culture tours of northeast india.jpg
 description : " Culture and wildlife tours of Northeast India."

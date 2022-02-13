@@ -1,5 +1,5 @@
 ---
-title: "Motorcycle & Overland Tour North East India: The Eastern Arc | 4 states"
+title: "MOTORCYCLE & OVERLAND TOUR OF NORTH EAST INDIA: The Eastern Arc | 14 - 17 days"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Northeast India. This motorcycle & Overland tour of Northeast India takes you across Assam, Nagaland, Meghalaya nad Arunachal Pradesh"
 bg_image: images/background/motorcycle/4 states northeast india motorcycle main.jpg
@@ -139,5 +139,3 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### [**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
 ###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/)  
-###### [**Assam & Arunachal Pradesh** (Around the Brahmaputra)](/motorcycle/motorcycle-overland-assam-arunachal-pradesh/)  
-###### [**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 

@@ -1,5 +1,5 @@
 ---
-title: "Wildlife Tour of Assam: Parks of the Brahmaputra Valley | 5 to 12 days "
+title: "WILDLIFE TOUR OF ASSAM: Parks of the Brahmaputra Valley | 5 to 12 days "
 date: 2018-09-24T14:48:03+06:00
 description : "The Wildlife tour of Assam takes you to some of the better wildlife sancturies of India. Kaziranga, Manas, Nameri, Dibrusaikhowa and Namdapha National Parks"
 bg_image: images/background/wildlife/assamwildlifetour main.jpg

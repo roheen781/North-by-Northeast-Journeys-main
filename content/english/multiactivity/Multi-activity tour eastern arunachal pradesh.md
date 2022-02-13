@@ -1,5 +1,5 @@
 ---
-title: "Multi-Activity tour of Eastern Arunachal Pradesh: Hike, Bike, Raft & Culture | 6 to 12 days"
+title: "MULTI-ACTIVITY TOUR OF EASTERN ARUNACHAL PRADESH: Hike, Bike, Raft & Culture | 6 to 12 days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi activity holiday of Eastern Arunachal Pradesh, takes you hiking, cycling, and rafting in the land of the 'Dawn lit Mountains'"
 bg_image: images/background/multiactivity/Multi-activity-tour-in-eastern-arunachal-pradesh.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Trekking in Sikkim & W Bengal: Singalila Ridge and the Barsey Rhododendron Sanctuary"
+title: "TREKKING IN SIKKIM & W BENGAL: The Rhododendron Trail | 7 - 12 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "A trek along the Indo-Nepalese border in the states of Sikkim and West Bengal.This trek takes you to the Singalila Ridge and Barsey Rhododendron Sanctuary"
 bg_image: images/background/treks/Goechalatrek.jpg
@@ -132,12 +132,12 @@ We have a very experienced team which is also local. This reflects in the overal
 #### Other Treks & Walks
 ---
 
-###### *Meghalaya*
+###### Meghalaya
 
 + [Meghalaya (Walks in the clouds)](/treks/walking-tour-meghalaya/) 
 
 ---
-###### *Arunachal Pradesh*
+###### Arunachal Pradesh
 
 + [Eastern Arunachal Pradesh (Walks in India's far east)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
 + [Eastern Arunachal Pradesh (The Rainforest trek)](/treks/namdapha-rainforest-trek/)

@@ -1,5 +1,5 @@
 ---
-title: "Trans-Meghalaya Motorcycle & Overland Tour: Backroads of Meghalaya"
+title: "TRANS-MEGHALAYA MOTORCYCLE & OVERLAND TOUR: Backroads of Meghalaya | 7 - 14 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Meghalaya. This Motorcycle and Overland tour takes you across the three Hills of Meghalaya, essentially covering the best of the state"
 bg_image: images/background/motorcycle/Trans meghalaya motorcycle tour main.jpg
@@ -143,7 +143,5 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ##### Other Motorcycle & Overland Tours
 
-[**Assam & Arunachal Pradesh** (Around the Brahmaputra)](/motorcycle/motorcycle-overland-assam-arunachal-pradesh/) 
-| [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/) | 
-[**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/) | 
-[**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 
+###### [**Western Arunachal Pradesh** (Highroads of the Monyul)](/motorcycle/motorcycle-overland-tour-western-arunachal-pradesh/) 
+###### [**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/)  

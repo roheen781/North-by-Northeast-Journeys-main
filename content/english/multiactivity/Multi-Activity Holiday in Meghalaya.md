@@ -1,5 +1,5 @@
 ---
-title: "Multi-activity holiday in Meghalaya: Hike, Cycle, Nature & Culture | 6 to 10 days"
+title: "MULTI-ACTIVITY TOUR OF MEGHALAYA: Hike, Cycle, Nature & Culture | 6 to 10 days"
 date: 2018-09-24T14:48:03+06:00
 description : "Multi activity holiday takes you to prestine Meghalaya, 'The Abode of Clouds', the tour includes cycling, hiking, swimming, culture and cuisine"
 bg_image: images/background/multiactivity/Multi-Activity-tour-of-Meghalaya.jpg

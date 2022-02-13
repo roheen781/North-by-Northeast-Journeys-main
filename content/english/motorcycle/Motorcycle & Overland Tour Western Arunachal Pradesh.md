@@ -1,5 +1,5 @@
 ---
-title: "Motorcycle & Overland Tour of Western Arunachal Pradesh: High roads of the Monyul"
+title: "MOTORCYCLE & OVERLAND TOUR OF WESTERN ARUNACHAL PRADESH: High roads of the Monyul | 8-12 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "Motorcycle & Overland Tour of Western Arunachal Pradesh. This tour takes you across the tea fields of Assam to the high roads of western Arunachal Pradesh"
 bg_image: images/background/motorcycle/Motorcycle tour of Western Arunachal Pradesh main.jpg
@@ -142,5 +142,5 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### [**Meghalaya** (Backroads of Meghalaya)](/motorcycle/trans-meghalaya-motorcycle-overland/) 
 ###### [**4 States NE India** (The Eastern Arc)](/motorcycle/motorcycle-overland-tour-of-ne-india/)  
-###### [**Assam & Arunachal Pradesh** (Around the Brahmaputra)](/motorcycle/motorcycle-overland-assam-arunachal-pradesh/)  
-###### [**Trans-Bhutan** (The Thunder Dragon)](/motorcycle/trans-bhutan-motorcycle-overland-tour/) 
+  
+ 
