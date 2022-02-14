@@ -3,7 +3,7 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/Adventure holidays in Northeast India.jpg
+    - bg_image : images/banner/north-by-northeast-journeys-Adventure holidays in Northeast India.jpg
       animation_from : left
       title : ACTIVE HOLIDAYS IN NORTHEAST INDIA
       subtitle : North by Northeast Journeys
@@ -16,7 +16,7 @@ slider:
         link : "service"
         
     # slider item loop
-    - bg_image : images/banner/Culture tours in Northeast India.jpg
+    - bg_image : images/banner/north-by-northeast-journeys-Culture tours in Northeast India.jpg
       animation_from : up
       subtitle : North by Northeast Journeys
       title : CULTURAL IMMERSIONS IN NORTHEAST INDIA

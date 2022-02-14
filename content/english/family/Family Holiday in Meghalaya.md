@@ -1,5 +1,5 @@
 ---
-title: "FAMILY ADVENTURE IN MEGHALAYA: Natures Amusement Park"
+title: "FAMILY ADVENTURE IN MEGHALAYA: Natures Amusement Park | 6 - 9 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "Family adventure holiday in Meghalaya. An active adventure holiday for the entire family in prestine Meghalaya"
 bg_image: images/background/family/Family-holiday-in-Meghalaya.jpg

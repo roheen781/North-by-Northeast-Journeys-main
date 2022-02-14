@@ -1,5 +1,5 @@
 ---
-title: "ASSAM FAMILY HOLIDAY: Jewels of the Brahmaputra "
+title: "ASSAM FAMILY HOLIDAY: Jewels of the Brahmaputra | 6 - 10 Days"
 date: 2018-09-24T14:48:03+06:00
 description : "This Family Holiday in Assam takes you across the best that the state has to offer. Wildlife, Adventure, Tea, Culture and more."
 bg_image: images/background/family/Assam-family-tour.jpg
