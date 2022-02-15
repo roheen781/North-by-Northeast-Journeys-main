@@ -1,5 +1,5 @@
 ---
-title: "Holidays in ArunachalPradesh : Land of the 'dawn lit mountains'"
+title: "HOLIDAYS IN ARUNACHAL PRADESH | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/states/arunachal pradesh main.jpg
 description : "Adventure, Culture & Experiential Tours in Arunachal Pradesh"

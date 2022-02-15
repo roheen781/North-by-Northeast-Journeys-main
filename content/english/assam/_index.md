@@ -1,8 +1,8 @@
 ---
-title: "Holidays in Assam | NORTH BY NORTHEAST JOURNEYS"
+title: "HOLIDAYS IN ASSAM | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/states/assam main.jpg
-description : "Adventure, Culture, Nature & Wildlife holidays in Assam. We offer a variety of tours in this region, from cycling, to wildlife, to culture and so on.."
+description : "Adventure, Culture, Nature & Wildlife holidays in Assam. We offer a variety of tours in Assam, from cycling, to wildlife, to culture and so on.."
 ---
 
 ## Holidays in Assam: The physical heart of Northeast India

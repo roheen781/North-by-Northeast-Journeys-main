@@ -1,8 +1,8 @@
 ---
-title: "MEGHALAYA"
+title: "HOLIDAYS IN MEGHALAYA | North by Northeast Journeys"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/states/meghalaya main.jpg
-description : "Adventure,Culture & Experiential Tours of Northeast India"
+description : "Adventure,Culture & Experiential Tours of Meghalaya"
 ---
 
 ## The abode of clouds
