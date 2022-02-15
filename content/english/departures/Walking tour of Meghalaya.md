@@ -1,8 +1,8 @@
 ---
-title: "Multi-Activity tour of Arunachal Pradesh: Hike, Cycle, Raft, Nature | 7 days "
+title: "WALKERS TOUR OF MEGHALAYA: Walks in the Clouds | 6 days "
 date: 2018-09-24T14:48:03+06:00
 description : "This Multi-Activity tour takes you to Eastern Arunachal Pradesh on a Cycling, Hiking, Rafting and Nature holiday"
-bg_image: images/background/departures/Multi-activity-tour-Arunachal-Pradesh-departure.jpg
+bg_image: images/background/departures/walkers-tour-meghalaya.jpg
 image : images/background/departures/walking tour of Meghalaya.jpg
 live_demo : 
 case_study : 
@@ -110,21 +110,17 @@ Starting from the rich valley of the Lohit we will move towards that of the Diba
 
 ###### TOUR IMAGES
 
-![Arunachal-Pradesh-Multi-activity-Tour-North-East-India](/images/background/departures/multi-activity-holiday-Arunachal-Pradesh-departure.jpg)
+![Walkers-tour-of-Meghalaya-North-East-India](/images/background/departures/walking-holiday-meghalaya-departure.jpg)
 
 
 
 ### FAQ
 
 
-##### Bikes
 
-**Scott 660 Aspect MTB / Trek 3700 -**
-Fork 80mm travel, Front Derailleur Shimano FD-TX50 / 34.9mm, Rear Derailleur Shimano Tourney RD-TX35 21 Speed (Upgraded), Shifters Shimano ST-EF 41 L / 7R EZ-ire plus (Upgraded), Brakeset Tektro SCM-02 mech. Disc 160F/160Rmm Rotor, Front Tyre 6 26×2.1 / 30TPI, Rear Tyre 6 26×2.1 / 30TPI, Weight 13.6 kg / 29.98 lbs
+##### Terrain
 
-##### Terrain & Road Conditions
-
-The terrain on this tour is totally hilly. Except for a few odd stretches the roads are generally excellent.
+100% hilly 
 
 ##### Backup
 Sturdy SUV’s or Mini-coaches and sturdier drivers will accompany you on every trip. These vehicles are along right from your airport pick up to your drop back to the airport.
@@ -134,14 +130,29 @@ Sturdy SUV’s or Mini-coaches and sturdier drivers will accompany you on every 
 No special permits required
 
 ##### Weather Pattern
-Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for cycling.
+Post monsoon months of September- October and pre monsoon months of March-April are very pleasant with blue skies and a fair days. Peak winters are from November to February with the mercury coming down below 10 C, in the evenings, however the days are still favourable for activities.
 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
 
 
+-
+#### Other Departures
 ---
-``` * Our Itineraries are quite unique hence we prefer not to put it up on the site. Please write in to us for the detailed itinerary and cost.```
+
+###### March
+
++ [Arunachal Pradesh | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
++ [Arunachal Pradesh | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
+
+---
+###### April
+
++ [Arunachal Pradesh | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/) 
+
+  
+
+---
 
 

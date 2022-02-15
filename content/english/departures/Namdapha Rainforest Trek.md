@@ -37,7 +37,7 @@ overview:
 
   - label : COST
     icon : ti-wallet
-    data : Please mail us for price & Itinerary
+    data : INR 37,500/ Twin share
 
 # type
 type : project
@@ -73,7 +73,7 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 ```
 > The northernmost lowland rainforest of the world
 > The only sanctury to host the 4 big cats
-> Away from civilization
+> Only Trek in the world with Elephant backup
 > Camp under the forest canopy and on the banks of pristine rivers
 > A naturalist to explain life under the canopy, the grasslands and the riverine areas
 > Spot the Hornbills and the Hollock Gibbons
@@ -90,16 +90,6 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 > FA Kit
 > Activities as mentioned
 > All permits, tolls and fees
-```
-
-###### Covid 19 Precautions
-```
-> Single occupany camping
-> 3 persons per vehicle for main transfers
-> No local contact or stoppages in towns and settlements
-> Follow all protcols of tourism ministry
-> Guides well sentisized to the requirements
-> All clients require a mandatory PCR test certificate no more than 72 before arrival
 ```
 
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
@@ -139,13 +129,13 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### March
 
-+ [Arunachal Pradesh | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
++ [**Arunachal Pradesh** | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
 
 ---
 ###### April
 
-+ [Meghalaya | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
-  
++ [**Meghalaya** | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
++ [**Arunachal Pradesh** | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/)  
 
 ---
 

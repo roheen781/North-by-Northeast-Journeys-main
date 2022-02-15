@@ -1,7 +1,7 @@
 ---
-title: "Cycle Tour of Eastern Arunachal Pradesh: Watershed of the Brahmaputra | 7 days "
+title: "CYCLE TOUR OF EASTERN ARUNACHAL PRADESH: Watershed of the Brahmaputra | 6 days "
 date: 2018-09-24T14:48:03+06:00
-description : "This cycle tour takes you to eastern Arunachal Pradesh on a multiday cycling journey"
+description : "This cycle tour takes you to eastern Arunachal Pradesh on a multiday cycling HOLIDAY"
 bg_image: images/background/cycling/Eastern-Arunachal-cycle-tour.jpg
 image : images/background/departures/Cycle Tour of Arunachal Pradesh.jpg
 live_demo : 
@@ -16,11 +16,11 @@ overview:
 
   - label : TOUR DATE
     icon : ti-shine
-    data : 13 - 19th March
+    data : 18 - 23 March' 2022
 
   - label : DURATION
     icon : ti-flag-alt
-    data : 7 days
+    data : 6 days
 
   - label : STATES
     icon : ti-world
@@ -40,7 +40,7 @@ overview:
 
   - label : COST
     icon : ti-wallet
-    data : INR 39,000 onwards
+    data : INR 39,000/ Twin share
 
   
 
@@ -63,10 +63,9 @@ Exciting experiences right from crossing some of the largest tributaries of the 
 ###### AT A GLANCE
 ```
 > Level: Easy to Moderate
-> Duration: 7 Days
+> Duration: 6 Days
 > Riding Days: 5
 > Total cycling distance: ~300 Km
-> Other Activities: Rafting, Pagoda visit, Picnic lunches, Camping
 > Terrain: 25% Hilly 
 > Altitude variation: 150 to 700 mts
 
@@ -96,11 +95,16 @@ Exciting experiences right from crossing some of the largest tributaries of the 
 > Activities as mentioned in the itinerary
 > All permits
 ```
-
+###### NOT INCLUDED
+```
+> Cycles : Charge for rental cycles INR 600 / day
+> Alcoholic Beverages
+> Personal expenses
+```
 ###### ACCOMMODATION AND MEALS ON THIS TOUR
 
 ```
- > Accommodation: Eco clodges & Camping
+ > Accommodation: Best Eco-lodges in the area
  > Meals: As much as possibly we try cover all the local cuisines
  > Refreshments & Water: High energy snacks and Water during activities  
 ```
@@ -140,12 +144,12 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### March
 
-+ [Arunachal Pradesh | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
++ [**Arunachal Pradesh** | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
 
 ---
 ###### April
 
-+ [Meghalaya | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
-  
++ [**Meghalaya** | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
++ [**Arunachal Pradesh** | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/) 
 
 ---

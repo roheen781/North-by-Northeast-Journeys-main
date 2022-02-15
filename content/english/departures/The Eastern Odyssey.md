@@ -1,8 +1,8 @@
 ---
-title: "THE EASTERN ODYSSEY: A Roadtrip to Eastern Arunachal Pradesh | 7 Days "
+title: "THE EASTERN ODYSSEY: A Roadtrip to Eastern Arunachal Pradesh | 6 Days "
 date: 2018-09-24T14:48:03+06:00
-description : "Trekking & Wildlife Expedition in Namdapha National Park of Eastern Arunachal Pradesh. A unique trek in the worlds northernmost rainforest"
-bg_image: images/background/departures/Namdapha-Rainforest-Trek-arunachal-pradesh.jpg
+description : "An adventure trip to the easternmost point of India."
+bg_image: images/background/departures/roadtrip-eastern-arunachal-pradesh.jpg
 image : images/background/departures/Arunachal-pradesh-road-trip.jpg
 live_demo : 
 case_study : 
@@ -112,17 +112,11 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 
 ###### TOUR IMAGES
 
-![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/treks/namdapha-trek-gallery.jpg)
+![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/departures/Roadtrip-to-Kibithu.jpg)
 
 
 ### FAQ
 
-##### Terrain 
-
-Undulating between 300 to 950 mts
-
-##### Backup
-On the trek we have elephant and porter backup.
 
 
 ##### Permits
@@ -139,12 +133,13 @@ We have a very experienced team which is also local. This reflects in the overal
 
 ###### March
 
-+ [Arunachal Pradesh | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
++ [**Arunachal Pradesh** | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
++ [**Arunachal Pradesh** | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
 
 ---
 ###### April
 
-+ [Meghalaya | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
++ [**Meghalaya** | Walking (Walks in the Clouds)](/treks/walking-holiday-eastern-arunachal-pradesh/) 
   
 
 ---
