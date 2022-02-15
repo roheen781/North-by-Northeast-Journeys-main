@@ -102,7 +102,7 @@ The entire proceedings has been designed with the pandemic in mind. Our intentio
 
 ###### TOUR IMAGES
 
-![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/treks/namdapha-trek-gallery.jpg)
+![Namdapha-Rainforest-trek-Arunachal-Pradesh](/images/background/departures/namdaphatrekgallery.jpg)
 
 
 ### FAQ
