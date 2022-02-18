@@ -37,7 +37,7 @@ overview:
 
   - label : COST
     icon : ti-wallet
-    data : INR 37,500/ Twin share
+    data : INR 39,000/ Twin share
 
 # type
 type : project
