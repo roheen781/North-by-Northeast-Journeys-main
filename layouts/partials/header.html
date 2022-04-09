@@ -19,7 +19,6 @@
         </div>
       </div>
     </div>
-  </div>
   {{ "<!-- nav bar -->" | safeHTML }}
   <div class="navigation">
     <div class="container">
@@ -60,7 +59,7 @@
 
           <!-- navigation button -->
           {{ "<!-- social icon -->" | safeHTML }}
-              <ul class="list-inline ">
+              <ul class="list-inline">
                 {{ range .Site.Params.social }}
                 <li class="list-inline-item">
                   <a class="social-icon-outline-dark" href="{{ .link | safeURL }}">
