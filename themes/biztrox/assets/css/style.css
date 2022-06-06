@@ -230,7 +230,7 @@ button {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 @media (max-width: 575px) {
@@ -347,7 +347,7 @@ button {
   background: #fff;
   border: 2px solid #e84444;
   box-shadow: 0 0 0 5px #fff;
-  bottom: -14px;
+  bottom: -13px;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
@@ -441,7 +441,7 @@ button {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 160px 0 100px;
+  padding: 170px 0 100px;
 }
 
 /* breadcrumb */
@@ -747,7 +747,7 @@ code{
 
 /* 2. Navigation */
 .top-header {
-  background: #303032;
+  background: #424547;
 }
 
 @media (max-width: 575px) {
@@ -757,12 +757,12 @@ code{
 }
 
 .top-header ul li {
-  margin: 15px 0;
+  margin: 6px 0;
 }
 
 @media (max-width: 575px) {
   .top-header ul li {
-    margin: 10px 0;
+    margin: 12px 0;
   }
 }
 
@@ -770,7 +770,7 @@ code{
   display: inline-block;
   padding: 0 20px;
   border-right: 1px solid #e5e5e5;
-  color: #bcbcbd;
+  color: #efeff6;
 }
 
 @media (max-width: 575px) {
@@ -780,7 +780,7 @@ code{
 }
 
 .top-header ul li a span {
-  color: #e84444;
+  color: #ffffff;
 }
 
 .top-header ul li:last-child a {
@@ -797,9 +797,9 @@ code{
 .navigation .navbar-brand {
   position: absolute;
   left: 0;
-  top: -52px;
-  height: 170px;
-  width: 220px;
+  top: -22px;
+  height: 150px;
+  width: 210px;
   background: #fff;
   text-align: center;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
@@ -1046,7 +1046,7 @@ code{
 
 /* 3. hero area */
 .hero-slider.slick-slider {
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
 
 .hero-slider [data-animation-in] {
@@ -1109,7 +1109,7 @@ code{
 }
 
 .hero-slider .slick-dots {
-  bottom: -81px;
+  bottom: -51px;
   padding-left: 0;
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
@@ -1117,7 +1117,7 @@ code{
 
 .hero-slider .slick-dots li {
   width: 295px;
-  height: 80px;
+  height: 60px;
   background: #fff;
   margin: 0;
   display: inline-block;
@@ -1129,7 +1129,7 @@ code{
 
 @media (max-width: 1199px) {
   .hero-slider .slick-dots li {
-    width: 230px;
+    width: 210px;
   }
 }
 
@@ -1155,10 +1155,10 @@ code{
   position: absolute;
   content: '';
   left: 50%;
-  top: -12px;
-  height: 25px;
-  width: 25px;
-  background: #303032;
+  top: -10px;
+  height: 20px;
+  width: 20px;
+  background: rgb(48, 48, 50);
   -webkit-transform: translateX(-50%) rotate(-45deg);
           transform: translateX(-50%) rotate(-45deg);
   opacity: 0;
