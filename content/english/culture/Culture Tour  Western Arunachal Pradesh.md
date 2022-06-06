@@ -1,5 +1,5 @@
 ---
-title: "CULTURE TOUR OF ARUNACHAL PRADESH & ASSAM: Monyul & Brahmaputa Valley | 8 to 12 days "
+title: "CULTURE TOUR OF WESTERN ARUNACHAL PRADESH & ASSAM: Monyul & Brahmaputa Valley | 8 to 12 days "
 date: 2018-09-24T14:48:03+06:00
 description : "Culture tour of Western Arunachal Pradesh and Assam"
 bg_image: images/background/culture/Culture tour of Western Arunachal Pradesh and Assam main.jpg
@@ -43,7 +43,7 @@ type : project
 
 ---
 
-This cultural odessy takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh. The first phase takes you to the periphery of Tawang where as the second stage brings us down to the lush plains of central Assam.In essence covering the Tibetian Buddhist and Vaishnavite areas.
+This cultural odyssey takes you from the sweltering plains of the Brahmaputra to the high mountains of Western Arunachal Pradesh. The first phase takes you to the periphery of Tawang where as the second stage brings us down to the lush plains of central Assam.In essence covering the Tibetian Buddhist and Vaishnavite areas.
 
 Tawang, the beautiful land of the people of Monpa Tribe, is located in the Western mostpart of the state Arunachal Pradesh bordering China and Bhutan. The district is entirely located amongst the mighty Himalayas and has a rugged terrain with deep valleys and altitude ranging between 3,500 to 6,900 mts. Its snow-capped peaks, pleasant lakes, congenial climate, friendly and hospitable people continue to entice the people who visit. This magical land evokes images of awesome mountain views, remote hamlets, quaint and sleepy villages, magical Gompas, tranquil lakes and mesmerizing mountains.
 

@@ -12,3 +12,5 @@ Sometimes the Seven Sisters of the Northeast (the states of Arunachal Pradesh, A
 The geography is as varied as the culture. While waterfalls thunder down Cherrapunjee's jungle escarpments, blizzards may be blocking the passes to Tawang, and one-horned rhinos go on grazing peacefully in Kaziranga's grasslands beside the mighty Brahmaputra.
 
 Northeast travel can be tough, with atrocious roads and long distances. But the destinations are always worth the effort and there'll be a warm welcome that awaits. You are indeed far from the beaten track: only the adventurous need apply. - According to **Lonely Planet**
+
+---
