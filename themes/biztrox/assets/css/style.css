@@ -19,8 +19,8 @@ p, .paragraph {
 }
 
 .hero-subtitle{
-  font-size:42px !important;
-  color: rgb(219, 66, 66) !important;
+  font-size:40px !important;
+  color: hwb(39 24% 9%) !important;
   font-weight: 650 !important;
 }
 
@@ -1109,7 +1109,7 @@ code{
 }
 
 .hero-slider .slick-dots {
-  bottom: -51px;
+  bottom: -60px;
   padding-left: 0;
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
@@ -1155,10 +1155,10 @@ code{
   position: absolute;
   content: '';
   left: 50%;
-  top: -10px;
+  top: -5px;
   height: 20px;
   width: 20px;
-  background: rgb(48, 48, 50);
+  background: hwb(0 16% 23%);
   -webkit-transform: translateX(-50%) rotate(-45deg);
           transform: translateX(-50%) rotate(-45deg);
   opacity: 0;
@@ -1169,7 +1169,7 @@ code{
   position: relative;
   text-align: center;
   transition: .3s ease;
-  color: #303032;
+  color: hwb(0 16% 23%);
 }
 
 .hero-slider .slick-dots li a i {
@@ -1194,7 +1194,7 @@ code{
 }
 
 .hero-slider .slick-dots li a span {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 80px;
 }
@@ -1212,7 +1212,7 @@ code{
 }
 
 .hero-slider .slick-dots li.slick-active {
-  background: #303032;
+  background: hwb(0 16% 23%);
 }
 
 .hero-slider .slick-dots li.slick-active a {
