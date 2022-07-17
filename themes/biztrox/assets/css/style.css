@@ -15,12 +15,12 @@ p, .paragraph {
   font-family: "Open Sans", sans-serif;
 }
 .hero-title {
-   font-size:35px !important;
+   font-size:38px !important;
 }
 
 .hero-subtitle{
-  font-size:40px !important;
-  color: hwb(39 24% 9%) !important;
+  font-size:32px !important;
+  color: hwb(0 100% 0%) !important;
   font-weight: 650 !important;
 }
 

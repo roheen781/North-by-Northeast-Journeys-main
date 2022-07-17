@@ -6,15 +6,15 @@ bg_image: images/background/departures/walkers-tour-meghalaya.jpg
 image : images/background/departures/walking tour of Meghalaya.jpg
 live_demo : 
 case_study : 
-category: April
-Weight: 3
+category: October
+Weight: 4
 
 # overview
 overview:
 
   - label : TOUR DATE
     icon : ti-shine
-    data : 10 - 15 April' 2022
+    data : 1 - 6 Oct' 2022
 
   - label : DURATION
     icon : ti-flag-alt

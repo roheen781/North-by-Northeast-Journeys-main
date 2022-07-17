@@ -6,8 +6,8 @@ bg_image: images/background/departures/Namdapha-Rainforest-Trek-arunachal-prades
 image : images/background/departures/Namdapha-Rainforest-trek.jpg
 live_demo : 
 case_study : 
-category: March
-Weight: 2
+category: December
+Weight: 7
 
 # overview
 overview:

@@ -93,7 +93,7 @@ h6, .h6 {
 }
 
 .btn-secondary:active {
-  background: #e84444 !important;
+  background: #c84141 !important;
 }
 
 .btn-secondary:hover {
@@ -180,7 +180,7 @@ a {
 }
 
 a:hover {
-  color: #e84444;
+  color: #bf5959;
 }
 
 a.text-dark:hover,

@@ -1,13 +1,13 @@
 ---
-title: "THE EASTERN ODYSSEY: A Roadtrip to Eastern Arunachal Pradesh | 6 Days "
+title: "THE EASTERN ODYSSEY: A Roadtrip to Eastern Arunachal Pradesh | 7 Days "
 date: 2018-09-24T14:48:03+06:00
 description : "An adventure trip to the easternmost point of India."
 bg_image: images/background/departures/roadtrip-eastern-arunachal-pradesh.jpg
 image : images/background/departures/Arunachal-pradesh-road-trip.jpg
 live_demo : 
 case_study : 
-category: April
-Weight: 4
+category: November
+Weight: 5
 
 # overview
 overview:
@@ -21,7 +21,7 @@ overview:
     
   - label : DURATION
     icon : ti-flag-alt
-    data : 6 days
+    data : 7 days
 
   - label : AIRPORT IN
     icon : ti-location-pin
@@ -33,7 +33,7 @@ overview:
     
   - label : Dates
     icon : ti-shine
-    data : 18 - 23, March 2022
+    data : 5 - 11 November 2022
 
   - label : COST
     icon : ti-wallet
@@ -43,24 +43,19 @@ overview:
 type : project
 ---
 
-#### A trek in the worlds northernmost lowland rainforest
+#### Chasing India's first sunrise
 
-This trekking holiday takes you to the Namdapha National Park located in eastern Arunachal Pradesh. Namdapha is one of the largest protected areas of Asia as well as the northernmost lowland evergreen rainforest of the world. We take you walking for 4 days through thick rain forest, grasslands and riverine areas of the national park.
-
-Perched between the East Himalayan and the Indo-Burmese Biodiversity hotspots Namdapha is home to over 1000 species of plants, 425 avian species and over 90 species of mammals. This is also the only wildlife park to host four big cats in India, namely the Royal Bengal Tiger, Spotted Leopard, Snow Leopard and the Clouded Leopard.
-
-The entire proceedings has been designed with the pandemic in mind. Our intention is to take you far from the hustle bustle of daily life and deep into inarguably the wildest region of India.
+We take you to far east of India, to the land of the ‘Dawn lit ‘Mountains’. Typically when one talks of Arunachal Pradesh, Tawang and Ziro valley automatically come up, rest is mostly unknown. Here we take you to the far east of Arunachal Pradesh bordering Tibet and Myanmar, infact to the point where the first rays of the sun hits India.
 
 
 
 ###### OVERVIEW
 ```
 > Level: Easy to Moderate
-> Total Days: 6
-> Walking days: 4
-> Avg. walking time: 5 - 6 hrs
-> Terrain: 80% undulating
-> Altitude variation: 300 to 950 mts
+> Total Days: 7
+> Walking days: 2
+> Terrain: 80% Hilly / Mountanous
+> Altitude variation: 50 to 1900 mts
 
 > Airport In: Dibrugarh (Assam)
 > Airport Out: Dibrugarh (Assam)

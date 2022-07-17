@@ -6,8 +6,8 @@ bg_image: images/background/cycling/Eastern-Arunachal-cycle-tour.jpg
 image : images/background/departures/Cycle Tour of Arunachal Pradesh.jpg
 live_demo : 
 case_study : 
-category: March
-Weight: 1
+category: January'23
+Weight: 8
 
 
 
