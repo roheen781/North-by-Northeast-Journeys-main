@@ -1,7 +1,7 @@
 ---
-title: "HORNBILL CYCLE EXPEDITION: Cycling to Kohima | 10 days "
+title: "HORNBILL CYCLE EXPEDITION: Shillong to Kohima | 10 days "
 date: 2018-09-24T14:48:03+06:00
-description : "Hornbill Cycle Expedition. A cycle tour starting from Shillong and ending in the hornbill festival at Kohima"
+description : "Hornbill Cycle Expedition 2022. A cycle tour starting from Shillong and ending in the hornbill festival at Kohima"
 bg_image: images/background/departures/Hornbill-Cycle-Expedition-2022.jpg
 image : images/background/departures/Hornbill-Cycle-Expedition-Nagaland.jpg
 live_demo : 
@@ -22,7 +22,7 @@ overview:
 
   - label : STATES
     icon : ti-world
-    data : Meghalaya
+    data : Meghalaya, Assam, Nagaland
 
   - label : LEVEL
     icon : ti-dashboard
@@ -67,7 +67,7 @@ Options of a hike to the beautiful Dzoukou Valley, visits to Angami villages aro
 > Duration: 10 Days
 > Riding Days: 6
 > Total cycling distance: ~350 Km
-> Terrain: 50% Hilly 
+> Terrain: 60% Hilly 
 > Altitude variation: 150 to 1900 mts
 
 > Airport in: Guwahati (Assam)
@@ -110,7 +110,7 @@ Options of a hike to the beautiful Dzoukou Valley, visits to Angami villages aro
 
 ###### TOUR IMAGES
 
-![Walking-tour-of-Meghalaya](/images/background/departures /Hornbill-festival-cycle-expedition-2022.jpg)
+![Walking-tour-of-Meghalaya](/images/background/departures/Hornbill-festival-cycle-expedition-2022.jpg)
 
 
 
@@ -120,7 +120,7 @@ Options of a hike to the beautiful Dzoukou Valley, visits to Angami villages aro
 
 ##### Terrain
 
-100% hilly 
+60% hilly 
 
 ##### Backup
 Sturdy SUV’s or Mini-coaches and sturdier drivers will accompany you on every trip. These vehicles are along right from your airport pick up to your drop back to the airport.
