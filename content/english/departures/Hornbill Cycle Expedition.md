@@ -135,15 +135,6 @@ Post monsoon months of September- October and pre monsoon months of March-April 
 ##### Safety 
 We have a very experienced team which is also local. This reflects in the overall safety of our tours. Rest assured your guides know where extra attention is required and when. All our routes are well known to us, we know where the nearest medical facilities are, we know whom to contact if in case of an emergency, we know all the alternate routes in case of road blockages. We have CASEVAC protocols in place to streamline the process in case of emergencies. You can rest easy knowing that in the outdoors in general and this region in particular you are in safe hands with us.
 
-#### Other Departures
----
-
-###### March
-
-+ [Arunachal Pradesh | Cycling (Watershed of the Brahmaputra)](/departures/eastern-arunachal-cycling-departure/) 
-+ [Arunachal Pradesh | Trekking (The Rainforest Trek)](/departures/namdapha-rainforest-trek/) 
 
 ---
-###### April
 
-+ [Arunachal Pradesh | Roadtrip (The Far Eastern Odyssey)](/departures/the-eastern-odyssey/) 
