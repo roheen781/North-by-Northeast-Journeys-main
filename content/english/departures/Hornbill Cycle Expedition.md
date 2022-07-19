@@ -2,7 +2,7 @@
 title: "HORNBILL CYCLE EXPEDITION: Cycling to Kohima | 10 days "
 date: 2018-09-24T14:48:03+06:00
 description : "Hornbill Cycle Expedition. A cycle tour starting from Shillong and ending in the hornbill festival at Kohima"
-bg_image: images/background/departures/Hornbill-Cycle-Expedition-Nagaland.jpg
+bg_image: images/background/departures/Hornbill-Cycle-Expedition-2022.jpg
 image : images/background/departures/Hornbill-Cycle-Expedition-Nagaland.jpg
 live_demo : 
 case_study : 
@@ -110,7 +110,7 @@ Options of a hike to the beautiful Dzoukou Valley, visits to Angami villages aro
 
 ###### TOUR IMAGES
 
-![Walking-tour-of-Meghalaya](/images/background/treks/hiking-tour-of-meghalaya.jpg)
+![Walking-tour-of-Meghalaya](/images/background/departures /Hornbill-festival-cycle-expedition-2022.jpg)
 
 
 
